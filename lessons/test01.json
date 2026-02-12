@@ -1,0 +1,439 @@
+{
+  "id": "test01",
+  "name": "Test",
+  "version": 1,
+  "lessons": [
+    {
+      "id": "gra1",
+      "meta": ["⏱ 3 min"],
+      "level": "Beginner",
+      "icon": "microscope",
+      "title": "Expressing Purpose: ~러 가요 / 와요",
+      "description": "",
+      "explanation": [
+        "Use <b><hl>~러 가요 / 와요</hl></b> to express going or coming somewhere in order to do something. Attach <b>~러</b> to a verb stem, followed by a motion verb like <b>가다</b> (to go) or <b>오다</b> (to come)."
+      ],
+      "takeaway": "This pattern shows purpose with movement verbs.",
+      "examples": [
+        {
+          "kr": "도서관에 공부하러 갔어요.",
+          "translated": "I went to the library to study."
+        },
+        {
+          "kr": "친구를 만나<b><hl>러 와요.</hl></b>",
+          "translated": "I'm coming to meet a friend."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra1_pr1",
+          "type": "fill",
+          "prompt": "I went to the park to exercise",
+          "answer": "운동하러 공원에 갔어요"
+        },
+        {
+          "id": "gra1_pr2",
+          "type": "fill",
+          "prompt": "She came to study Korean",
+          "answer": "한국어 공부하러 왔어요"
+        }
+      ]
+    },
+    {
+      "id": "gra2",
+      "meta": ["⏱ 3 min"],
+      "level": "Beginner",
+      "icon": "notebook-text",
+      "title": "~고 있어요",
+      "description": "",
+      "explanation": [
+        "Use <b><hl>~고 있어요</hl></b> to describe actions happening right now (present progressive). It is formed by attaching <b>~고 있어요</b> to the verb stem."
+      ],
+      "takeaway": "Use this for actions currently in progress.",
+      "examples": [
+        {
+          "kr": "저는 책을 읽고 있어요.",
+          "translated": "I am reading a book."
+        },
+        {
+          "kr": "지금 비가 오<b><hl>고 있어요.</hl></b>",
+          "translated": "It is raining now."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra2_pr1",
+          "type": "fill",
+          "prompt": "I am eating",
+          "answer": "먹고 있어요"
+        },
+        {
+          "id": "gra2_pr2",
+          "type": "fill",
+          "prompt": "She is studying Korean",
+          "answer": "한국어를 공부하고 있어요"
+        }
+      ]
+    },
+    {
+      "id": "gra3",
+      "meta": ["⏱ 4 min"],
+      "level": "Beginner",
+      "icon": "book-open",
+      "title": "~이에요 / ~예요",
+      "description": "",
+      "explanation": [
+        "Use <b><hl>~이에요 / ~예요</hl></b> to say \"to be\" in present tense. <br><br>Use <b>~이에요</b> after consonants and <b>~예요</b> after vowels."
+      ],
+      "takeaway": "This is the basic Korean sentence ending.",
+      "examples": [
+        {
+          "kr": "저는 학생이에요.",
+          "translated": "I am a student."
+        },
+        {
+          "kr": "이것은 책<b><hl>이에요.</hl></b>",
+          "translated": "This is a book."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra3_pr1",
+          "type": "fill",
+          "prompt": "I am a teacher",
+          "answer": "저는 선생님이에요"
+        },
+        {
+          "id": "gra3_pr2",
+          "type": "fill",
+          "prompt": "This is water",
+          "answer": "이것은 물이에요"
+        }
+      ]
+    },
+    {
+      "id": "gra4",
+      "meta": ["⏱ 3 min"],
+      "level": "Beginner",
+      "icon": "message-circle",
+      "title": "~아요 / ~어요",
+      "description": "",
+      "explanation": [
+        "Use <b><hl>~아요 / ~어요</hl></b> for present tense polite verbs. <br><br>Choose <b>~아요</b> if the last vowel is ㅏ or ㅗ. Otherwise use <b>~어요</b>."
+      ],
+      "takeaway": "This is the most common polite verb ending.",
+      "examples": [
+        {
+          "kr": "밥을 먹어요.",
+          "translated": "I eat rice."
+        },
+        {
+          "kr": "물을 마시<b><hl>어요.</hl></b>",
+          "translated": "I drink water."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra4_pr1",
+          "type": "fill",
+          "prompt": "I read a book",
+          "answer": "책을 읽어요"
+        },
+        {
+          "id": "gra4_pr2",
+          "type": "fill",
+          "prompt": "I watch TV",
+          "answer": "TV를 봐요"
+        }
+      ]
+    },
+    {
+      "id": "gra5",
+      "meta": ["⏱ 3 min"],
+      "level": "Beginner",
+      "icon": "help-circle",
+      "title": "~까요?",
+      "description": "",
+      "explanation": [
+        "Use <b><hl>~까요?</hl></b> to suggest something or ask someone's opinion. It can mean \"Shall we...?\" or \"Do you think...?\" depending on context."
+      ],
+      "takeaway": "Useful for making suggestions politely.",
+      "examples": [
+        {
+          "kr": "같이 갈까요?",
+          "translated": "Shall we go together?"
+        },
+        {
+          "kr": "지금 시작할<b><hl>까요?</hl></b>",
+          "translated": "Shall we start now?"
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra5_pr1",
+          "type": "fill",
+          "prompt": "Shall we eat?",
+          "answer": "먹을까요"
+        },
+        {
+          "id": "gra5_pr2",
+          "type": "fill",
+          "prompt": "Shall we study?",
+          "answer": "공부할까요"
+        }
+      ]
+    },
+    {
+      "id": "gra6",
+      "meta": ["⏱ 5 min"],
+      "level": "Beginner",
+      "icon": "link",
+      "title": "~고",
+      "description": "",
+      "explanation": [
+        "Use <b><hl>~고</hl></b> to connect verbs or adjectives meaning \"and.\" It links actions or descriptions in sequence."
+      ],
+      "takeaway": "This is the simplest way to combine sentences.",
+      "examples": [
+        {
+          "kr": "밥을 먹고 공부해요.",
+          "translated": "I eat and study."
+        },
+        {
+          "kr": "크<b><hl>고</hl></b> 예뻐요.",
+          "translated": "It's big and pretty."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra6_pr1",
+          "type": "fill",
+          "prompt": "I eat and sleep",
+          "answer": "먹고 자요"
+        },
+        {
+          "id": "gra6_pr2",
+          "type": "fill",
+          "prompt": "It's small and cute",
+          "answer": "작고 귀여워요"
+        }
+      ]
+    },
+    {
+      "id": "gra7",
+      "meta": ["⏱ 4 min"],
+      "level": "Beginner",
+      "icon": "map",
+      "title": "~에 가요",
+      "description": "",
+      "explanation": [
+        "Use <b><hl>~에 가요</hl></b> to express going to a destination. The particle <b>에</b> marks the location you are going to."
+      ],
+      "takeaway": "Essential structure for talking about movement.",
+      "examples": [
+        {
+          "kr": "학교에 가요.",
+          "translated": "I go to school."
+        },
+        {
+          "kr": "집<b><hl>에 가요.</hl></b>",
+          "translated": "I go home."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra7_pr1",
+          "type": "fill",
+          "prompt": "I go to the store",
+          "answer": "가게에 가요"
+        },
+        {
+          "id": "gra7_pr2",
+          "type": "fill",
+          "prompt": "I go to the library",
+          "answer": "도서관에 가요"
+        }
+      ]
+    },
+    {
+      "id": "gra8",
+      "meta": ["⏱ 4 min"],
+      "level": "Beginner",
+      "icon": "clock",
+      "title": "~았어요 / ~었어요",
+      "description": "",
+      "explanation": [
+        "Use <b><hl>~았어요 / ~었어요</hl></b> to express past tense in polite form. <br><br>Use <b>~았어요</b> if the last vowel is ㅏ or ㅗ. Otherwise use <b>~었어요</b>."
+      ],
+      "takeaway": "This is the basic past tense pattern.",
+      "examples": [
+        {
+          "kr": "밥을 먹었어요.",
+          "translated": "I ate."
+        },
+        {
+          "kr": "영화를 봤<b><hl>어요.</hl></b>",
+          "translated": "I watched a movie."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra8_pr1",
+          "type": "fill",
+          "prompt": "I studied",
+          "answer": "공부했어요"
+        },
+        {
+          "id": "gra8_pr2",
+          "type": "fill",
+          "prompt": "I went",
+          "answer": "갔어요"
+        }
+      ]
+    },
+    {
+      "id": "gra9",
+      "meta": ["⏱ 3 min"],
+      "level": "Beginner",
+      "icon": "x-circle",
+      "title": "~안",
+      "description": "",
+      "explanation": [
+        "Use <b><hl>안</hl></b> before verbs and adjectives to make negatives. It means \"not.\""
+      ],
+      "takeaway": "The simplest way to negate a sentence.",
+      "examples": [
+        {
+          "kr": "저는 학교에 안 가요.",
+          "translated": "I don't go to school."
+        },
+        {
+          "kr": "오늘은 춥<b><hl>지 않아요.</hl></b>",
+          "translated": "It's not cold today."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra9_pr1",
+          "type": "fill",
+          "prompt": "I don't eat",
+          "answer": "안 먹어요"
+        },
+        {
+          "id": "gra9_pr2",
+          "type": "fill",
+          "prompt": "I don't sleep",
+          "answer": "안 자요"
+        }
+      ]
+    },
+    {
+      "id": "gra10",
+      "meta": ["⏱ 5 min"],
+      "level": "Beginner",
+      "icon": "users",
+      "title": "~하고",
+      "description": "",
+      "explanation": [
+        "Use <b><hl>~하고</hl></b> to mean \"and\" when listing nouns. It connects people or things."
+      ],
+      "takeaway": "Used for noun lists, not verbs.",
+      "examples": [
+        {
+          "kr": "엄마하고 아빠가 왔어요.",
+          "translated": "Mom and dad came."
+        },
+        {
+          "kr": "책<b><hl>하고</hl></b> 연필이 있어요.",
+          "translated": "I have a book and a pencil."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra10_pr1",
+          "type": "fill",
+          "prompt": "Coffee and bread",
+          "answer": "커피하고 빵"
+        },
+        {
+          "id": "gra10_pr2",
+          "type": "fill",
+          "prompt": "Friend and teacher",
+          "answer": "친구하고 선생님"
+        }
+      ]
+    },
+    {
+      "id": "gra11",
+      "meta": ["⏱ 4 min"],
+      "level": "Beginner",
+      "icon": "map-pin",
+      "title": "~에서",
+      "description": "",
+      "explanation": [
+        "Use <b><hl>~에서</hl></b> to mark the place where an action happens. It corresponds to \"at\" or \"in\" in English."
+      ],
+      "takeaway": "Used with action verbs to show location.",
+      "examples": [
+        {
+          "kr": "학교에서 공부해요.",
+          "translated": "I study at school."
+        },
+        {
+          "kr": "집<b><hl>에서</hl></b> 쉬어요.",
+          "translated": "I rest at home."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra11_pr1",
+          "type": "fill",
+          "prompt": "I eat at home",
+          "answer": "집에서 먹어요"
+        },
+        {
+          "id": "gra11_pr2",
+          "type": "fill",
+          "prompt": "I work at a cafe",
+          "answer": "카페에서 일해요"
+        }
+      ]
+    },
+    {
+      "id": "gra12",
+      "meta": ["⏱ 3 min"],
+      "level": "Beginner",
+      "icon": "help-circle",
+      "title": "~뭐예요?",
+      "description": "",
+      "explanation": [
+        "Use <b><hl>뭐예요?</hl></b> to ask \"What is it?\" or \"What is this?\" It combines <b>뭐</b> (what) + <b>예요</b> (to be polite form)."
+      ],
+      "takeaway": "Essential question phrase for beginners.",
+      "examples": [
+        {
+          "kr": "이거 뭐예요?",
+          "translated": "What is this?"
+        },
+        {
+          "kr": "저건 뭐<b><hl>예요?</hl></b>",
+          "translated": "What is that?"
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra12_pr1",
+          "type": "fill",
+          "prompt": "What is this?",
+          "answer": "이거 뭐예요"
+        },
+        {
+          "id": "gra12_pr2",
+          "type": "fill",
+          "prompt": "What is that?",
+          "answer": "저거 뭐예요"
+        }
+      ]
+    }
+  ]
+}
