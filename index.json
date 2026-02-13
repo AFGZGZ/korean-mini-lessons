@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "packs": [
     {
       "id": "test01",
@@ -8,7 +8,7 @@
       "level": "beginner",
       "icon": "baby",
       "size": 12,
-      "version": 4
+      "version": 5
     },
     {
       "id": "test02",
