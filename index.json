@@ -1,7 +1,23 @@
 {
-  "version": 1,
+  "version": 2,
   "packs": [
-    { "id": "test01", "title": "Test 1", "size": 12, "version": 1 },
-    { "id": "test02", "title": "Test 2", "size": 10, "version": 1 }
+    {
+      "id": "test01",
+      "title": "Test 1: test like there is no tomorrow",
+      "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "level": "beginner",
+      "icon": "baby",
+      "size": 12,
+      "version": 1
+    },
+    {
+      "id": "test02",
+      "title": "Test 2: testing harder",
+      "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "level": "intermediate",
+      "icon": "banana",
+      "size": 10,
+      "version": 1
+    }
   ]
 }
