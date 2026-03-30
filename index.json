@@ -3,21 +3,21 @@
   "packs": [
     {
       "id": "test01",
-      "title": "Test 1: test like there is no tomorrow",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "title": "Korean Basics 1: Core Grammar Foundations",
+      "description": "Build a strong foundation in Korean by learning essential grammar patterns like \"to be,\" present tense, location particles, sentence connectors, and basic expressions. This unit will help you form simple, natural sentences with confidence.",
       "level": "beginner",
       "icon": "baby",
       "size": 12,
-      "version": 5
+      "version": 6
     },
     {
       "id": "test02",
-      "title": "Test 2: testing harder",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "level": "intermediate",
+      "title": "Korean Basics 2: Expanding Expression",
+      "description": "Take your Korean to the next level by learning how to express wants, future plans, reasons, contrasts, and polite commands. This unit helps you build more natural and flexible sentences for everyday conversations.",
+      "level": "beginner",
       "icon": "banana",
-      "size": 10,
-      "version": 1
+      "size": 11,
+      "version": 2
     }
   ]
 }

@@ -1,332 +1,387 @@
 {
   "id": "test02",
-  "name": "Test 2",
-  "version": 1,
+  "name": "Korean Basics 2",
+  "version": 2,
   "lessons": [
     {
-      "id": "less1",
-      "meta": ["⏱ 3 min"],
+      "id": "gra13",
+      "meta": ["4 min"],
       "level": "Beginner",
-      "icon": "check",
-      "title": "~이/가 있어요",
-      "description": "",
-      "explanation": [
-        "Use <b><hl>~이/가 있어요</hl></b> to say something exists or you have something. Use <b>이</b> after consonants and <b>가</b> after vowels."
-      ],
-      "takeaway": "Used for existence and possession.",
-      "examples": [
-        { "kr": "책이 있어요.", "translated": "There is a book." },
-        { "kr": "시간<b><hl>이 있어요.</hl></b>", "translated": "I have time." }
-      ],
-      "practice": [
-        {
-          "id": "less1_pr1",
-          "type": "fill",
-          "prompt": "I have money",
-          "answer": "돈이 있어요"
-        },
-        {
-          "id": "less1_pr2",
-          "type": "fill",
-          "prompt": "There is a dog",
-          "answer": "개가 있어요"
-        }
-      ]
-    },
-    {
-      "id": "less2",
-      "meta": ["⏱ 3 min"],
-      "level": "Beginner",
-      "icon": "x",
-      "title": "~이/가 없어요",
-      "description": "",
-      "explanation": [
-        "Use <b><hl>~이/가 없어요</hl></b> to say something does not exist or you don't have something."
-      ],
-      "takeaway": "Negative form of 있어요.",
-      "examples": [
-        { "kr": "물이 없어요.", "translated": "There is no water." },
-        {
-          "kr": "친구<b><hl>가 없어요.</hl></b>",
-          "translated": "I don't have friends."
-        }
-      ],
-      "practice": [
-        {
-          "id": "less2_pr1",
-          "type": "fill",
-          "prompt": "I don't have time",
-          "answer": "시간이 없어요"
-        },
-        {
-          "id": "less2_pr2",
-          "type": "fill",
-          "prompt": "There is no food",
-          "answer": "음식이 없어요"
-        }
-      ]
-    },
-    {
-      "id": "less3",
-      "meta": ["⏱ 4 min"],
-      "level": "Beginner",
-      "icon": "arrow-right",
-      "title": "~을/를",
-      "description": "",
-      "explanation": [
-        "Use <b><hl>~을/를</hl></b> to mark the object of a sentence. Use <b>을</b> after consonants and <b>를</b> after vowels."
-      ],
-      "takeaway": "Marks what receives the action.",
-      "examples": [
-        { "kr": "사과를 먹어요.", "translated": "I eat an apple." },
-        { "kr": "책<b><hl>을 읽어요.</hl></b>", "translated": "I read a book." }
-      ],
-      "practice": [
-        {
-          "id": "less3_pr1",
-          "type": "fill",
-          "prompt": "I watch a movie",
-          "answer": "영화를 봐요"
-        },
-        {
-          "id": "less3_pr2",
-          "type": "fill",
-          "prompt": "I drink coffee",
-          "answer": "커피를 마셔요"
-        }
-      ]
-    },
-    {
-      "id": "less4",
-      "meta": ["⏱ 4 min"],
-      "level": "Beginner",
-      "icon": "user",
-      "title": "~은/는",
-      "description": "",
-      "explanation": [
-        "Use <b><hl>~은/는</hl></b> as a topic marker. It shows what the sentence is about. Use <b>은</b> after consonants and <b>는</b> after vowels."
-      ],
-      "takeaway": "Marks the topic of conversation.",
-      "examples": [
-        { "kr": "저는 학생이에요.", "translated": "As for me, I'm a student." },
-        {
-          "kr": "오늘<b><hl>은</hl></b> 더워요.",
-          "translated": "Today is hot."
-        }
-      ],
-      "practice": [
-        {
-          "id": "less4_pr1",
-          "type": "fill",
-          "prompt": "As for me, I eat",
-          "answer": "저는 먹어요"
-        },
-        {
-          "id": "less4_pr2",
-          "type": "fill",
-          "prompt": "Today is cold",
-          "answer": "오늘은 추워요"
-        }
-      ]
-    },
-    {
-      "id": "less5",
-      "meta": ["⏱ 5 min"],
-      "level": "Beginner",
-      "icon": "calendar",
-      "title": "~에 (time)",
-      "description": "",
-      "explanation": [
-        "Use <b><hl>~에</hl></b> to mark time when something happens."
-      ],
-      "takeaway": "Marks specific time expressions.",
-      "examples": [
-        { "kr": "세 시에 만나요.", "translated": "Let's meet at 3." },
-        {
-          "kr": "아침<b><hl>에 운동해요.</hl></b>",
-          "translated": "I exercise in the morning."
-        }
-      ],
-      "practice": [
-        {
-          "id": "less5_pr1",
-          "type": "fill",
-          "prompt": "I sleep at 11",
-          "answer": "열한 시에 자요"
-        },
-        {
-          "id": "less5_pr2",
-          "type": "fill",
-          "prompt": "I study at night",
-          "answer": "밤에 공부해요"
-        }
-      ]
-    },
-    {
-      "id": "less6",
-      "meta": ["⏱ 3 min"],
-      "level": "Beginner",
-      "icon": "help-circle",
-      "title": "~도",
-      "description": "",
-      "explanation": [
-        "Use <b><hl>~도</hl></b> to mean \"also\" or \"too.\" Replace topic or subject particles with it."
-      ],
-      "takeaway": "Adds inclusion meaning.",
-      "examples": [
-        { "kr": "저도 가요.", "translated": "I go too." },
-        {
-          "kr": "친구<b><hl>도 와요.</hl></b>",
-          "translated": "My friend comes too."
-        }
-      ],
-      "practice": [
-        {
-          "id": "less6_pr1",
-          "type": "fill",
-          "prompt": "I also eat",
-          "answer": "저도 먹어요"
-        },
-        {
-          "id": "less6_pr2",
-          "type": "fill",
-          "prompt": "Teacher also studies",
-          "answer": "선생님도 공부해요"
-        }
-      ]
-    },
-    {
-      "id": "less7",
-      "meta": ["⏱ 4 min"],
-      "level": "Beginner",
-      "icon": "map",
-      "title": "~에서 ~까지",
-      "description": "",
-      "explanation": [
-        "Use <b><hl>~에서 ~까지</hl></b> to mean \"from ~ to ~\" for places or time."
-      ],
-      "takeaway": "Shows range or span.",
-      "examples": [
-        {
-          "kr": "집에서 학교까지 걸어요.",
-          "translated": "I walk from home to school."
-        },
-        {
-          "kr": "아홉 시<b><hl>에서</hl></b> 열 시까지 공부해요.",
-          "translated": "I study from 9 to 10."
-        }
-      ],
-      "practice": [
-        {
-          "id": "less7_pr1",
-          "type": "fill",
-          "prompt": "From Monday to Friday",
-          "answer": "월요일에서 금요일까지"
-        },
-        {
-          "id": "less7_pr2",
-          "type": "fill",
-          "prompt": "From morning to night",
-          "answer": "아침에서 밤까지"
-        }
-      ]
-    },
-    {
-      "id": "less8",
-      "meta": ["⏱ 4 min"],
-      "level": "Beginner",
-      "icon": "smile",
+      "icon": "heart",
       "title": "~고 싶어요",
-      "description": "",
+      "description": "How to express what you want to do.",
       "explanation": [
-        "Use <b><hl>~고 싶어요</hl></b> to say you want to do something. Attach it to a verb stem."
+        "Use <b><hl>~고 싶어요</hl></b> to say \"want to do something.\""
       ],
-      "takeaway": "Expresses desire.",
+      "takeaway": "Express desires.",
       "examples": [
-        { "kr": "한국에 가고 싶어요.", "translated": "I want to go to Korea." },
         {
-          "kr": "밥을 먹<b><hl>고 싶어요.</hl></b>",
+          "kr": "한국어를 배우고 싶어요.",
+          "translated": "I want to learn Korean."
+        },
+        {
+          "kr": "밥을 먹고 싶어요.",
           "translated": "I want to eat."
         }
       ],
       "practice": [
         {
-          "id": "less8_pr1",
+          "id": "gra13_pr1",
           "type": "fill",
-          "prompt": "I want to sleep",
-          "answer": "자고 싶어요"
+          "prompt": "I want to go",
+          "answer": "가고 싶어요"
         },
         {
-          "id": "less8_pr2",
+          "id": "gra13_pr2",
           "type": "fill",
-          "prompt": "I want to learn Korean",
-          "answer": "한국어를 배우고 싶어요"
+          "prompt": "I want to study",
+          "answer": "공부하고 싶어요"
         }
       ]
     },
     {
-      "id": "less9",
-      "meta": ["⏱ 5 min"],
+      "id": "gra14",
+      "meta": ["4 min"],
       "level": "Beginner",
-      "icon": "alert-circle",
-      "title": "~지 마세요",
-      "description": "",
+      "icon": "clock",
+      "title": "~(으)ㄹ 거예요",
+      "description": "How to talk about the future.",
       "explanation": [
-        "Use <b><hl>~지 마세요</hl></b> to tell someone not to do something politely."
+        "Use <b><hl>~(으)ㄹ 거예요</hl></b> to express future plans."
       ],
-      "takeaway": "Polite negative command.",
+      "takeaway": "Future tense expression.",
       "examples": [
-        { "kr": "걱정하지 마세요.", "translated": "Don't worry." },
         {
-          "kr": "여기서 사진 찍<b><hl>지 마세요.</hl></b>",
-          "translated": "Don't take pictures here."
+          "kr": "내일 공부할 거예요.",
+          "translated": "I will study tomorrow."
+        },
+        {
+          "kr": "영화를 볼 거예요.",
+          "translated": "I will watch a movie."
         }
       ],
       "practice": [
         {
-          "id": "less9_pr1",
+          "id": "gra14_pr1",
           "type": "fill",
-          "prompt": "Don't go",
-          "answer": "가지 마세요"
+          "prompt": "I will go",
+          "answer": "갈 거예요"
         },
         {
-          "id": "less9_pr2",
+          "id": "gra14_pr2",
           "type": "fill",
-          "prompt": "Don't eat",
-          "answer": "먹지 마세요"
+          "prompt": "I will eat",
+          "answer": "먹을 거예요"
         }
       ]
     },
     {
-      "id": "less10",
-      "meta": ["⏱ 4 min"],
+      "id": "gra15",
+      "meta": ["4 min"],
       "level": "Beginner",
-      "icon": "message-square",
-      "title": "~네요",
-      "description": "",
-      "explanation": [
-        "Use <b><hl>~네요</hl></b> to express surprise or realization. It often means \"I see\" or \"Oh.\""
-      ],
-      "takeaway": "Shows reaction or discovery.",
+      "icon": "x-circle",
+      "title": "~지 않아요",
+      "description": "A more formal way to negate sentences.",
+      "explanation": ["Use <b><hl>~지 않아요</hl></b> to say \"do not.\""],
+      "takeaway": "Formal negation form.",
       "examples": [
-        { "kr": "날씨가 좋네요.", "translated": "Oh, the weather is nice." },
         {
-          "kr": "한국어를 잘하<b><hl>네요!</hl></b>",
-          "translated": "Wow, you're good at Korean!"
+          "kr": "밥을 먹지 않아요.",
+          "translated": "I do not eat."
+        },
+        {
+          "kr": "학교에 가지 않아요.",
+          "translated": "I do not go to school."
         }
       ],
       "practice": [
         {
-          "id": "less10_pr1",
+          "id": "gra15_pr1",
           "type": "fill",
-          "prompt": "Oh, it's big",
-          "answer": "크네요"
+          "prompt": "I do not study",
+          "answer": "공부하지 않아요"
         },
         {
-          "id": "less10_pr2",
+          "id": "gra15_pr2",
           "type": "fill",
-          "prompt": "Oh, it's delicious",
-          "answer": "맛있네요"
+          "prompt": "I do not go",
+          "answer": "가지 않아요"
+        }
+      ]
+    },
+    {
+      "id": "gra16",
+      "meta": ["3 min"],
+      "level": "Beginner",
+      "icon": "plus",
+      "title": "~도",
+      "description": "How to say \"also\" or \"too.\"",
+      "explanation": ["Use <b><hl>~도</hl></b> to mean \"also.\""],
+      "takeaway": "Adds inclusion.",
+      "examples": [
+        {
+          "kr": "저도 가요.",
+          "translated": "I also go."
+        },
+        {
+          "kr": "물도 마셔요.",
+          "translated": "I also drink water."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra16_pr1",
+          "type": "fill",
+          "prompt": "I also eat",
+          "answer": "저도 먹어요"
+        },
+        {
+          "id": "gra16_pr2",
+          "type": "fill",
+          "prompt": "I also study",
+          "answer": "저도 공부해요"
+        }
+      ]
+    },
+    {
+      "id": "gra17",
+      "meta": ["3 min"],
+      "level": "Beginner",
+      "icon": "minus",
+      "title": "~만",
+      "description": "How to say \"only.\"",
+      "explanation": ["Use <b><hl>~만</hl></b> to mean \"only.\""],
+      "takeaway": "Limits meaning.",
+      "examples": [
+        {
+          "kr": "물만 마셔요.",
+          "translated": "I only drink water."
+        },
+        {
+          "kr": "저만 가요.",
+          "translated": "Only I go."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra17_pr1",
+          "type": "fill",
+          "prompt": "I only eat",
+          "answer": "저만 먹어요"
+        },
+        {
+          "id": "gra17_pr2",
+          "type": "fill",
+          "prompt": "I only study",
+          "answer": "저만 공부해요"
+        }
+      ]
+    },
+    {
+      "id": "gra18",
+      "meta": ["4 min"],
+      "level": "Beginner",
+      "icon": "arrow-right",
+      "title": "~에서 ~까지",
+      "description": "How to express ranges.",
+      "explanation": ["Use <b><hl>~에서 ~까지</hl></b> to mean \"from ~ to.\""],
+      "takeaway": "Express time/place range.",
+      "examples": [
+        {
+          "kr": "집에서 학교까지 가요.",
+          "translated": "I go from home to school."
+        },
+        {
+          "kr": "아침에서 저녁까지 공부해요.",
+          "translated": "I study from morning to evening."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra18_pr1",
+          "type": "fill",
+          "prompt": "From home to the park",
+          "answer": "집에서 공원까지"
+        },
+        {
+          "id": "gra18_pr2",
+          "type": "fill",
+          "prompt": "From school to home",
+          "answer": "학교에서 집까지"
+        }
+      ]
+    },
+    {
+      "id": "gra19",
+      "meta": ["5 min"],
+      "level": "Beginner",
+      "icon": "link",
+      "title": "~아/어서",
+      "description": "How to connect reasons.",
+      "explanation": [
+        "Use <b><hl>~아/어서</hl></b> to mean \"so\" or \"because.\""
+      ],
+      "takeaway": "Express reason or sequence.",
+      "examples": [
+        {
+          "kr": "배가 고파서 먹어요.",
+          "translated": "I eat because I am hungry."
+        },
+        {
+          "kr": "비가 와서 집에 있어요.",
+          "translated": "I stay home because it rains."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra19_pr1",
+          "type": "fill",
+          "prompt": "I am tired so I sleep",
+          "answer": "피곤해서 자요"
+        },
+        {
+          "id": "gra19_pr2",
+          "type": "fill",
+          "prompt": "I am busy so I study",
+          "answer": "바빠서 공부해요"
+        }
+      ]
+    },
+    {
+      "id": "gra20",
+      "meta": ["4 min"],
+      "level": "Beginner",
+      "icon": "shuffle",
+      "title": "~지만",
+      "description": "How to contrast ideas.",
+      "explanation": ["Use <b><hl>~지만</hl></b> to mean \"but.\""],
+      "takeaway": "Contrast two ideas.",
+      "examples": [
+        {
+          "kr": "작지만 좋아요.",
+          "translated": "It is small but good."
+        },
+        {
+          "kr": "바쁘지만 가요.",
+          "translated": "I am busy but I go."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra20_pr1",
+          "type": "fill",
+          "prompt": "It is cheap but good",
+          "answer": "싸지만 좋아요"
+        },
+        {
+          "id": "gra20_pr2",
+          "type": "fill",
+          "prompt": "I am tired but study",
+          "answer": "피곤하지만 공부해요"
+        }
+      ]
+    },
+    {
+      "id": "gra21",
+      "meta": ["4 min"],
+      "level": "Beginner",
+      "icon": "megaphone",
+      "title": "~(으)세요",
+      "description": "How to give polite commands.",
+      "explanation": [
+        "Use <b><hl>~(으)세요</hl></b> to give polite instructions."
+      ],
+      "takeaway": "Polite command form.",
+      "examples": [
+        {
+          "kr": "앉으세요.",
+          "translated": "Please sit."
+        },
+        {
+          "kr": "드세요.",
+          "translated": "Please eat."
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra21_pr1",
+          "type": "fill",
+          "prompt": "Please go",
+          "answer": "가세요"
+        },
+        {
+          "id": "gra21_pr2",
+          "type": "fill",
+          "prompt": "Please read",
+          "answer": "읽으세요"
+        }
+      ]
+    },
+    {
+      "id": "gra22",
+      "meta": ["3 min"],
+      "level": "Beginner",
+      "icon": "help-circle",
+      "title": "얼마예요?",
+      "description": "How to ask for prices.",
+      "explanation": ["Use <b><hl>얼마예요?</hl></b> to ask \"how much.\""],
+      "takeaway": "Useful for shopping.",
+      "examples": [
+        {
+          "kr": "이거 얼마예요?",
+          "translated": "How much is this?"
+        },
+        {
+          "kr": "커피 얼마예요?",
+          "translated": "How much is coffee?"
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra22_pr1",
+          "type": "fill",
+          "prompt": "How much is this?",
+          "answer": "이거 얼마예요?"
+        },
+        {
+          "id": "gra22_pr2",
+          "type": "fill",
+          "prompt": "How much is coffee?",
+          "answer": "커피 얼마예요?"
+        }
+      ]
+    },
+    {
+      "id": "gra23",
+      "meta": ["3 min"],
+      "level": "Beginner",
+      "icon": "map-pin",
+      "title": "어디에 있어요?",
+      "description": "How to ask where something is.",
+      "explanation": ["Use <b><hl>어디에 있어요?</hl></b> to ask location."],
+      "takeaway": "Basic location question.",
+      "examples": [
+        {
+          "kr": "화장실이 어디에 있어요?",
+          "translated": "Where is the bathroom?"
+        },
+        {
+          "kr": "학교가 어디에 있어요?",
+          "translated": "Where is the school?"
+        }
+      ],
+      "practice": [
+        {
+          "id": "gra23_pr1",
+          "type": "fill",
+          "prompt": "Where is the bathroom?",
+          "answer": "화장실이 어디에 있어요?"
+        },
+        {
+          "id": "gra23_pr2",
+          "type": "fill",
+          "prompt": "Where is the cafe?",
+          "answer": "카페가 어디에 있어요?"
         }
       ]
     }
