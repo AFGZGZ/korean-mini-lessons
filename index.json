@@ -1,23 +1,125 @@
 {
-  "version": 5,
+  "version": 1,
   "packs": [
     {
-      "id": "test01",
-      "title": "Test 1: test like there is no tomorrow",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "level": "beginner",
-      "icon": "baby",
-      "size": 12,
-      "version": 5
+      "id": "stage01",
+      "title": "Learn Hangul",
+      "description": "Learn the Korean alphabet from scratch. Master vowels, consonants, pronunciation rules, and batchim so you can confidently read Korean words and sentences.",
+      "level": "Beginner",
+      "icon": "type",
+      "size": 6,
+      "version": 1,
+      "lessonIds": ["hgl01", "hgl02", "hgl03", "hgl04", "hgl05", "hgl06"]
     },
     {
-      "id": "test02",
-      "title": "Test 2: testing harder",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "level": "intermediate",
-      "icon": "banana",
-      "size": 10,
-      "version": 1
+      "id": "stage02",
+      "title": "Introducing Yourself",
+      "description": "Learn how to introduce yourself, talk about who you are, where you're from, and what you do using essential beginner grammar.",
+      "level": "Beginner",
+      "icon": "book-open",
+      "size": 5,
+      "version": 1,
+      "lessonIds": ["gra01", "gra02", "gra03", "gra04", "gra05"]
+    },
+    {
+      "id": "stage03",
+      "title": "Everyday Conversations",
+      "description": "Start building real sentences. Learn present tense verbs, talk about places, describe activities, and express what you can and can't do.",
+      "level": "High Beginner",
+      "icon": "clock",
+      "size": 5,
+      "version": 1,
+      "lessonIds": ["gra06", "gra07", "gra08", "gra09", "gra10"]
+    },
+    {
+      "id": "stage04",
+      "title": "Talking About the Past",
+      "description": "Learn how to talk about past experiences, ongoing actions, possessions, and everyday requests in natural Korean.",
+      "level": "High Beginner",
+      "icon": "rewind",
+      "size": 5,
+      "version": 1,
+      "lessonIds": ["gra11", "gra12", "gra13", "gra14", "gra15"]
+    },
+    {
+      "id": "stage05",
+      "title": "Making Longer Sentences",
+      "description": "Connect ideas, compare situations, talk about abilities, express obligations, and discuss possible future situations.",
+      "level": "Low Intermediate",
+      "icon": "git-commit",
+      "size": 5,
+      "version": 1,
+      "lessonIds": ["gra16", "gra17", "gra18", "gra19", "gra20"]
+    },
+    {
+      "id": "stage06",
+      "title": "Reasons & Respectful Korean",
+      "description": "Explain why things happen and learn how to speak more politely and respectfully in different social situations.",
+      "level": "Intermediate",
+      "icon": "users",
+      "size": 5,
+      "version": 1,
+      "lessonIds": ["gra21", "gra22", "gra23", "gra24", "gra25"]
+    },
+    {
+      "id": "stage07",
+      "title": "Describing Things & Future Plans",
+      "description": "Describe people, places, and objects more naturally while learning how to talk about future plans and expectations.",
+      "level": "Intermediate",
+      "icon": "layers",
+      "size": 5,
+      "version": 1,
+      "lessonIds": ["gra26", "gra27", "gra28", "gra29", "gra30"]
+    },
+    {
+      "id": "stage08",
+      "title": "Sharing Information",
+      "description": "Learn how to report what other people said, ask indirect questions, pass along suggestions, and express hopes and wishes.",
+      "level": "High Intermediate",
+      "icon": "message-square",
+      "size": 5,
+      "version": 1,
+      "lessonIds": ["gra31", "gra32", "gra33", "gra34", "gra35"]
+    },
+    {
+      "id": "stage09",
+      "title": "Advanced Conversation Skills",
+      "description": "Learn passive and causative expressions, indirect commands, and advanced patterns that help you sound more natural in conversation.",
+      "level": "Advanced",
+      "icon": "shield",
+      "size": 5,
+      "version": 1,
+      "lessonIds": ["gra36", "gra37", "gra38", "gra39", "gra40"]
+    },
+    {
+      "id": "stage10",
+      "title": "Speaking More Naturally",
+      "description": "Improve your fluency with advanced honorifics, comparisons, and sentence patterns commonly used by native speakers.",
+      "level": "Advanced",
+      "icon": "award",
+      "size": 5,
+      "version": 1,
+      "lessonIds": ["gra41", "gra42", "gra43", "gra44", "gra45"]
+    },
+    {
+      "id": "stage11",
+      "title": "Advanced Opinions & Explanations",
+      "description": "Express complex reasons, expectations, assumptions, and evaluations while learning more nuanced Korean expressions.",
+      "level": "Advanced",
+      "icon": "alert-circle",
+      "size": 5,
+      "version": 1,
+      "lessonIds": ["gra46", "gra47", "gra48", "gra49", "gra50"]
+    },
+    {
+      "id": "stage12",
+      "title": "Natural Korean Expressions",
+      "description": "Master common shortcuts, conversational expressions, reflections on past events, and advanced structures used in real Korean.",
+      "level": "Advanced",
+      "icon": "message-square",
+      "size": 5,
+      "version": 1,
+      "lessonIds": ["gra51", "gra52", "gra53", "gra54", "gra55"]
     }
   ]
 }

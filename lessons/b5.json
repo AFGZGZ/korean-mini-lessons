@@ -1,0 +1,322 @@
+[
+  {
+    "id": "gra16",
+    "meta": ["5 min"],
+    "level": "Low Intermediate",
+    "icon": "git-commit",
+    "title": "~고 (Clausal Sequencing & Action Chains)",
+    "description": "Chain multiple independent actions or descriptions together into a single fluid sentence without repetitive subject markers.",
+    "explanation": [
+      "<h3>The Non-Interruptive Chain</h3>",
+      "While the noun-linking particles learned in Stage 2 ($\sim$과/와, $\sim$하고) purely connect objects, <b>~고</b> serves as the primary engine for joining clauses or sequential behaviors. It maps directly to the English word <b>'and'</b> or the phrase <b>'and then'</b>.",
+      "<h3>Immutable Root Fusion</h3>",
+      "Like the progressive tense, $\sim$고 is mechanically straightforward because it completely bypasses vowel harmony checking. It strips away the dictionary <b>~다</b> tail and fuses seamlessly to the root stem regardless of batchim:",
+      "<br><br><hl>[First Verb/Adjective Stem] + 고 + [Second Clause]</hl>",
+      "<h3>The Tense-Anchoring Principle</h3>",
+      "When detailing past chronological actions, you do not need to conjugate every single verb into the past tense. The first verb remains in its clean, neutral present stem form, while the **final verb** at the absolute tail of the sentence carries the temporal load for the entire sequence."
+    ],
+    "takeaway": "Keep your intermediate joints raw and unmarred; let the final sentence tail handle the chronological burden.",
+    "cultural_notes": "In fast conversational Korean, native speakers frequently end a standalone phrase directly with '~고...' when they want to trail off safely, implying there is more context they are leaving unsaid.",
+    "rules": [
+      "Isolate the first verb stem by stripping the dictionary ~다 suffix.",
+      "Weld 고 directly onto the raw stem without adding buffer elements or spaces.",
+      "Anchor past or future tense tracking exclusively on the final verb phrase."
+    ],
+    "examples": [
+      {
+        "kr": "밥을 먹고 친구를 만났어요.",
+        "translated": "I ate a meal and then met a friend. (먹고 remains unconjugated; the past tense is anchored on 만났어요)."
+      },
+      {
+        "kr": "한국어는 재미있고 쉬워요.",
+        "translated": "Korean is interesting and easy. (Links two descriptive adjectives smoothly together)."
+      },
+      {
+        "kr": "샤워를 하고 잘 거예요.",
+        "translated": "I will take a shower and then sleep. (Shows strict chronological planning via future tail)."
+      },
+      {
+        "kr": "저는 가고 민수는 와요.",
+        "translated": "I am going, and Minsu is coming. (Contrasts two concurrent actions by different actors)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra16_pr1",
+        "type": "fill",
+        "prompt": "Chain the verbs '씻다' (to wash) and '자다' (to sleep) to create 'I wash and sleep' in the polite register.",
+        "answer": "씻고 자요"
+      },
+      {
+        "id": "gra16_pr2",
+        "type": "fill",
+        "prompt": "Combine '싸다' (to be cheap) and '좋다' (to be good) to say 'It is cheap and good' (polite).",
+        "answer": "싸고 좋아요"
+      },
+      {
+        "id": "gra16_pr3",
+        "type": "fill",
+        "prompt": "Complete the first part of: 'I studied and watched a movie.' (공부하다 + 고 + 영화를 봤어요). Give only the first combined verb.",
+        "answer": "공부하고"
+      }
+    ]
+  },
+  {
+    "id": "gra17",
+    "meta": ["6 min"],
+    "level": "Low Intermediate",
+    "icon": "shuffle",
+    "title": "~지만 (Contrastive Clauses)",
+    "description": "Introduce nuance, caveats, and pivot blocks into your arguments using the definitive 'but/however' connector.",
+    "explanation": [
+      "<h3>The Pivot Axis</h3>",
+      "The particle <b>~지만</b> creates an immediate logical turn. It acknowledges the premise of the initial clause but heavily qualifies it or flatly opposes it with the second clause. It mirrors the English connectors <b>'but'</b>, <b>'however'</b>, or <b>'although'</b>.",
+      "<h3>Structural Mechanics</h3>",
+      "Similar to $\sim$고, $\sim$지만 strips the dictionary <b>~다</b> marker away and locks directly onto the root stem. It does not look for trailing vowel categories or bottom consonants.",
+      "<h3>The Past Tense Variation Rule</h3>",
+      "Unlike $\sim$고, **~지만 allows direct past tense markers to blend into its structure** if the initial caveat is explicitly located in historical time. For example, 'I went, but...' requires conjugating the root into the past base before stacking 지만 (갔지만)."
+    ],
+    "takeaway": "While chronological chains leave the middle unrefined, contrastive joints require real-time temporal markers if the premise occurred in the past.",
+    "cultural_notes": "When rejecting a business offer or an invitation politely, native speakers will intentionally start their sentence with an appreciative clause closed by ~지만 to soften the blow of the rejection that follows.",
+    "rules": [
+      "Affix 지만 directly to standard present stems for constant general truths.",
+      "Embed full 았/었 past frameworks prior to 지만 when the caveat has already concluded.",
+      "Maintain a zero-whitespace margin between the root element and the connector."
+    ],
+    "examples": [
+      {
+        "kr": "한국어는 어렵지만 재미있어요.",
+        "translated": "Korean is difficult, but it is interesting. (A standard balanced evaluation structure)."
+      },
+      {
+        "kr": "비가 오지만 가고 싶어요.",
+        "translated": "Although it is raining, I want to go. (Connects an unfavorable setting to an active desire)."
+      },
+      {
+        "kr": "공부를 많이 했지만 시험을 못 봤어요.",
+        "translated": "I studied a lot, but I did poorly on the exam. (Notice the past block 했 embedded before 지만)."
+      },
+      {
+        "kr": "매운 음식을 못 먹지만 김치는 좋아해요.",
+        "translated": "I cannot eat spicy food, but I do like Kimchi."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra17_pr1",
+        "type": "fill",
+        "prompt": "Combine '크다' (to be big) and '싸다' (to be cheap) to form 'It is big but cheap' (polite).",
+        "answer": "크지만 싸요"
+      },
+      {
+        "id": "gra17_pr2",
+        "type": "fill",
+        "prompt": "Form the past-tense contrastive connector stem for '먹다' to say 'I ate it, but...' (leave off the rest of the sentence).",
+        "answer": "먹었지만"
+      },
+      {
+        "id": "gra17_pr3",
+        "type": "fill",
+        "prompt": "Combine '바쁘다' (to be busy) and '괜찮아요' (It is okay) to formulate 'I am busy but it is okay.'",
+        "answer": "바쁘지만 괜찮아요"
+      }
+    ]
+  },
+  {
+    "id": "gra18",
+    "meta": ["6 min"],
+    "level": "Low Intermediate",
+    "icon": "shield",
+    "title": "~을/ㄹ 수 있다 / 없다 (Capability Thresholds)",
+    "description": "Formulate clear boundary metrics regarding individual talent, absolute permission, and physical possibility.",
+    "explanation": [
+      "<h3>The Dual Potentiality Engine</h3>",
+      "To express that you **can** or **cannot** execute an active assignment, Korean deploys a multi-part modifier framework built around the dependent spacing concept <b>수 (possibility/method)</b> and existence markers <b>있다/없다</b>.",
+      "<h3>The Batchim Fork Rule</h3>",
+      "The incoming future-leaning modifier particle tracks down two completely separate processing forks based entirely on the target root stem's structural base architecture:",
+      "<ul>",
+      "  <li><b>Consonant Floor Roots:</b> Stems ending with a batchim floor consonant receive the <b>~을 수</b> module (e.g., 먹다 $\\rightarrow$ <b>먹을 수 있다</b>).</li>",
+      "  <li><b>Vowel Open Roots:</b> Stems terminating in a raw vowel receive a sliding <b>~ㄹ 수</b> modifier that drops straight down into the open batchim basement floor (e.g., 가다 $\\rightarrow$ <b>갈 수 있다</b>).</li>",
+      "</ul>",
+      "<h3>The Metric Toggle</h3>",
+      "To swing the meaning from raw potentiality ('can do') to absolute inability ('cannot do'), simply swap out the final verb from <b>있다</b> to <b>없다</b>."
+    ],
+    "takeaway": "Never crowd the baseline. You must maintain a clean space separation between the modded root (을/ㄹ 수) and the final operational tail (있다/없다).",
+    "cultural_notes": "While ~을 수 없다 formally states a lack of ability, native speakers on the street rely heavily on the short adverbial prefix '못 (mot)' for immediate, casual declarations of daily inability.",
+    "rules": [
+      "Drop the placeholder ᄅ straight down into open vowel stems as a clean bottom consonant.",
+      "Append 을 to consonant-blocked verbs as an acoustic bridge block.",
+      "Strictly enforce an explicit space separation before rendering the 있다/없다 tails."
+    ],
+    "examples": [
+      {
+        "kr": "한국어를 할 수 있어요.",
+        "translated": "I can speak Korean. (하다 takes the sliding ᄅ batchim $\\rightarrow$ 할 수 있어요)."
+      },
+      {
+        "kr": "매운 음식을 먹을 수 없어요.",
+        "translated": "I cannot eat spicy food. (먹다 demands the 을 connector and the 없다 negative tail)."
+      },
+      {
+        "kr": "내일은 갈 수 있어요.",
+        "translated": "As for tomorrow, I can go. (Isolates prospective capability tied to a timeline)."
+      },
+      {
+        "kr": "여기서 수영할 수 없어요.",
+        "translated": "You cannot swim here. (Functions here as a situational rule or environmental ban)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra18_pr1",
+        "type": "fill",
+        "prompt": "Convert '운전하다' (to drive) into the polite 'I can drive' statement.",
+        "answer": "운전할 수 있어요"
+      },
+      {
+        "id": "gra18_pr2",
+        "type": "fill",
+        "prompt": "Convert '읽다' (to read) into the polite 'I cannot read' statement.",
+        "answer": "읽을 수 없어요"
+      },
+      {
+        "id": "gra18_pr3",
+        "type": "fill",
+        "prompt": "Conjugate '만나다' (to meet) to match: 'We can meet' (polite polite register).",
+        "answer": "만날 수 있어요"
+      }
+    ]
+  },
+  {
+    "id": "gra19",
+    "meta": ["5 min"],
+    "level": "Low Intermediate",
+    "icon": "alert-circle",
+    "title": "~아 / 어야 하다 (Obligation & Necessity)",
+    "description": "Command authority and handle essential duty frameworks by mastering the 'must/have to' syntax loop.",
+    "explanation": [
+      "<h3>The Necessity Nexus</h3>",
+      "When a task transitions from a casual preference into an absolute operational requirement, you deploy the compound structure <b>~아/어야 하다</b>. This equates to the heavy terms <b>'must'</b>, <b>'should'</b>, or <b>'have to'</b>.",
+      "<h3>Vowel Harmony Alignment</h3>",
+      "Because this structure leverages the standard connecting vowel anchors, it utilizes the identical bright/dark balancing formulas found in the base present tense register:",
+      "<ul>",
+      "  <li><b>Bright Stems (ㅗ, ㅏ):</b> Receive the <b>~아야 하다</b> attachment pattern (e.g., 가다 $\\rightarrow$ <b>가야 해요</b>).</li>",
+      "  <li><b>Dark/Neutral Stems (ㅓ, ㅜ, ㅣ):</b> Receive the <b>~어야 하다</b> attachment pattern (e.g., 먹다 $\\rightarrow$ <b>먹어야 해요</b>).</li>",
+      "  <li><b>The 하다 Compound Group:</b> Shifts instantly into <b>~해야 해요</b>.</li>",
+      "</ul>",
+      "<h3>The Spoken Lexicon Alternative</h3>",
+      "While written manuals and formal essays favor closing with the verb <b>하다</b>, everyday native speech frequently substitutes the alternate verb <b>되다 (to become)</b>, converting the tail into <b>~아/어야 돼요</b>. Both tracks carry equal regulatory weight."
+    ],
+    "takeaway": "If a verb is bound to an active duty tracker, check its core root vowel block before throwing it down into the obligation grid.",
+    "cultural_notes": "Using '해야 해요' toward seniors or superiors can sound overly bossy or demanding. To tone down the blunt force of an obligation, speakers will often transform it into a gentle question format.",
+    "rules": [
+      "Fuse 아야 to stems that showcase bright vowels within their terminal structure.",
+      "Fuse 어야 to all remaining dark or neutral structural vowel formations.",
+      "Freely substitute 하다 for 되다 when trying to match fluid conversational registers."
+    ],
+    "examples": [
+      {
+        "kr": "지금 집에 가야 해요.",
+        "translated": "I have to go home right now. (가다 contracts cleanly into the bright 가야 structure)."
+      },
+      {
+        "kr": "매일 한국어를 공부해야 돼요.",
+        "translated": "I must study Korean every single day. (하다 shifts to 해야, tracking with the conversational 돼요 finish)."
+      },
+      {
+        "kr": "약은 식후에 먹어야 해요.",
+        "translated": "You must take this medicine after meals. (먹다 anchors dark, selecting the 어야 variant)."
+      },
+      {
+        "kr": "비자가 있어야 해요.",
+        "translated": "You must possess a visa. (Shows that necessity filters can wrap around existence verbs too)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra19_pr1",
+        "type": "fill",
+        "prompt": "Convert '오다' (to come) into the polite obligation form meaning 'You must come'. Look for vowel contraction.",
+        "answer": "와야 해요"
+      },
+      {
+        "id": "gra19_pr2",
+        "type": "fill",
+        "prompt": "Convert '일하다' (to work) into the polite conversational obligation form using the '되요' tail system.",
+        "answer": "일해야 돼요"
+      },
+      {
+        "id": "gra19_pr3",
+        "type": "fill",
+        "prompt": "Convert '만들다' (to make) into the polite obligation form using the '해요' tail system.",
+        "answer": "만들어야 해요"
+      }
+    ]
+  },
+  {
+    "id": "gra20",
+    "meta": ["6 min"],
+    "level": "Low Intermediate",
+    "icon": "git-branch",
+    "title": "~면 / ~으면 (Hypothetical Conditionals)",
+    "description": "Establish hypothetical parameters, rules, and future contingency setups using the definitive conditional 'if' link.",
+    "explanation": [
+      "<h3>The Contingency Gateway</h3>",
+      "The particle system <b>~면 / ~으면</b> serves as the gateway for processing conditionality. It anchors a prerequisite status inside the leading clause, stating that the subsequent clause will only unlock <b>'if'</b> or <b>'when'</b> that condition fulfills.",
+      "<h3>The Structural Tracking Fork</h3>",
+      "Like the capability engine, the conditional suffix relies directly on checking the bottom layout matrix of the verb or adjective stem:",
+      "<ul>",
+      "  <li><b>Open Vowel Roots:</b> Stems finishing cleanly in a vowel append <b>~면</b> directly to the terminal edge (e.g., 가다 $\\rightarrow$ <b>가면</b>).</li>",
+      "  <li><b>Consonant Floor Roots:</b> Stems that have a bottom batchim consonant require an acoustic padding cushion, appending <b>~으면</b> instead (e.g., 먹다 $\\rightarrow$ <b>먹으면</b>).</li>",
+      "  <li><b>The ᄅ Exception:</b> If a stem ends with a native bottom <b>ᄅ (rieul)</b> consonant, it bypasses the padding rule and pairs directly with <b>~면</b> (e.g., 살다 $\\rightarrow$ <b>살면</b>).</li>",
+      "</ul>",
+      "<h3>Temporal Adjustments</h3>",
+      "If you want to construct a counterfactual past conditional ('If I had done X...'), stack the conditional suffix directly over a pre-assembled past tense framework (e.g., 했으면)."
+    ],
+    "takeaway": "Conditionals look at consonant blocks. Watch out for the sneaky ᄅ exception, which refuses the 으 padding block entirely.",
+    "cultural_notes": "The phrase '시간이 있으면' (If you have time) is the universal, culturally polite preamble used to set up requests without imposing on another person's schedule.",
+    "rules": [
+      "Affix 면 directly to open vowel bases without incorporating buffer items.",
+      "Deploy the padded 으면 modifier when tracking over consonant-heavy batchim formations.",
+      "Never add an 으 buffer block when dealing with roots whose base batchim is the letter ᄅ."
+    ],
+    "examples": [
+      {
+        "kr": "돈이 많으면 좋겠어요.",
+        "translated": "If I had a lot of money, it would be great. (많다 features a batchim floor, demanding 으면)."
+      },
+      {
+        "kr": "내일 날씨가 좋으면 가요.",
+        "translated": "If the weather is good tomorrow, we go. (좋다 targets the standard consonant padding protocol)."
+      },
+      {
+        "kr": "서울에 가면 연락하세요.",
+        "translated": "When/If you go to Seoul, contact me. (Demonstrates transition from conditional 'if' into temporal 'when')."
+      },
+      {
+        "kr": "한국에서 살면 매일 김치를 먹을 거예요.",
+        "translated": "If I live in Korea, I will eat Kimchi every day. (살다 ends in ᄅ, so it bypasses the buffer to become 살면)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra20_pr1",
+        "type": "fill",
+        "prompt": "Apply the conditional suffix to '싸다' (to be cheap) to form the phrase 'If it is cheap...'.",
+        "answer": "싸면"
+      },
+      {
+        "id": "gra20_pr2",
+        "type": "fill",
+        "prompt": "Apply the conditional suffix to '읽다' (to read) to form the phrase 'If you read...'.",
+        "answer": "읽으면"
+      },
+      {
+        "id": "gra20_pr3",
+        "type": "fill",
+        "prompt": "Apply the conditional suffix to the ᄅ-batchim verb '만들다' (to make) to form the phrase 'If you make...'.",
+        "answer": "만들면"
+      }
+    ]
+  }
+]

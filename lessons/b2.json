@@ -1,0 +1,326 @@
+[
+  {
+    "id": "gra01",
+    "meta": ["4 min"],
+    "level": "Beginner",
+    "icon": "book-open",
+    "title": "~이에요 / ~예요",
+    "description": "Learn how to state 'is / am / are' in polite casual Korean to identify nouns, names, and occupations.",
+    "explanation": [
+      "<h3>The Equation Verb</h3>",
+      "In English, the verb 'to be' changes forms constantly (I <b>am</b>, you <b>are</b>, it <b>is</b>). In Korean, this identification function is handled by a single attaching suffix: <b>이다 (ida)</b>.",
+      "<br><br>In standard daily life, you conjugate this into the polite casual form, which has two variations based on phonetic fluidly:",
+      "<ul>",
+      "  <li><b>~이에요 (ieyo):</b> Attach this directly to nouns that end in a final consonant (<b>Batchim</b>). The final consonant naturally rolls up into the '이' sound.</li>",
+      "  <li><b>~예요 (yeyo):</b> Attach this directly to nouns that end in a vowel. This prevents a clumsy phonetic gap.</li>",
+      "</ul>",
+      "<h3>Syntax and Sentence Structure</h3>",
+      "Korean is a **Subject-Object-Verb (SOV)** language. Verbs *always* anchor the very end of the sentence. Unlike English, where you say 'I am a student,' Korean structures this as 'Student is':",
+      "<br><br><hl>[Noun] + [이에요/예요]</hl>"
+    ],
+    "takeaway": "These endings are suffixes, meaning they must never be separated from their target noun by a space.",
+    "cultural_notes": "When introducing yourself, attaching your name to ~이에요/예요 is the most common and polite way to establish your identity upon first meeting peers.",
+    "rules": [
+      "Use ~이에요 if the preceding noun ends in a consonant (e.g., 학생 + 이에요 = 학생이에요).",
+      "Use ~예요 if the preceding noun ends in a vowel (e.g., 의사 + 예요 = 의사예요).",
+      "Do not insert a space between the noun and the conjugated suffix."
+    ],
+    "examples": [
+      {
+        "kr": "학생이에요.",
+        "translated": "[I am / They are] a student. (학생 ends in consonant ㄴ, so it links with 이에요)."
+      },
+      {
+        "kr": "의사예요.",
+        "translated": "[I am / They are] a doctor. (의사 ends in vowel ㅏ, so it links with 예요)."
+      },
+      {
+        "kr": "한국 사람이에요.",
+        "translated": "I am a Korean person. (사람 ends in consonant ㅁ)."
+      },
+      {
+        "kr": "제 이름은 미나예요.",
+        "translated": "My name is Mina. (미나 ends in vowel ㅏ)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra01_pr1",
+        "type": "fill",
+        "prompt": "Say 'I am a student' using the noun '학생' (student). Do not use spaces between the noun and the ending.",
+        "answer": "학생이에요"
+      },
+      {
+        "id": "gra01_pr2",
+        "type": "fill",
+        "prompt": "Say 'I am a doctor' using the noun '의사' (doctor).",
+        "answer": "의사예요"
+      },
+      {
+        "id": "gra01_pr3",
+        "type": "fill",
+        "prompt": "Complete the sentence with the correct ending: '한국 사람____' (I am a Korean person).",
+        "answer": "한국 사람이에요"
+      }
+    ]
+  },
+  {
+    "id": "gra02",
+    "meta": ["4 min"],
+    "level": "Beginner",
+    "icon": "user",
+    "title": "은 / 는 (Topic Particles)",
+    "description": "Master the primary topic marker used to flag the main theme of a sentence or introduce a point of contrast.",
+    "explanation": [
+      "<h3>What is a Postpositional Particle?</h3>",
+      "Korean utilizes markers called **particles** attached to the ends of words to identify exactly what role that word plays in the sentence. Think of them as tiny clothing tags for grammar.",
+      "<h3>The Role of 은/는</h3>",
+      "<b>은/는</b> is the **Topic Marker**. It answers the question, 'As for this specific topic, what are we talking about?' It establishes the background context for everything that follows in the sentence. It has two phonetic variations:",
+      "<ul>",
+      "  <li><b>~은 (eun):</b> Attached to nouns ending in a final consonant.</li>",
+      "  <li><b>~는 (neun):</b> Attached to nouns ending in a vowel.</li>",
+      "</ul>",
+      "<h3>The Secret Nuance: Contrast</h3>",
+      "Beyond just introducing a topic, **은/는** carries an inherent power of **comparison**. If you say 'The apple is delicious' using 는, it can subtly imply 'As for the apple, it is delicious (but other fruits might not be).'"
+    ],
+    "takeaway": "Once a topic is clearly established via 은/는, native speakers completely omit it in the following sentences if it is clear who or what is being discussed.",
+    "cultural_notes": "When introducing your age or nationality, always flag yourself with '저는' (As for me) to set a humble, polite focus on yourself.",
+    "rules": [
+      "Attach 은 to nouns ending in a final consonant (e.g., 이름 + 은 = 이름은).",
+      "Attach 는 to nouns ending in a vowel (e.g., 저 + 는 = 저는).",
+      "Use this particle specifically when you want to highlight contrast or change the topic of a conversation."
+    ],
+    "examples": [
+      {
+        "kr": "저는 학생이에요.",
+        "translated": "As for me, I am a student. (저 ends in a vowel, so it pairs with 는)."
+      },
+      {
+        "kr": "이름은 미나예요.",
+        "translated": "As for the name, it is Mina. / My name is Mina. (이름 ends in a consonant)."
+      },
+      {
+        "kr": "한국은 따뜻해요.",
+        "translated": "As for Korea, it is warm (implying contrast with somewhere cold)."
+      },
+      {
+        "kr": "물은 맛없어요.",
+        "translated": "As for water, it tastes bad (contrasting it with other drinks)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra02_pr1",
+        "type": "fill",
+        "prompt": "Add the correct topic particle to '저' (I/me) to start the sentence 'As for me...'",
+        "answer": "저는"
+      },
+      {
+        "id": "gra02_pr2",
+        "type": "fill",
+        "prompt": "Add the correct topic particle to '이름' (name).",
+        "answer": "이름은"
+      },
+      {
+        "id": "gra02_pr3",
+        "type": "fill",
+        "prompt": "Translate the phrase: 'As for the student' using '학생'.",
+        "answer": "학생은"
+      }
+    ]
+  },
+  {
+    "id": "gra03",
+    "meta": ["4 min"],
+    "level": "Beginner",
+    "icon": "focus",
+    "title": "이 / 가 (Subject Particles)",
+    "description": "Learn to pinpoint the exact subject of a clause and distinguish it from the topic marker.",
+    "explanation": [
+      "<h3>The Subject Detector</h3>",
+      "While the topic marker (은/는) flags the grand theme of a sentence, the **Subject Marker 이/가** acts like a laser pointer. It identifies the **exact agent** performing the verb or experiencing the adjective right in that specific clause.",
+      "<ul>",
+      "  <li><b>~이 (i):</b> Suffix used after a noun ending in a final consonant.</li>",
+      "  <li><b>~가 (ga):</b> Suffix used after a noun ending in a vowel.</li>",
+      "</ul>",
+      "<h3>Topic vs. Subject: The Core Battle</h3>",
+      "This is the most famous hurdle in Korean. Think of it this way:",
+      "<ul>",
+      "  <li><b>은/는 (Topic):</b> Places the spotlight and emphasis on the **description or action** at the end of the sentence. (What happens?)</li>",
+      "  <li><b>이/가 (Subject):</b> Places the spotlight and heavy emphasis on the **noun itself**. It answers 'Who exactly did it?' or 'Which specific one?'</li>",
+      "</ul>"
+    ],
+    "takeaway": "When using question words like '무엇' (what) or '누구' (who) as the subject, you must always pair them with 이/가, never 은/는.",
+    "cultural_notes": "When the pronoun '내가' (I) is formed, the base word '나' (I) mutates into '내' before combining with the subject marker '가'.",
+    "rules": [
+      "Use 이 after a final batchim consonant (e.g., 물 + 이 = 물이).",
+      "Use 가 after a clean vowel ending (e.g., 사과 + 가 = 사과가).",
+      "Use 이/가 for new, sudden information or when answering a direct 'who/what' question."
+    ],
+    "examples": [
+      {
+        "kr": "물이 차가워요.",
+        "translated": "The water (specifically) is cold. (Focus is on the water itself)."
+      },
+      {
+        "kr": "사과가 맛있어요.",
+        "translated": "The apple (this specific one) is delicious."
+      },
+      {
+        "kr": "비가 와요.",
+        "translated": "Rain is coming. / It's raining. (New atmospheric condition info)."
+      },
+      {
+        "kr": "내가 했어요.",
+        "translated": "<b>I</b> am the one who did it. (Heavy focus on 'me' as the actor)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra03_pr1",
+        "type": "fill",
+        "prompt": "Add the correct subject marker to '비' (rain) to say 'Rain is coming' (비가 와요).",
+        "answer": "비가"
+      },
+      {
+        "id": "gra03_pr2",
+        "type": "fill",
+        "prompt": "Apply the subject marker to '물' (water).",
+        "answer": "물이"
+      },
+      {
+        "id": "gra03_pr3",
+        "type": "fill",
+        "prompt": "Combine the pronoun '나' (I) with the subject marker '가' (hint: it mutates!).",
+        "answer": "내가"
+      }
+    ]
+  },
+  {
+    "id": "gra04",
+    "meta": ["4 min"],
+    "level": "Beginner",
+    "icon": "smartphone",
+    "title": "이것 / 그것 / 저것",
+    "description": "Master spatial demonstrative pronouns to navigate objects relative to yourself and your listener.",
+    "explanation": [
+      "<h3>The Spatial Triad</h3>",
+      "Korean divides physical space and reference points into three distinct zones based on proximity. You must select your pronoun by measuring how close the target object is to you and the person you are speaking with:",
+      "<ol>",
+      "  <li><b>이것 (i-geot) - 'This Thing':</b> The object is physically close to the speaker, or within the speaker's arms reach.</li>",
+      "  <li><b>그것 (geu-geot) - 'That Thing':</b> The object is far away from the speaker, but physically close to the listener. It is also used to refer to an abstract topic mentioned previously in conversation.</li>",
+      "  <li><b>저것 (jeo-geot) - 'That Thing Over There':</b> The object is completely distant from <b>both</b> the speaker and the listener.</li>",
+      "</ol>",
+      "<h3>Spoken Conversational Contractions</h3>",
+      "In daily spoken text or fast speech, these words naturally contract when combined with subject markers: <b>이것이</b> becomes <b>이게</b>, <b>그것이</b> becomes <b>그게</b>, and <b>저것이</b> becomes <b>저게</b>."
+    ],
+    "takeaway": "The syllable '것' literally means 'thing' or 'item.' By swapping '것' out later for places or people, you can reuse the anchors 이, 그, and 저.",
+    "cultural_notes": "When shopping or ordering off a menu, pointing and saying '이것 주세요' (This one, please) is a completely natural and polite strategy used by both natives and travelers.",
+    "rules": [
+      "Use 이- prefixes for items near your own body.",
+      "Use 그- prefixes for items near your listener or already established in talk.",
+      "Use 저- prefixes for items far down the road or out of immediate reach."
+    ],
+    "examples": [
+      {
+        "kr": "이것은 책이에요.",
+        "translated": "This thing (here in my hand) is a book."
+      },
+      {
+        "kr": "그것은 컴퓨터예요.",
+        "translated": "That thing (sitting next to you) is a computer."
+      },
+      {
+        "kr": "저것은 산이에요.",
+        "translated": "That thing way over there is a mountain."
+      },
+      {
+        "kr": "이게 뭐예요?",
+        "translated": "What is this? (Spoken contracted version of 이것이)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra04_pr1",
+        "type": "fill",
+        "prompt": "Write the Korean word for 'This thing' (close to you).",
+        "answer": "이것"
+      },
+      {
+        "id": "gra04_pr2",
+        "type": "fill",
+        "prompt": "Write the Korean word for 'That thing' (near the listener).",
+        "answer": "그것"
+      },
+      {
+        "id": "gra04_pr3",
+        "type": "fill",
+        "prompt": "Write the conversational contracted form of '이것이' (This subject).",
+        "answer": "이게"
+      }
+    ]
+  },
+  {
+    "id": "gra05",
+    "meta": ["4 min"],
+    "level": "Beginner",
+    "icon": "heart",
+    "title": "~고 싶어요",
+    "description": "Express your personal desires and plans by learning how to articulate the phrase 'I want to do...'",
+    "explanation": [
+      "<h3>The Intentional Suffix</h3>",
+      "To express a personal desire to perform an action in Korean, you do not use separate main verbs like 'to want' followed by an infinitive. Instead, you modify the target action verb directly.",
+      "<h3>Conjugation Mechanics</h3>",
+      "This is one of the easiest patterns in Korean because it has <b>zero irregular exceptions</b>. You do not care if the verb ends in a vowel, consonant, or an irregular patchim: ",
+      "<br><br>Simply strip the dictionary ending <b>~다</b> off any active verb stem, and weld <b>~고 싶어요</b> right onto it.",
+      "<br><br><hl>[Verb Stem] + 고 싶어요</hl>",
+      "<h3>First Person Boundary</h3>",
+      "Crucially, <b>~고 싶어요</b> is strictly reserved for **first-person statements** ('I want to') or direct second-person questions ('Do you want to?'). If you want to say that a *third person* (he, she, or they) wants to do something, you must use a different mutation (~고 싶어 해요), which we will cover later."
+    ],
+    "takeaway": "Because the conjugation drops the ~다 completely, verbs like 가다 (to go) smoothly become 가고 싶어요.",
+    "cultural_notes": "In daily conversation, phrases like '보고 싶어요' literally mean 'I want to see you,' which functions as the native idiomatic expression for 'I miss you.'",
+    "rules": [
+      "Isolate the root verb stem by discarding the final 다 character completely.",
+      "Weld 고 싶어요 directly to the stem with no intervening spacing metrics.",
+      "Only deploy this phrase to frame your own desires or query a listener directly."
+    ],
+    "examples": [
+      {
+        "kr": "한국에 가고 싶어요.",
+        "translated": "I want to go to Korea. (가다 $\\rightarrow$ 가 + 고 싶어요)."
+      },
+      {
+        "kr": "밥을 먹고 싶어요.",
+        "translated": "I want to eat food. (먹다 $\\rightarrow$ 먹 + 고 싶어요)."
+      },
+      {
+        "kr": "커피를 마시고 싶어요.",
+        "translated": "I want to drink coffee. (마시다 $\\rightarrow$ 마시 + 고 싶어요)."
+      },
+      {
+        "kr": "한국어를 배우고 싶어요.",
+        "translated": "I want to learn the Korean language. (배우다 $\\rightarrow$ 배우 + 고 싶어요)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra05_pr1",
+        "type": "fill",
+        "prompt": "Convert the verb '가다' (to go) into 'I want to go'.",
+        "answer": "가고 싶어요"
+      },
+      {
+        "id": "gra05_pr2",
+        "type": "fill",
+        "prompt": "Convert the verb '먹다' (to eat) into 'I want to eat'.",
+        "answer": "먹고 싶어요"
+      },
+      {
+        "id": "gra05_pr3",
+        "type": "fill",
+        "prompt": "Translate the phrase 'I want to drink' using the stem '마시' (from 마시다).",
+        "answer": "마시고 싶어요"
+      }
+    ]
+  }
+]

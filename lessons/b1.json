@@ -1,0 +1,314 @@
+[
+  {
+    "id": "hgl01",
+    "meta": ["5 min"],
+    "level": "Beginner",
+    "icon": "type",
+    "title": "기본 모음 (Basic Vowels)",
+    "description": "Learn the 10 fundamental vertical and horizontal vowels: ㅏ, ㅑ, ㅓ, ㅕ, ㅗ, ㅛ, ㅜ, ㅠ, ㅡ, ㅣ.",
+    "explanation": [
+      "Korean vowels are built using three elements: <b>•</b> (heaven), <b>ㅡ</b> (earth), and <b>ㅣ</b> (man).",
+      "<br><br>Vertical vowels (ㅏ, ㅑ, ㅓ, ㅕ, ㅣ) have their long stroke standing up. Horizontal vowels (ㅗ, ㅛ, ㅜ, ㅠ, ㅡ) have their long stroke lying flat.",
+      "<br><br>Adding a short stroke adds a 'y' sound: <b>ㅏ</b> (ah) becomes <b>야</b> (yah)."
+    ],
+    "takeaway": "Vowels cannot stand alone in writing; they use a silent 'ㅇ' placeholder if no consonant is present.",
+    "examples": [
+      {
+        "kr": "아",
+        "translated": "ah"
+      },
+      {
+        "kr": "우유",
+        "translated": "milk (oo-yoo)"
+      },
+      {
+        "kr": "아이",
+        "translated": "child (ah-ee)"
+      },
+      {
+        "kr": "여우",
+        "translated": "fox (yuh-oo)"
+      }
+    ],
+    "practice": [
+      {
+        "id": "hgl01_pr1",
+        "type": "fill",
+        "prompt": "Write the syllable block for the sound 'ah' (using the silent placeholder)",
+        "answer": "아"
+      },
+      {
+        "id": "hgl01_pr2",
+        "type": "fill",
+        "prompt": "Spell 'milk' in Korean (oo-yoo)",
+        "answer": "우유"
+      },
+      {
+        "id": "hgl01_pr3",
+        "type": "fill",
+        "prompt": "Spell 'child' in Korean (ah-ee)",
+        "answer": "아이"
+      }
+    ]
+  },
+  {
+    "id": "hgl02",
+    "meta": ["5 min"],
+    "level": "Beginner",
+    "icon": "grid",
+    "title": "기본 자음 (Basic Consonants)",
+    "description": "Learn the first set of simple consonants: ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅅ, ㅇ, ㅈ, ㅎ.",
+    "explanation": [
+      "Korean letters are written inside imaginary squares, moving from <b>left to right</b> and <b>top to bottom</b>.",
+      "<br><br>Consonants change slightly depending on the vowel: <b>ㄱ</b> sounds like a soft 'g/k', <b>ㄴ</b> is 'n', <b>ㄷ</b> is 'd/t', and <b>ㄹ</b> is a flapped 'r/l' sound.",
+      "<br><br><b>ㅅ</b> is an 's' sound, but it turns into a soft 'sh' sound when paired with <b>ㅣ</b> or 'y' vowels (like ㅑ, ㅕ, ㅛ, ㅠ)."
+    ],
+    "takeaway": "Consonants sit to the left of vertical vowels, or on top of horizontal vowels.",
+    "examples": [
+      {
+        "kr": "나무",
+        "translated": "tree (na-moo)"
+      },
+      {
+        "kr": "고기",
+        "translated": "meat (go-gi)"
+      },
+      {
+        "kr": "다리",
+        "translated": "leg / bridge (da-ri)"
+      },
+      {
+        "kr": "가수",
+        "translated": "singer (ga-soo)"
+      }
+    ],
+    "practice": [
+      {
+        "id": "hgl02_pr1",
+        "type": "fill",
+        "prompt": "Spell 'tree' in Korean (na-moo)",
+        "answer": "나무"
+      },
+      {
+        "id": "hgl02_pr2",
+        "type": "fill",
+        "prompt": "Spell 'meat' in Korean (go-gi)",
+        "answer": "고기"
+      },
+      {
+        "id": "hgl02_pr3",
+        "type": "fill",
+        "prompt": "Spell 'singer' in Korean (ga-soo)",
+        "answer": "가수"
+      }
+    ]
+  },
+  {
+    "id": "hgl03",
+    "meta": ["5 min"],
+    "level": "Beginner",
+    "icon": "plus-circle",
+    "title": "이중 모음 (Double Vowels)",
+    "description": "Master complex combined vowel sounds like ㅐ, ㅔ, ㅘ, ㅝ, ㅟ, ㅢ.",
+    "explanation": [
+      "Double vowels are created by smashing two vowels together.",
+      "<br><br><b>ㅐ</b> (ae) and <b>ㅔ</b> (e) sound almost identical in modern spoken Korean. Don't worry about distinguishing them by ear—focus on spelling.",
+      "<br><br>Combination rules: ㅗ blends with ㅏ (<b>ㅘ</b> = wa). ㅜ blends with ㅓ (<b>ㅝ</b> = wo). ㅢ (ui) is unique: it sounds like 'ee' when combined with consonants."
+    ],
+    "takeaway": "Think of combination vowels as gliding sounds (w + vowel).",
+    "examples": [
+      {
+        "kr": "사과",
+        "translated": "apple (sa-gwa)"
+      },
+      {
+        "kr": "돼지",
+        "translated": "pig (dwae-ji)"
+      },
+      {
+        "kr": "의사",
+        "translated": "doctor (ui-sa)"
+      },
+      {
+        "kr": "회사",
+        "translated": "company (hwae-sa)"
+      }
+    ],
+    "practice": [
+      {
+        "id": "hgl03_pr1",
+        "type": "fill",
+        "prompt": "Spell 'apple' in Korean (sa-gwa)",
+        "answer": "사과"
+      },
+      {
+        "id": "hgl03_pr2",
+        "type": "fill",
+        "prompt": "Spell 'doctor' in Korean (ui-sa)",
+        "answer": "의사"
+      },
+      {
+        "id": "hgl03_pr3",
+        "type": "fill",
+        "prompt": "Spell 'pig' in Korean (dwae-ji)",
+        "answer": "돼지"
+      }
+    ]
+  },
+  {
+    "id": "hgl04",
+    "meta": ["5 min"],
+    "level": "Beginner",
+    "icon": "zap",
+    "title": "격음 & 경음 (Aspirated & Double Consonants)",
+    "description": "Understand strong and tense consonants: ㅋ, ㅌ, ㅍ, ㅊ and ㄲ, ㄸ, ㅃ, ㅆ, ㅉ.",
+    "explanation": [
+      "Aspirated consonants (ㅋ, ㅌ, ㅍ, ㅊ) are pronounced with a strong puff of air. Hold a hand before your mouth; you should feel a burst of breath.",
+      "<br><br>Double consonants (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ) are tense. Tighten your vocal cords and release the sound firmly with <b>no air bursting out</b>.",
+      "<br><br>Compare them: <b>ㄱ</b> (relaxed/soft) vs <b>ㅋ</b> (aspirated/breathy) vs <b>ㄲ</b> (tense/sharp)."
+    ],
+    "takeaway": "Tense consonants have a higher pitch than their basic counterparts.",
+    "examples": [
+      {
+        "kr": "커피",
+        "translated": "coffee (keo-pi)"
+      },
+      {
+        "kr": "꼬리",
+        "translated": "tail (kko-ri)"
+      },
+      {
+        "kr": "토끼",
+        "translated": "rabbit (to-kki)"
+      },
+      {
+        "kr": "치마",
+        "translated": "skirt (chi-ma)"
+      }
+    ],
+    "practice": [
+      {
+        "id": "hgl04_pr1",
+        "type": "fill",
+        "prompt": "Spell 'coffee' in Korean (keo-pi)",
+        "answer": "커피"
+      },
+      {
+        "id": "hgl04_pr2",
+        "type": "fill",
+        "prompt": "Spell 'rabbit' in Korean (to-kki)",
+        "answer": "토끼"
+      },
+      {
+        "id": "hgl04_pr3",
+        "type": "fill",
+        "prompt": "Spell 'skirt' in Korean (chi-ma)",
+        "answer": "치마"
+      }
+    ]
+  },
+  {
+    "id": "hgl05",
+    "meta": ["6 min"],
+    "level": "Beginner",
+    "icon": "arrow-down",
+    "title": "받침: 기본 (Basic Final Consonants)",
+    "description": "How single consonants sit at the bottom of a block and change sound.",
+    "explanation": [
+      "Consonants at the very bottom of a block are called <b>받침 (Batchim)</b>.",
+      "<br><br>While there are many consonants, they only make <b>7 final sounds</b> when resting at the bottom: ㅂ/ㅍ sound like [P], ㄱ/ㅋ/ㄲ sound like [K], and ㄴ, ㅁ, ㅇ, ㄹ retain their core values.",
+      "<br><br>Crucially, ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ all flatten into a blunt <b>[T]</b> sound at the end of a syllable if no vowel follows."
+    ],
+    "takeaway": "Batchim sounds are unreleased—stop the air instantly at the end of the syllable.",
+    "examples": [
+      {
+        "kr": "집",
+        "translated": "house (sounds like [jip])"
+      },
+      {
+        "kr": "책",
+        "translated": "book (sounds like [chaek])"
+      },
+      {
+        "kr": "옷",
+        "translated": "clothes (sounds like [ot])"
+      },
+      {
+        "kr": "한국",
+        "translated": "Korea (han-guk)"
+      }
+    ],
+    "practice": [
+      {
+        "id": "hgl05_pr1",
+        "type": "fill",
+        "prompt": "Spell 'book' in Korean (chaek)",
+        "answer": "책"
+      },
+      {
+        "id": "hgl05_pr2",
+        "type": "fill",
+        "prompt": "Spell 'clothes' in Korean (ot - uses 'ㅅ' batchim)",
+        "answer": "옷"
+      },
+      {
+        "id": "hgl05_pr3",
+        "type": "fill",
+        "prompt": "Spell 'house' in Korean (jip)",
+        "answer": "집"
+      }
+    ]
+  },
+  {
+    "id": "hgl06",
+    "meta": ["6 min"],
+    "level": "Beginner",
+    "icon": "layers",
+    "title": "겹받침 (Double Final Consonants)",
+    "description": "Master complex double batchim combinations like ㄺ, ㄻ, ㄼ, ㄶ.",
+    "explanation": [
+      "Some Korean syllable blocks carry <b>two different consonants</b> in the final position.",
+      "<br><br>Rule 1: If the word stands alone, you usually <b>pronounce only one</b> of the letters. For example, in <b>닭</b> (chicken), the ㄹ is silent, leaving you with [dak].",
+      "<br><br>Rule 2 (Linking): If the next block begins with the placeholder <b>ㅇ</b>, the second consonant rolls over to blend into the next vowel: <b>닭이</b> is read as [달기] (dal-gi)."
+    ],
+    "takeaway": "Double batchim look scary but follow logical phonetic conversion systems.",
+    "examples": [
+      {
+        "kr": "닭",
+        "translated": "chicken (pronounced [dak])"
+      },
+      {
+        "kr": "앉다",
+        "translated": "to sit (pronounced [안따] / an-tta)"
+      },
+      {
+        "kr": "여덟",
+        "translated": "eight (pronounced [여덜] / yeo-deol)"
+      },
+      {
+        "kr": "젊다",
+        "translated": "to be young (pronounced [점따] / jeom-tta)"
+      }
+    ],
+    "practice": [
+      {
+        "id": "hgl06_pr1",
+        "type": "fill",
+        "prompt": "Spell the word for 'chicken' (dak - uses 'ㄺ' batchim)",
+        "answer": "닭"
+      },
+      {
+        "id": "hgl06_pr2",
+        "type": "fill",
+        "prompt": "Spell the base verb 'to sit' (an-tta - uses 'ㄵ' batchim + 다)",
+        "answer": "앉다"
+      },
+      {
+        "id": "hgl06_pr3",
+        "type": "fill",
+        "prompt": "Spell the native number for 'eight' (yeo-deol - uses 'ㄼ' batchim)",
+        "answer": "여덟"
+      }
+    ]
+  }
+]

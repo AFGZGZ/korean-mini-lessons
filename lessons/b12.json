@@ -1,0 +1,320 @@
+[
+  {
+    "id": "gra51",
+    "meta": ["7 min"],
+    "level": "Advanced",
+    "icon": "message-square",
+    "title": "Contracted Indirect Quotations: ~대요 / ~래유",
+    "description": "Streamline conversational flow by deploying heavily contracted hearsay markers for statements, questions, and commands.",
+    "explanation": [
+      "<h3>The Conversational Hearsay Shortcuts</h3>",
+      "In fast-paced spoken Korean, long formal indirect quotations like <b>~다고 해요</b> (they say that...) or <b>~라고 해요</b> (they tell me to...) are systematically condensed into hyper-efficient terminal suffixes.",
+      "<h3>The Structural Contraction Map</h3>",
+      "These shortcuts adapt smoothly depending on the original sentence's speech act:",
+      "<ul>",
+      "  <li><b>Declarative Statements (~대요):</b> Replaces the clunky <b>~다고 해요</b>. For present active verbs, use <b>~ㄴ/는대요</b> (e.g., 간대요 = they say they're going). For descriptive adjectives, attach <b>~대요</b> straight to the root (e.g., 바쁘대요 = they say they're busy).</li>",
+      "  <li><b>Imperative Commands (~래유 / ~래요):</b> Contracts the directive quotation <b>~라고 해요</b>. Use this when relaying an order or instruction delivered by a third party (e.g., 하래요 = they told me to do it).</li>",
+      "  <li><b>Interrogative Questions (~재요):</b> Compresses proposal-based quotes (<b>~자고 해요</b>), spinning suggestions into quick updates (e.g., 만나재요 = they suggested we meet up).</li>",
+      "</ul>"
+    ],
+    "takeaway": "These short forms are the lifeblood of daily office communication and casual gossip, allowing you to pass on information smoothly without sounding like a stiff textbook.",
+    "cultural_notes": "While highly natural in casual and semi-formal speech, do not use these contracted forms in formal written documentation or academic essays, where the uncontracted forms are required.",
+    "rules": [
+      "Compress standard declarative hearsay down to ㄴ/는대요 for action verbs and 대요 for descriptive roots.",
+      "Deploy 래유/래요 instantly when passing down a strict directive or command from a boss, parent, or client.",
+      "Retain the underlying tense marker behind the contraction when reporting past or future actions."
+    ],
+    "examples": [
+      {
+        "kr": "민수 씨가 다음 달에 결혼한대요.",
+        "translated": "Minsu says that he is getting married next month. (Contracted from 결혼한다고 해요)."
+      },
+      {
+        "kr": "사장님이 지금 바로 회의실로 오래요.",
+        "translated": "The boss told you to come to the meeting room right away. (Contracted instruction from 오라고 해요)."
+      },
+      {
+        "kr": "친구가 주말에 같이 영화를 보재요.",
+        "translated": "My friend suggested that we watch a movie together this weekend. (Contracted proposal from 보자고 해요)."
+      },
+      {
+        "kr": "어제는 날씨가 아주 추웠대요.",
+        "translated": "They say the weather was incredibly cold yesterday. (Past tense hearsay using 었대요)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra51_pr1",
+        "type": "fill",
+        "prompt": "Contract the declarative statement quote '먹는다고 해요' (They say they are eating) into its conversational short form.",
+        "answer": "먹는대요"
+      },
+      {
+        "id": "gra51_pr2",
+        "type": "fill",
+        "prompt": "Contract the imperative command quote '공부하라고 해요' (They told me to study) into its conversational short form.",
+        "answer": "공부하래요"
+      },
+      {
+        "id": "gra51_pr3",
+        "type": "fill",
+        "prompt": "Contract the descriptive adjective quote '예쁘다고 해요' (They say it is pretty) into its conversational short form.",
+        "answer": "예쁘대요"
+      }
+    ]
+  },
+  {
+    "id": "gra52",
+    "meta": ["6 min"],
+    "level": "Advanced",
+    "icon": "eye",
+    "title": "Retrospective Observation: ~더군요",
+    "description": "Express an exclamatory realization based on a past scene, event, or trait that you personally witnessed or experienced firsthand.",
+    "explanation": [
+      "<h3>The Firsthand Witness Module</h3>",
+      "The compound suffix <b>~더군요</b> blends the retrospective memory marker <b>~더~</b> with the polite exclamatory sentence closer <b>~군요</b>. It communicates a direct message: **'I am looking back at a specific scene I personally witnessed, and wow, I found it to be quite striking.'**",
+      "<h3>The Strict Subject Constraints</h3>",
+      "Because this is a retrospective tool based on external observation, it comes with a strict psychological rule:",
+      "<ul>",
+      "  <li><b>The External Subject Rule:</b> You cannot use the standard form to describe your own volitional actions. For instance, saying *'I went to the store'* using 더군요 sounds highly unnatural because you don't look back at your own choices as an outside observer.</li>",
+      "  <li><b>The Internal Exception:</b> You can only use it with yourself if you are describing an involuntary internal state or a realization about your past self (e.g., *'Back then, I realized I was genuinely exhausted'* $\\rightarrow$ 피곤하더군요).</li>",
+      "</ul>"
+    ],
+    "takeaway": "Think of ~더군요 as the grammatical equivalent of: 'I saw it myself, and let me tell you, it really was...'",
+    "cultural_notes": "This structure is ideal for storytelling or updating friends about your observations after returning from an event, a trip, or a client site visit.",
+    "rules": [
+      "Weld 더군요 directly onto standard verb or adjective roots without adding present-tense markers.",
+      "Reserve the subject slot of the clause for external people, nature, traffic, or objects you observed.",
+      "Switch to the past-inflected 형태 (~었더군요) if the state you witnessed was already fully completed before you got there."
+    ],
+    "examples": [
+      {
+        "kr": "한국에 가 보니까 정말 고층 빌딩이 많더군요.",
+        "translated": "Having traveled to Korea myself, I witnessed firsthand that there are truly so many skyscrapers. (Personal observation)."
+      },
+      {
+        "kr": "그 아이가 노래를 아주 잘하더군요.",
+        "translated": "I watched that child perform, and wow, they sang incredibly well."
+      },
+      {
+        "kr": "주말이라 그런지 백화점에 사람이 정말 많았더군요.",
+        "translated": "Perhaps because it was the weekend, a massive crowd had already gathered at the department store. (Past completed observation)."
+      },
+      {
+        "kr": "생각보다 한국어 발음이 어렵더군요.",
+        "translated": "After trying it myself, I discovered that Korean pronunciation is quite difficult."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra52_pr1",
+        "type": "fill",
+        "prompt": "Convert the adjective '크다' (to be big) into the retrospective observation form.",
+        "answer": "크더군요"
+      },
+      {
+        "id": "gra52_pr2",
+        "type": "fill",
+        "prompt": "Convert the active verb '마시다' (to drink) into the standard retrospective observation form.",
+        "answer": "마시더군요"
+      },
+      {
+        "id": "gra52_pr3",
+        "type": "fill",
+        "prompt": "Convert the adjective '춥다' (to be cold, ᄇ-irregular) into the retrospective observation form.",
+        "answer": "춥더군요"
+      }
+    ]
+  },
+  {
+    "id": "gra53",
+    "meta": ["7 min"],
+    "level": "Advanced",
+    "icon": "corner-down-left",
+    "title": "Retrospective Counterfactual: ~었었더라면",
+    "description": "Construct deep, hypothetical past-tense scenarios to express poignant regret or imagine an alternate reality ('If only X had happened, then Y would be different').",
+    "explanation": [
+      "<h3>The Ultimate Regret Conditional</h3>",
+      "The heavy conditional suffix <b>~었었더라면</b> stacks past tense inflections with retrospective memory markers. It transports the conversation into a completely fictional past, allowing you to speculate on what could have been.",
+      "<h3>The Two-Clause Past Balance</h3>",
+      "When building these counterfactual statements, the first clause sets up the imaginary past condition, while the second clause must resolve using matching speculative structures:",
+      "<ul>",
+      "  <li><b>The Speculative Resolution Pair:</b> The second clause almost always terminates in either <b>~(으)ㄹ 텐데</b> (it would have been), <b>~(으)ㄹ 뻔했다</b> (I almost did), or <b>~았/었을 것이다</b> (would have occurred).</li>",
+      "  <li><b>The Double Past Shift:</b> By utilizing the double past ($~었었~$), you emphasize that the situation is firmly set in stone, completely irreversible, and distinct from regular present conditions.</li>",
+      "</ul>"
+    ],
+    "takeaway": "This pattern is reserved for significant past turns, turning points, or deep reflections. For simple everyday conditions, a basic ~면 or ~았으면 is sufficient.",
+    "cultural_notes": "This grammar underpins standard phrases of existential regret or relief in Korean, frequently anchoring personal essays and dramatic turning points in conversations.",
+    "rules": [
+      "Conjugate the root verb into the double past format before locking on the 더라면 conditional anchor.",
+      "Resolve the sentence using an expectant or speculative past ending like 었을 텐데 or 을 것이다.",
+      "Deploy this pattern to express clear counterfactual relief or sincere regret about unalterable history."
+    ],
+    "examples": [
+      {
+        "kr": "그때 전화를 받았었더라면 친구를 만날 수 있었을 텐데.",
+        "translated": "If only I had picked up the phone back then, I would have been able to meet my friend. (Expresses clear past counterfactual regret)."
+      },
+      {
+        "kr": "내가 조금만 더 조심했었더라면 사고가 나지 않았을 것이다.",
+        "translated": "If I had been just a little bit more cautious, the accident would never have happened."
+      },
+      {
+        "kr": "젊었을 때 공부를 열심히 했었더라면 인생이 바뀌었을 텐데요.",
+        "translated": "If only I had studied harder when I was young, my life would have turned out completely different."
+      },
+      {
+        "kr": "비가 오지 않았었더라면 우리 공원에 갈 수 있었을 뻔했다.",
+        "translated": "Had it not rained, we almost could have gone to the park."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra53_pr1",
+        "type": "fill",
+        "prompt": "Convert the verb '가다' (to go) into the past counterfactual conditional form ('If only I had gone...').",
+        "answer": "갔었더라면"
+      },
+      {
+        "id": "gra53_pr2",
+        "type": "fill",
+        "prompt": "Convert '알다' (to know) into the past counterfactual conditional form ('If only I had known...').",
+        "answer": "알았었더라면"
+      },
+      {
+        "id": "gra53_pr3",
+        "type": "fill",
+        "prompt": "Convert the negative verb '없다' (to not exist/have) into this counterfactual conditional form.",
+        "answer": "없었었더라면"
+      }
+    ]
+  },
+  {
+    "id": "gra54",
+    "meta": ["6 min"],
+    "level": "Advanced",
+    "icon": "shuffle",
+    "title": "Complex Passive Structural Shifts",
+    "description": "Navigate the systemic dual paths of Korean passive voice: short suffix-based mutations (-이/히/리/기-) versus long lexical expansions (~어/아지다).",
+    "explanation": [
+      "<h3>The Dual-Engine Passive Matrix</h3>",
+      "Unlike English, which forms passives with a standard auxiliary pattern ('to be + verb'), Korean splits its passive voice into two distinct grammatical pathways depending on the nature of the verb root.",
+      "<h3>Pathway 1: The Short Suffix Infixes (-이/히/리/기-)</h3>",
+      "A limited set of highly common native verbs form their passive versions by inserting a specific single-syllable suffix directly inside the stem. These must be memorized as individual vocabulary upgrades:",
+      "<ul>",
+      "  <li><b>이:</b> 보다 (to see) $\\rightarrow$ <b>보이다</b> (to be seen/visible).</li>",
+      "  <li><b>히:</b> 닫다 (to close) $\\rightarrow$ <b>닫히다</b> (to be closed).</li>",
+      "  <li><b>리:</b> 듣다 (to hear) $\\rightarrow$ <b>들리다</b> (to be heard/audible).</li>",
+      "  <li><b>기:</b> 끊다 (to cut) $\\rightarrow$ <b>끊기다</b> (to be cut off/disconnected).</li>",
+      "</ul>",
+      "<h3>Pathway 2: The Long Lexical Expansion (~어/아지다)</h3>",
+      "For almost all other complex verbs, three-syllable action terms, and sentences requiring a change of state, you must append the auxiliary expansion <b>~어/아지다</b> (e.g., 만들다 $\\rightarrow$ <b>만들어지다</b> = to be made)."
+    ],
+    "takeaway": "Be careful not to double-up on passives. Combining both forms (like '열려지다' instead of '열리다') is a common redundant error.",
+    "cultural_notes": "Korean naturally prefers active phrasing when a human agent is involved. Passive structures are used primarily when emphasizing the recipient of the action, or when the agent is unknown or irrelevant.",
+    "rules": [
+      "Apply the short infixes (-이/히/리/기-) to standard native monosyllabic verbs.",
+      "Deploy the expansive ~어/아지다 framework for complex verbs and long multi-syllable action terms.",
+      "Avoid combining an infix with the 어지다 suffix within a single predicate stem."
+    ],
+    "examples": [
+      {
+        "kr": "바람 때문에 교실 문이 저절로 닫혔어요.",
+        "translated": "The classroom door closed on its own due to the wind. (Infix passive from 닫다 $\\rightarrow$ 닫히다)."
+      },
+      {
+        "kr": "저 멀리 높은 산이 선명하게 보여요.",
+        "translated": "The high mountains are clearly visible over in the distance. (Infix passive from 보다 $\\rightarrow$ 보이다)."
+      },
+      {
+        "kr": "새로운 스마트폰이 드디어 디자인되었습니다.",
+        "translated": "The new smartphone has finally been designed. (Noun-하다 verb passive shift via 되다)."
+      },
+      {
+        "kr": "이 책은 전 세계 사람들에 의해 읽어집니다.",
+        "translated": "This book is read by people all over the world. (Lexical passive expansion built from 읽다)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra54_pr1",
+        "type": "fill",
+        "prompt": "Provide the suffix-based passive form of '듣다' (to hear) in its base dictionary stem form.",
+        "answer": "들리다"
+      },
+      {
+        "id": "gra54_pr2",
+        "type": "fill",
+        "prompt": "Convert '믿다' (to believe) into its long lexical passive form meaning 'to be believed/trusted'.",
+        "answer": "믿어지다"
+      },
+      {
+        "id": "gra54_pr3",
+        "type": "fill",
+        "prompt": "Provide the suffix-based passive form of '막다' (to block/clog) in its dictionary stem form.",
+        "answer": "막히다"
+      }
+    ]
+  },
+  {
+    "id": "gra55",
+    "meta": ["6 min"],
+    "level": "Advanced",
+    "icon": "shield",
+    "title": "Inherent Natural Finality: ~기 마련이다",
+    "description": "State an objective law of nature, an inevitable truth, or an outcome that is bound to happen under normal circumstances.",
+    "explanation": [
+      "<h3>The Rule of Inevitability</h3>",
+      "The terminal modality pattern <b>~기 마련이다</b> (literally: 'it is arranged/prepared to be such') is used to express that an outcome is natural and bound to happen. It communicates that given a certain situation, **the final result is simply an inevitable law of nature**.",
+      "<h3>The Objective Shift</h3>",
+      "Unlike simple expressions like ~아/어야 해요 (must do), which reflect a person's individual obligation or opinion, <b>~기 마련이다</b> points to a broader, objective reality. It indicates that the universe is wired for a specific outcome, regardless of individual choices.",
+      "<h3>Structural Mechanics</h3>",
+      "This pattern is straightforward to apply: simply drop the final **~다** from any action verb or descriptive adjective stem and attach <b>~기 마련이다</b> directly to it. It remains unaffected by final consonants or vowel classes."
+    ],
+    "takeaway": "Think of ~기 마련이다 as the Korean equivalent of saying: 'It's bound to happen,' 'It's only natural that...,' or 'Water always finds its level.'",
+    "cultural_notes": "This grammar is a staple of philosophical advice, comforting remarks, and general wisdom, often used to reassure someone going through a tough transition.",
+    "rules": [
+      "Attach 기 마련이다 uniformly across both action verbs and descriptive adjectives without adjusting for final consonants.",
+      "Use this structure to highlight objective laws, natural consequences, or general truths.",
+      "Avoid using it to describe unexpected, highly unusual, or sudden accidental events."
+    ],
+    "examples": [
+      {
+        "kr": "겨울이 지나면 봄이 오기 마련입니다.",
+        "translated": "Once winter passes, spring is bound to come. (An objective law of nature)."
+      },
+      {
+        "kr": "아무리 돈이 많아도 쓰기만 하면 없어지기 마련이에요.",
+        "translated": "No matter how much money you have, if you do nothing but spend it, it's bound to disappear."
+      },
+      {
+        "kr": "누구나 처음에는 실수를 하기 마련입니다.",
+        "translated": "It is only natural that anyone will make mistakes at first. (Used as a comforting phrase)."
+      },
+      {
+        "kr": "시간이 흐르면 상처도 잊혀지기 마련이다.",
+        "translated": "As time flows by, even emotional wounds are bound to be forgotten."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra55_pr1",
+        "type": "fill",
+        "prompt": "Convert the verb '변하다' (to change) into the modality form meaning 'It is bound to change'.",
+        "answer": "변하기 마련이다"
+      },
+      {
+        "id": "gra55_pr2",
+        "type": "fill",
+        "prompt": "Convert the descriptive adjective '힘들다' (to be difficult/tiring) into its natural finality form.",
+        "answer": "힘들기 마련이다"
+      },
+      {
+        "id": "gra55_pr3",
+        "type": "fill",
+        "prompt": "Convert the passive verb '발견되다' (to be discovered) into its natural finality form.",
+        "answer": "발견되기 마련이다"
+      }
+    ]
+  }
+]
