@@ -8,12 +8,12 @@
     "description": "Chain multiple independent actions or descriptions together into a single fluid sentence without repetitive subject markers.",
     "explanation": [
       "<h3>The Non-Interruptive Chain</h3>",
-      "While the noun-linking particles learned in Stage 2 ($\sim$과/와, $\sim$하고) purely connect objects, <b>~고</b> serves as the primary engine for joining clauses or sequential behaviors. It maps directly to the English word <b>'and'</b> or the phrase <b>'and then'</b>.",
+      "While the noun-linking particles learned in Stage 2 ($\\sim$과/와, $\\sim$하고) purely connect objects, <b>~고</b> serves as the primary engine for joining clauses or sequential behaviors. It maps directly to the English word <b>'and'</b> or the phrase <b>'and then'</b>.",
       "<h3>Immutable Root Fusion</h3>",
-      "Like the progressive tense, $\sim$고 is mechanically straightforward because it completely bypasses vowel harmony checking. It strips away the dictionary <b>~다</b> tail and fuses seamlessly to the root stem regardless of batchim:",
+      "Like the progressive tense, $\\sim$고 is mechanically straightforward because it completely bypasses vowel harmony checking. It strips away the dictionary <b>~다</b> tail and fuses seamlessly to the root stem regardless of batchim:",
       "<br><br><hl>[First Verb/Adjective Stem] + 고 + [Second Clause]</hl>",
       "<h3>The Tense-Anchoring Principle</h3>",
-      "When detailing past chronological actions, you do not need to conjugate every single verb into the past tense. The first verb remains in its clean, neutral present stem form, while the **final verb** at the absolute tail of the sentence carries the temporal load for the entire sequence."
+      "When detailing past chronological actions, you do not need to conjugate every single verb into the past tense. The first verb remains in its clean, neutral present stem form, while the <b>final verb</b> at the absolute tail of the sentence carries the temporal load for the entire sequence."
     ],
     "takeaway": "Keep your intermediate joints raw and unmarred; let the final sentence tail handle the chronological burden.",
     "cultural_notes": "In fast conversational Korean, native speakers frequently end a standalone phrase directly with '~고...' when they want to trail off safely, implying there is more context they are leaving unsaid.",
@@ -72,9 +72,9 @@
       "<h3>The Pivot Axis</h3>",
       "The particle <b>~지만</b> creates an immediate logical turn. It acknowledges the premise of the initial clause but heavily qualifies it or flatly opposes it with the second clause. It mirrors the English connectors <b>'but'</b>, <b>'however'</b>, or <b>'although'</b>.",
       "<h3>Structural Mechanics</h3>",
-      "Similar to $\sim$고, $\sim$지만 strips the dictionary <b>~다</b> marker away and locks directly onto the root stem. It does not look for trailing vowel categories or bottom consonants.",
+      "Similar to $\\sim$고, $\\sim$지만 strips the dictionary <b>~다</b> marker away and locks directly onto the root stem. It does not look for trailing vowel categories or bottom consonants.",
       "<h3>The Past Tense Variation Rule</h3>",
-      "Unlike $\sim$고, **~지만 allows direct past tense markers to blend into its structure** if the initial caveat is explicitly located in historical time. For example, 'I went, but...' requires conjugating the root into the past base before stacking 지만 (갔지만)."
+      "Unlike $\\sim$고, <b>~지만 allows direct past tense markers to blend into its structure</b> if the initial caveat is explicitly located in historical time. For example, 'I went, but...' requires conjugating the root into the past base before stacking 지만 (갔지만)."
     ],
     "takeaway": "While chronological chains leave the middle unrefined, contrastive joints require real-time temporal markers if the premise occurred in the past.",
     "cultural_notes": "When rejecting a business offer or an invitation politely, native speakers will intentionally start their sentence with an appreciative clause closed by ~지만 to soften the blow of the rejection that follows.",

@@ -13,7 +13,7 @@
       "This structure transforms a dynamic verb or adjective into a stationary noun clause using the nominalizing suffix <b>~기</b>, and pairs it with <b>때문에</b> (because of):",
       "<br><br><hl>[Verb/Adj Stem] + 기 때문에</hl>",
       "<h3>The Rule of Command Restrictions</h3>",
-      "Because $\sim$기 때문에 is deeply objective and factual, it carries a strict grammatical restriction: <b>You cannot use it in the first clause if the second clause is an imperative command (~주세요) or a suggestive proposition (~읍시다)</b>. If you want to say 'Because it is raining, let's take an umbrella,' you must use the alternative causal marker studied in Lesson gra22."
+      "Because $\\sim$기 때문에 is deeply objective and factual, it carries a strict grammatical restriction: <b>You cannot use it in the first clause if the second clause is an imperative command (~주세요) or a suggestive proposition (~읍시다)</b>. If you want to say 'Because it is raining, let's take an umbrella,' you must use the alternative causal marker studied in Lesson gra22."
     ],
     "takeaway": "Drop the dictionary ~다 tail from any verb or adjective stem and anchor 기 때문에 directly to it without checking for vowel harmony or consonants.",
     "cultural_notes": "In news broadcasts, academic journals, and professional presentations, ~기 때문에 is heavily preferred over alternate causal links because it sounds deeply analytical and unbiased.",
@@ -70,7 +70,7 @@
     "description": "Master conversational, action-inducing reasoning that allows you to issue suggestions, requests, and commands.",
     "explanation": [
       "<h3>The Interactive Catalyst</h3>",
-      "While $\sim$기 때문에 handles dry, objective facts, <b>~(으)니까</b> is the expressive workhorse of live interaction. It states a subjective reason or personal realization that serves as the explicit justification for a request, suggestion, or command.",
+      "While $\\sim$기 때문에 handles dry, objective facts, <b>~(으)니까</b> is the expressive workhorse of live interaction. It states a subjective reason or personal realization that serves as the explicit justification for a request, suggestion, or command.",
       "<h3>The Structural Tracking Fork</h3>",
       "This suffix requires a batchim floor analysis of the verb or adjective stem before attachment:",
       "<ul>",
@@ -78,7 +78,7 @@
       "  <li><b>Consonant Floor Roots:</b> Stems that have a bottom batchim consonant receive an acoustic padding cushion, appending <b>~으니까</b> instead (e.g., 먹다 $\\rightarrow$ <b>먹으니까</b>).</li>",
       "</ul>",
       "<h3>The Freedom of Suggestion</h3>",
-      "The true superpower of $\sim$(으)니까 is its compatibility with commands. If your final sentence ends in <b>~주세요</b> (Please do) or <b>~읍시다</b> (Let's do), you **must** use ~(으)니까 to state your underlying reason."
+      "The true superpower of $\\sim$(으)니까 is its compatibility with commands. If your final sentence ends in <b>~주세요</b> (Please do) or <b>~읍시다</b> (Let's do), you **must** use ~(으)니까 to state your underlying reason."
     ],
     "takeaway": "Think of ~(으)니까 as 'Now that X is true, let's do Y' or 'Since X is the case, please do Y.'",
     "cultural_notes": "Because it leans subjective, native speakers use this particle continuously when defending their choices in an argument or offering excuses for minor mistakes.",
@@ -143,7 +143,7 @@
       "  <li><b>Consonant Floor Roots:</b> Add <b>~으시~</b> to the stem as a sound cushion (e.g., 읽다 $\\rightarrow$ 읽 + 으시 + 다 $\\rightarrow$ <b>읽으시다</b>).</li>",
       "</ul>",
       "<h3>Conjugating the Infix into the Present Tense</h3>",
-      "When you take an honorific stem like 가시다 and bring it down into standard polite conversational present tense ($\sim$아/어요), the combination of <b>시 + 어요</b> undergoes a permanent structural contraction into <b>셔요</b>, which modern Korean normalizes as <b>~세요</b>."
+      "When you take an honorific stem like 가시다 and bring it down into standard polite conversational present tense ($\\sim$아/어요), the combination of <b>시 + 어요</b> undergoes a permanent structural contraction into <b>셔요</b>, which modern Korean normalizes as <b>~세요</b>."
     ],
     "takeaway": "Never use the ~(으)시~ infix when discussing your own actions. It is strictly used to elevate *other* people.",
     "cultural_notes": "Using this honorific is mandatory in corporate workspaces. Failing to add it when addressing or talking about a manager is considered a serious breach of social etiquette.",
@@ -200,7 +200,7 @@
     "description": "Unlock vocabulary tracking switches where common daily words transform into unique honorific variants.",
     "explanation": [
       "<h3>Lexical Upgrades</h3>",
-      "While inserting the $\sim$(으)시$\sim$ infix works on most standard verbs, Korean features a core set of highly common words that undergo a **complete lexical transformation** when upgrading to honorific status. You cannot simply patch these basic words; you must replace them with entirely separate structural terms.",
+      "While inserting the $\\sim$(으)시$$\\sim$ infix works on most standard verbs, Korean features a core set of highly common words that undergo a **complete lexical transformation** when upgrading to honorific status. You cannot simply patch these basic words; you must replace them with entirely separate structural terms.",
       "<h3>The Essential Honorific Lexicon Table</h3>",
       "Study these absolute vocabulary conversions carefully:",
       "<table border='1' style='border-collapse: collapse; width: 100%; text-align: center;'>",
@@ -269,7 +269,7 @@
     "description": "Complete your honorific tracking suite by upgrading standard subject, topic, and dative particles.",
     "explanation": [
       "<h3>The Suffix Upgrade Matrix</h3>",
-      "To achieve comprehensive grammatical symmetry, elevating your verbs with $\sim$(으)시$\sim$ isn't enough. You must also swap out your foundational subject and target particles for their elite honorific counterparts:",
+      "To achieve comprehensive grammatical symmetry, elevating your verbs with $\\sim$(으)시$\\sim$ isn't enough. You must also swap out your foundational subject and target particles for their elite honorific counterparts:",
       "<ul>",
       "  <li><b>이/가 (Subject Marker) $\\rightarrow$ 께서 (kkeseyo):</b> Replaces the basic subject line indicators when flagging an esteemed actor.</li>",
       "  <li><b>은/는 (Topic Marker) $\\rightarrow$ 께서는 (kkeseoneun):</b> Replaces the standard topic line frame.</li>",

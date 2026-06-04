@@ -75,7 +75,7 @@
     "description": "Form passives for verbs that cannot accept the suffix extensions, or track an incremental transformation of state.",
     "explanation": [
       "<h3>The Standard Passive Fallback</h3>",
-      "Not every active Korean verb can fit into the rigid $\sim$이/히/리/기$\sim$ suffix system. For verbs lacking a native suffix alternative—especially complex multi-syllable verbs or actions derived from Hanja (Chinese characters)—the grammar system utilizes the universal compound extension <b>~어/아지다</b>.",
+      "Not every active Korean verb can fit into the rigid $\\sim$이/히/리/기$\\sim$ suffix system. For verbs lacking a native suffix alternative—especially complex multi-syllable verbs or actions derived from Hanja (Chinese characters)—the grammar system utilizes the universal compound extension <b>~어/아지다</b>.",
       "<h3>Conjugation Integration Path</h3>",
       "This structure attaches to action verbs using standard <b>Present Conversational Inflection</b> rules:",
       "<ul>",
