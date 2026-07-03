@@ -40,13 +40,13 @@
       {
         "id": "hgl01_pr2",
         "type": "fill",
-        "prompt": "Spell 'milk' in Korean (oo-yoo)",
+        "prompt": "Spell 'milk' in Korean",
         "answer": "우유"
       },
       {
         "id": "hgl01_pr3",
         "type": "fill",
-        "prompt": "Spell 'child' in Korean (ah-ee)",
+        "prompt": "Spell 'child' in Korean",
         "answer": "아이"
       }
     ]
@@ -59,7 +59,7 @@
     "title": "기본 자음 (Basic Consonants)",
     "description": "Learn the first set of simple consonants: ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅅ, ㅇ, ㅈ, ㅎ.",
     "explanation": [
-      "Korean letters are written inside imaginary squares, moving from <b>left to right</b> and <b>top to bottom</b>.",
+      "Korean letters are written moving from <b>left to right</b> and <b>top to bottom</b>.",
       "<br><br>Consonants change slightly depending on the vowel: <b>ㄱ</b> sounds like a soft 'g/k', <b>ㄴ</b> is 'n', <b>ㄷ</b> is 'd/t', and <b>ㄹ</b> is a flapped 'r/l' sound.",
       "<br><br><b>ㅅ</b> is an 's' sound, but it turns into a soft 'sh' sound when paired with <b>ㅣ</b> or 'y' vowels (like ㅑ, ㅕ, ㅛ, ㅠ)."
     ],
@@ -67,38 +67,38 @@
     "examples": [
       {
         "kr": "나무",
-        "translated": "tree (na-moo)"
+        "translated": "tree"
       },
       {
         "kr": "고기",
-        "translated": "meat (go-gi)"
+        "translated": "meat"
       },
       {
         "kr": "다리",
-        "translated": "leg / bridge (da-ri)"
+        "translated": "leg / bridge"
       },
       {
         "kr": "가수",
-        "translated": "singer (ga-soo)"
+        "translated": "singer"
       }
     ],
     "practice": [
       {
         "id": "hgl02_pr1",
         "type": "fill",
-        "prompt": "Spell 'tree' in Korean (na-moo)",
+        "prompt": "Spell 'tree' in Korean",
         "answer": "나무"
       },
       {
         "id": "hgl02_pr2",
         "type": "fill",
-        "prompt": "Spell 'meat' in Korean (go-gi)",
+        "prompt": "Spell 'meat' in Korean",
         "answer": "고기"
       },
       {
         "id": "hgl02_pr3",
         "type": "fill",
-        "prompt": "Spell 'singer' in Korean (ga-soo)",
+        "prompt": "Spell 'singer' in Korean",
         "answer": "가수"
       }
     ]
@@ -112,45 +112,45 @@
     "description": "Master complex combined vowel sounds like ㅐ, ㅔ, ㅘ, ㅝ, ㅟ, ㅢ.",
     "explanation": [
       "Double vowels are created by smashing two vowels together.",
-      "<br><br><b>ㅐ</b> (ae) and <b>ㅔ</b> (e) sound almost identical in modern spoken Korean. Don't worry about distinguishing them by ear—focus on spelling.",
+      "<br><br><b>ㅐ</b> (ae) and <b>ㅔ</b> (e) sound almost identical in modern spoken Korean. Don't worry too much about distinguishing them by ear—focus on spelling.",
       "<br><br>Combination rules: ㅗ blends with ㅏ (<b>ㅘ</b> = wa). ㅜ blends with ㅓ (<b>ㅝ</b> = wo). ㅢ (ui) is unique: it sounds like 'ee' when combined with consonants."
     ],
     "takeaway": "Think of combination vowels as gliding sounds (w + vowel).",
     "examples": [
       {
         "kr": "사과",
-        "translated": "apple (sa-gwa)"
+        "translated": "apple"
       },
       {
         "kr": "돼지",
-        "translated": "pig (dwae-ji)"
+        "translated": "pig"
       },
       {
         "kr": "의사",
-        "translated": "doctor (ui-sa)"
+        "translated": "doctor"
       },
       {
         "kr": "회사",
-        "translated": "company (hwae-sa)"
+        "translated": "company"
       }
     ],
     "practice": [
       {
         "id": "hgl03_pr1",
         "type": "fill",
-        "prompt": "Spell 'apple' in Korean (sa-gwa)",
+        "prompt": "Spell 'apple' in Korean",
         "answer": "사과"
       },
       {
         "id": "hgl03_pr2",
         "type": "fill",
-        "prompt": "Spell 'doctor' in Korean (ui-sa)",
+        "prompt": "Spell 'doctor' in Korean",
         "answer": "의사"
       },
       {
         "id": "hgl03_pr3",
         "type": "fill",
-        "prompt": "Spell 'pig' in Korean (dwae-ji)",
+        "prompt": "Spell 'pig' in Korean",
         "answer": "돼지"
       }
     ]
@@ -171,38 +171,38 @@
     "examples": [
       {
         "kr": "커피",
-        "translated": "coffee (keo-pi)"
+        "translated": "coffee"
       },
       {
         "kr": "꼬리",
-        "translated": "tail (kko-ri)"
+        "translated": "tail"
       },
       {
         "kr": "토끼",
-        "translated": "rabbit (to-kki)"
+        "translated": "rabbit"
       },
       {
         "kr": "치마",
-        "translated": "skirt (chi-ma)"
+        "translated": "skirt"
       }
     ],
     "practice": [
       {
         "id": "hgl04_pr1",
         "type": "fill",
-        "prompt": "Spell 'coffee' in Korean (keo-pi)",
+        "prompt": "Spell 'coffee' in Korean",
         "answer": "커피"
       },
       {
         "id": "hgl04_pr2",
         "type": "fill",
-        "prompt": "Spell 'rabbit' in Korean (to-kki)",
+        "prompt": "Spell 'rabbit' in Korean (Like our mascot!)",
         "answer": "토끼"
       },
       {
         "id": "hgl04_pr3",
         "type": "fill",
-        "prompt": "Spell 'skirt' in Korean (chi-ma)",
+        "prompt": "Spell 'skirt' in Korean",
         "answer": "치마"
       }
     ]
@@ -242,19 +242,19 @@
       {
         "id": "hgl05_pr1",
         "type": "fill",
-        "prompt": "Spell 'book' in Korean (chaek)",
+        "prompt": "Spell 'book' in Korean",
         "answer": "책"
       },
       {
         "id": "hgl05_pr2",
         "type": "fill",
-        "prompt": "Spell 'clothes' in Korean (ot - uses 'ㅅ' batchim)",
+        "prompt": "Spell 'clothes' in Korean",
         "answer": "옷"
       },
       {
         "id": "hgl05_pr3",
         "type": "fill",
-        "prompt": "Spell 'house' in Korean (jip)",
+        "prompt": "Spell 'house' in Korean",
         "answer": "집"
       }
     ]
@@ -294,19 +294,19 @@
       {
         "id": "hgl06_pr1",
         "type": "fill",
-        "prompt": "Spell the word for 'chicken' (dak - uses 'ㄺ' batchim)",
+        "prompt": "Spell the word for 'chicken'",
         "answer": "닭"
       },
       {
         "id": "hgl06_pr2",
         "type": "fill",
-        "prompt": "Spell the base verb 'to sit' (an-tta - uses 'ㄵ' batchim + 다)",
+        "prompt": "Spell the base verb 'to sit'",
         "answer": "앉다"
       },
       {
         "id": "hgl06_pr3",
         "type": "fill",
-        "prompt": "Spell the native number for 'eight' (yeo-deol - uses 'ㄼ' batchim)",
+        "prompt": "Spell the native number for 'eight'",
         "answer": "여덟"
       }
     ]
