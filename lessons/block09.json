@@ -1,0 +1,334 @@
+[
+  {
+    "id": "gra36",
+    "meta": ["8 min"],
+    "level": "Advanced",
+    "icon": "shield",
+    "title": "Suffix Passives: ~이/히/리/기~",
+    "description": "Convert active action verbs into their passive equivalents using specific single-syllable suffix extensions embedded directly into the verb root.",
+    "explanation": [
+      "<h3>The Suffix Passive Shift</h3>",
+      "Unlike English, which forms passives using a helper verb ('to be seen'), Korean creates passive verbs by welding a single-syllable suffix—<b>이</b>, <b>히</b>, <b>리</b>, or <b>기</b>—directly inside the verb root itself. This completely alters the sentence architecture: the original direct object shifts into becoming the primary grammatical subject.",
+      "<h3>The Suffix Sorting Blueprint</h3>",
+      "The specific suffix a verb accepts depends heavily on the final consonant sound of its stem root:",
+      "<ul>",
+      "  <li><b>~이~:</b> Primarily targets vowel roots or stems ending in <b>ㄱ, ㅂ, ㅈ</b> (e.g., 보다 $\\rightarrow$ <b>보이다</b> [to be seen], 놓다 $\\rightarrow$ <b>놓이다</b> [to be placed]).</li>",
+      "  <li><b>~히~:</b> Targets stems ending in <b>ㄱ, ㄷ, ㅂ</b> sounds, frequently sparking an aspirated pronunciation change (e.g., 닫다 $\\rightarrow$ <b>닫히다</b> [to be closed], 잡다 $\\rightarrow$ <b>잡히다</b> [to be caught]).</li>",
+      "  <li><b>~리~:</b> Exclusively targets roots ending in the <b>ㄹ</b> batchim or verbs that trigger 'ㄷ' irregular mutations (e.g., 열다 $\\rightarrow$ <b>열리다</b> [to be opened], 듣다 $\\rightarrow$ <b>들리다</b> [to be heard]).</li>",
+      "  <li><b>~기~:</b> Typically attaches to stems ending in <b>ㄴ, ㅁ, ㅅ, ㅈ</b> sounds (e.g., 끊다 $\\rightarrow$ <b>끊기다</b> [to be cut off], 안다 $\\rightarrow$ <b>안기다</b> [to be hugged]).</li>",
+      "</ul>",
+      "<h3>The Agent Marker Change</h3>",
+      "In an active sentence, the person performing the action takes the subject marker (~이/가). In a suffix passive sentence, the external force or agent causing the action drops to a secondary role, taking the particle <b>~에게</b> or <b>~에</b> (e.g., 'by someone/something')."
+    ],
+    "takeaway": "Because these forms are deeply lexicalized, you must memorize which of the four suffixes pairs with each individual action verb.",
+    "cultural_notes": "Passive formations are heavily favored in daily Korean speech when describing environmental occurrences or unexpected accidents where assigning explicit personal blame sounds too harsh or direct.",
+    "rules": [
+      "Identify the terminal root sound of the active verb before running your suffix selection path.",
+      "Demote the original active subject agent by appending the ~에게 or ~에 particle to them.",
+      "Ensure the original object asset takes the primary ~이/가 subject marker in the passive frame."
+    ],
+    "examples": [
+      {
+        "kr": "멀리서 남산타워가 보여요.",
+        "translated": "The Namsan Tower is seen from afar. (Active 보다 becomes the passive 보이다)."
+      },
+      {
+        "kr": "바람 때문에 방 문이 닫혔어요.",
+        "translated": "The room door was closed because of the wind. (Active 닫다 takes 히 to become 닫히다)."
+      },
+      {
+        "kr": "도둑이 경찰에게 잡혔습니다.",
+        "translated": "The thief was caught by the police. (The police agent takes에게; 잡다 becomes 잡히다)."
+      },
+      {
+        "kr": "밖에서 신비로운 노랫소리가 들려요.",
+        "translated": "A mysterious singing voice is heard from outside. (듣다 undergoes a ㄷ mutation to take 리 $\\rightarrow$ 들리다)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra36_pr1",
+        "type": "fill",
+        "prompt": "Convert the active verb '열다' (to open) into its passive form 'to be opened'.",
+        "answer": "열리다"
+      },
+      {
+        "id": "gra36_pr2",
+        "type": "fill",
+        "prompt": "Convert the active verb '쓰다' (to write/use) into its passive form 'to be written'.",
+        "answer": "쓰이다"
+      },
+      {
+        "id": "gra36_pr3",
+        "type": "fill",
+        "prompt": "Convert '끊다' (to cut/disconnect) into its passive form 'to be cut off'.",
+        "answer": "끊기다"
+      }
+    ]
+  },
+  {
+    "id": "gra37",
+    "meta": ["7 min"],
+    "level": "Advanced",
+    "icon": "refresh-cw",
+    "title": "Morphological Passives: ~어/아지다",
+    "description": "Form passives for verbs that cannot accept the suffix extensions, or track an incremental transformation of state.",
+    "explanation": [
+      "<h3>The Standard Passive Fallback</h3>",
+      "Not every active Korean verb can fit into the rigid $\\sim$이/히/리/기$\\sim$ suffix system. For verbs lacking a native suffix alternative—especially complex multi-syllable verbs or actions derived from Hanja (Chinese characters)—the grammar system utilizes the universal compound extension <b>~어/아지다</b>.",
+      "<h3>Conjugation Integration Path</h3>",
+      "This structure attaches to action verbs using standard <b>Present Conversational Inflection</b> rules:",
+      "<ul>",
+      "  <li><b>Bright Vowels (ㅏ, ㅗ):</b> Attach <b>~아지다</b> (e.g., 찾다 $\\rightarrow$ <b>찾아지다</b> [to be found]).</li>",
+      "  <li><b>Dark Vowels (어, 우, 이, etc.):</b> Attach <b>~어지다</b> (e.g., 만들다 $\\rightarrow$ <b>만들어지다</b> [to be made]).</li>",
+      "  <li><b>하단 Verbs (하다):</b> Shift uniformly into <b>~해지다</b> (e.g., 전하다 $\\rightarrow$ <b>전해지다</b> [to be transmitted/passed down]).</li>",
+      "</ul>",
+      "<h3>The Adjective Mutation Split</h3>",
+      "You must stay alert to a major part-of-speech divergence. When ~어/아지다 attaches to an *action verb*, it serves a strictly **passive** function. However, when it attaches to an *adjective root*, it transforms that description into a process of change meaning **'to become...'** (e.g., 예쁘다 $\\rightarrow$ 예뻐지다 [to become pretty])."
+    ],
+    "takeaway": "Think of ~어/아지다 as the generalized, structural passive tool that steps in whenever a specific short suffix is unavailable.",
+    "cultural_notes": "This grammar is widely preferred in journalistic writing and professional reports to maintain a highly objective, neutral tone (e.g., '이 사실은 널리 알려졌다' = 'This fact became widely known').",
+    "rules": [
+      "Inflect the core action verb using regular 어/아 filters before cementing the 지다 framework.",
+      "Route any standard 하다 action base directly through the 해지다 conversion sequence.",
+      "Evaluate whether your base root is an action or adjective to clearly differentiate passive from change-of-state meanings."
+    ],
+    "examples": [
+      {
+        "kr": "이 스마트폰은 한국에서 만들어졌어요.",
+        "translated": "This smartphone was made in Korea. (Action verb 만들다 combines with 어지다 in the past tense)."
+      },
+      {
+        "kr": "전설 같은 이야기가 고향에 전해집니다.",
+        "translated": "A legend-like story is being passed down in my hometown. (전하다 transforms into 전해지다)."
+      },
+      {
+        "kr": "드디어 잃어버린 열쇠가 찾아졌어요.",
+        "translated": "Finally, the lost key was found. (찾다 leverages 찾아지다 to indicate passive discovery)."
+      },
+      {
+        "kr": "날씨가 갈수록 따뜻해져요.",
+        "translated": "The weather is becoming warmer as time goes on. (Adjective 따뜻하다 uses 해지다 to mark an ongoing state mutation)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra37_pr1",
+        "type": "fill",
+        "prompt": "Convert the action verb '이루다' (to achieve) into its passive form 'to be achieved'.",
+        "answer": "이루어지다"
+      },
+      {
+        "id": "gra37_pr2",
+        "type": "fill",
+        "prompt": "Convert '지우다' (to erase) into its passive form 'to be erased'.",
+        "answer": "지워지다"
+      },
+      {
+        "id": "gra37_pr3",
+        "type": "fill",
+        "prompt": "Convert '깨다' (to break/smash) into its passive form 'to be broken'.",
+        "answer": "깨지다"
+      }
+    ]
+  },
+  {
+    "id": "gra38",
+    "meta": ["8 min"],
+    "level": "Advanced",
+    "icon": "zap",
+    "title": "Suffix Causatives: ~이/히/리/기/우/구/추~",
+    "description": "Infuse verbs with causative energy to show that the subject makes, causes, or allows an agent to perform an action.",
+    "explanation": [
+      "<h3>The Causative Spark</h3>",
+      "Causative verbs indicate that the primary subject does not physically execute the action themselves; instead, **they manipulate, instruct, or allow an agent to perform it** (e.g., 'to make someone read' or 'to feed a child'). Like passives, morphological causatives embed single-syllable suffixes straight into the verb stem.",
+      "<h3>The Suffix Expansion Pack</h3>",
+      "The causative family features seven primary suffixes: <b>이, 히, 리, 기, 우, 구, 추</b>. Because of this expanded list, many verbs have overlapping passive and causative forms that can only be identified through sentence context:",
+      "<ul>",
+      "  <li><b>~이~:</b> Often binds to vowels or melting consonants (e.g., 녹다 $\\rightarrow$ <b>녹이다</b> [to melt something], 먹다 $\\rightarrow$ <b>먹이다</b> [to feed someone]).</li>",
+      "  <li><b>~히~:</b> Frequently tracks structural movements (e.g., 앉다 $\\rightarrow$ <b>앉히다</b> [to seat someone], 입다 $\\rightarrow$ <b>입히다</b> [to clothe someone]).</li>",
+      "  <li><b>~리~:</b> (e.g., 살다 $\\rightarrow$ <b>살리다</b> [to save/revive], 알다 $\\rightarrow$ <b>알리다</b> [to inform/make known]).</li>",
+      "  <li><b>~기~:</b> (e.g., 웃다 $\\rightarrow$ <b>웃기다</b> [to make someone laugh], 숨다 $\\rightarrow$ <b>숨기다</b> [to hide something]).</li>",
+      "  <li><b>~우/구/추~:</b> Target specialized native phonetic roots (e.g., 비다 $\\rightarrow$ <b>비우다</b> [to empty], 솟다 $\\rightarrow$ <b>솟구치다</b>, 낮다 $\\rightarrow$ <b>낮추다</b> [to lower]).</li>",
+      "</ul>",
+      "<h3>Particle Realignment</h3>",
+      "When building a causative clause around an active intransitive verb, the caused agent takes the object marker <b>~을/를</b>. If the underlying verb was already transitive (holding its own object), the caused agent takes <b>~에게</b> or <b>~한테</b>."
+    ],
+    "takeaway": "Suffix causatives lean heavily toward immediate, direct physical causation (e.g., physically dressing a child vs. ordering them to dress).",
+    "cultural_notes": "Using these verbs correctly is crucial for polite social dynamics when hosting guests, particularly when offering food or arranging seating locations (e.g., '여기 앉히세요' = 'Please seat them here').",
+    "rules": [
+      "Identify the targeted agent and append the correct ~을/를 or ~에게 tracking marker.",
+      "Differentiate overlapping forms (like 알리다) by checking for an object noun elsewhere in the sentence.",
+      "Deploy these forms to emphasize a direct, hands-on causative action."
+    ],
+    "examples": [
+      {
+        "kr": "어머니가 아기에게 우유를 먹여요.",
+        "translated": "The mother feeds milk to the baby. (먹다 inflects via causative 이 $\\rightarrow$ 먹이다 $\\rightarrow$ 먹여요)."
+      },
+      {
+        "kr": "친구는 나를 한 시간 동안 기다리게 하고 웃겼어요.",
+        "translated": "My friend made me laugh after making me wait for an hour. (웃다 takes 기 $\\rightarrow$ 웃기다)."
+      },
+      {
+        "kr": "손님을 소파에 앉혔습니다.",
+        "translated": "I seated the guest on the sofa. (앉다 takes the causative suffix 히 $\\rightarrow$ 앉히다)."
+      },
+      {
+        "kr": "라디오 볼륨을 조금 낮춰 주세요.",
+        "translated": "Please lower the radio volume a bit. (Adjective 낮다 utilizes 추 $\\rightarrow$ 낮추다)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra38_pr1",
+        "type": "fill",
+        "prompt": "Convert the active verb '죽다' (to die) into its causative derivative 'to kill'.",
+        "answer": "죽이다"
+      },
+      {
+        "id": "gra38_pr2",
+        "type": "fill",
+        "prompt": "Convert '맡다' (to take charge of) into its causative derivative 'to entrust/assign'.",
+        "answer": "맡기다"
+      },
+      {
+        "id": "gra38_pr3",
+        "type": "fill",
+        "prompt": "Convert the verb '깨다' (to wake up) into its causative derivative 'to wake someone else up'.",
+        "answer": "깨우다"
+      }
+    ]
+  },
+  {
+    "id": "gra39",
+    "meta": ["6 min"],
+    "level": "Advanced",
+    "icon": "sliders",
+    "title": "Syntactic Causatives: ~게 하다",
+    "description": "Deploy the universal syntactic causative formula to express indirect causation, orders, permissions, or structural bypasses.",
+    "explanation": [
+      "<h3>The Indirect Causative Option</h3>",
+      "When a verb cannot take a short morphological suffix, or when you want to express **indirect, non-physical causation** (like issuing a verbal command or giving permission), you use the universal formula <b>~게 하다</b>.",
+      "<h3>Contrast of Direct vs. Indirect</h3>",
+      "Understanding the nuance gap between suffix causatives and ~게 하다 is a key hallmark of advanced proficiency:",
+      "<ul>",
+      "  <li><b>Suffix Causative (Direct):</b> The subject is directly, often physically involved in the execution (e.g., 어머니가 아이에게 옷을 <b>입혔다</b> $\\rightarrow$ The mother physically put the clothes onto the child).</li>",
+      "  <li><b>~게 하다 (Indirect):</b> The subject issues a verbal command or creates a situation that allows the action to happen (e.g., 어머니가 아이에게 옷을 <b>입게 했다</b> $\\rightarrow$ The mother told the child to put on their clothes).</li>",
+      "</ul>",
+      "<h3>Universal Structural Path</h3>",
+      "This grammar pattern is completely uniform. Suffix away the ~다 tail of any action verb or adjective root and append ~게 하다 directly, with zero exceptions for vowel or consonant structures (e.g., 공부하다 $\\rightarrow$ <b>공부하게 하다</b>)."
+    ],
+    "takeaway": "Use ~게 하다 anytime you want to highlight that you gave an order, granted permission, or influenced an outcome indirectly.",
+    "cultural_notes": "In corporate settings, managers regularly employ this structure when delegating responsibilities to team members without sounding overbearing (e.g., '김 대리가 보고서를 작성하게 하세요' = 'Have Assistant Manager Kim prepare the report').",
+    "rules": [
+      "Isolate the verb or adjective base stem cleanly without modifying its internal core components.",
+      "Append 게 하다 directly to the base, inserting a space boundary ahead of the 하다 block.",
+      "Select this form intentionally over a suffix option to emphasize indirect influence rather than physical manipulation."
+    ],
+    "examples": [
+      {
+        "kr": "선생님은 학생들이 한국어로만 말하게 해요.",
+        "translated": "The teacher makes the students speak only in Korean. (Indirect directive using 말하게 하다)."
+      },
+      {
+        "kr": "부모님은 내가 늦게까지 게임을 하지 못하게 하셨다.",
+        "translated": "My parents did not allow me to play games until late. (Negative causative construction using 지 못하게 하다)."
+      },
+      {
+        "kr": "아이를 방에서 자게 했어요.",
+        "translated": "I let the child sleep in the room. (Indicates granting permission or arranging a scenario indirectly)."
+      },
+      {
+        "kr": "방을 깨끗하게 청소해 주세요.",
+        "translated": "Please clean the room cleanly. (Adjective target highlighting an expected result environment)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra39_pr1",
+        "type": "fill",
+        "prompt": "Convert '생각하다' (to think) into the syntactic causative form meaning 'to make someone think'.",
+        "answer": "생각하게 하다"
+      },
+      {
+        "id": "gra39_pr2",
+        "type": "fill",
+        "prompt": "Convert the verb '출발하다' (to depart) into the syntactic causative form 'to make/allow to depart'.",
+        "answer": "출발하게 하다"
+      },
+      {
+        "id": "gra39_pr3",
+        "type": "fill",
+        "prompt": "Form the causative phrase meaning 'made someone drink' using 마시다 in the ~게 하다 template (past tense polite, ended with 했어요).",
+        "answer": "마시게 했어요"
+      }
+    ]
+  },
+  {
+    "id": "gra40",
+    "meta": ["6 min"],
+    "level": "Advanced",
+    "icon": "target",
+    "title": "Intentional Actions: ~으려던 참이다",
+    "description": "Express that you were just at the absolute verge of executing a specific action right when an unexpected event or interruption occurred.",
+    "explanation": [
+      "<h3>The Verge of Action</h3>",
+      "The advanced intentional framework <b>~으려던 참이다</b> captures perfect real-time timing. It declares: **'I was just about to do X at that exact moment'** (often followed by an explanation of how someone else's arrival or a phone call interrupted or anticipated your plan).",
+      "<h3>Anatomy of the Grammar</h3>",
+      "This compound is a sophisticated mix of the high-intermediate intention suffix <b>~(으)려고 하다</b>, the retrospective past marker <b>~더~</b>, and the dependent noun <b>참</b> (the exact point/verge of an event), capped by the identity link <b>이다</b>.",
+      "<h3>The Consonant Layout Split</h3>",
+      "Look closely at the final consonant layout of your action verb stem:",
+      "<ul>",
+      "  <li><b>Open Vowel Roots:</b> Attach <b>~려던 참이다</b> directly to the stem (e.g., 전화하다 $\\rightarrow$ <b>전화하려던 참이다</b>).</li>",
+      "  <li><b>Consonant Floor Roots:</b> Consonant-heavy bases receive the acoustic bridge <b>~으려던 참이다</b> (e.g., 먹다 $\\rightarrow$ <b>먹으려던 참이다</b>).</li>",
+      "  <li><b>The ᄅ Exception:</b> Roots ending in a bottom <b>ㄹ</b> batchim reject the padding completely, taking the vowel path (e.g., 만들다 $\\rightarrow$ <b>만들려던 참이다</b>).</li>",
+      "</ul>"
+    ],
+    "takeaway": "This pattern is typically paired with conversational focus particles like 마침 (just/coincidentally) to highlight a striking coincidence in timing.",
+    "cultural_notes": "This grammar is the ideal polite response when someone calls or texts you right as you were thinking of them, creating an instant sense of shared rapport and connection.",
+    "rules": [
+      "Slide 려던 참이다 onto open vowel or ᄅ-batchim verb stems without adding extra padding.",
+      "Deploy the 으려던 safety layer for action verbs blocked by a bottom consonant floor.",
+      "Pair this structure with the adverb 마침 to maximize conversational emphasis on the striking timing."
+    ],
+    "examples": [
+      {
+        "kr": "마침 지수 씨에게 전화를 하려던 참이었어요.",
+        "translated": "Coincidentally, I was just about to call Jisu at that exact moment. (Perfect synchronization of timing)."
+      },
+      {
+        "kr": "가방을 싸고 이제 나가려던 참입니다.",
+        "translated": "I packed my bag and was just about to head out. (나가다 takes 려던 참입니다)."
+      },
+      {
+        "kr": "안 그래도 지금 저녁을 먹으려던 참이었어.",
+        "translated": "Even if you didn't mention it, I was just about to eat dinner right now anyway. (먹다 uses the 으려던 bridge)."
+      },
+      {
+        "kr": "자료를 다 정리하고 컴퓨터를 끄려던 참이었어요.",
+        "translated": "I had organized all the data and was just about to turn off the computer."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra40_pr1",
+        "type": "fill",
+        "prompt": "Convert '사다' (to buy) into the intention form meaning 'I was just about to buy it'.",
+        "answer": "사려던 참이다"
+      },
+      {
+        "id": "gra40_pr2",
+        "type": "fill",
+        "prompt": "Convert '씻다' (to wash) into the intention form 'I was just about to wash up'.",
+        "answer": "씻으려던 참이다"
+      },
+      {
+        "id": "gra40_pr3",
+        "type": "fill",
+        "prompt": "Form the phrase 'I was just about to start' using 시작하다 in this pattern (past polite conversational ending, ending in 참이었어요).",
+        "answer": "시작하려던 참이었어요"
+      }
+    ]
+  }
+]

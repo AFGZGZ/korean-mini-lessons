@@ -1,0 +1,332 @@
+[
+  {
+    "id": "gra31",
+    "meta": ["7 min"],
+    "level": "High-Intermediate",
+    "icon": "message-square",
+    "title": "Indirect Quotation (Statements): ~다고 하다",
+    "description": "Report what someone else said, claimed, or thought in a declarative statement (e.g., 'He said that he likes Korean food').",
+    "explanation": [
+      "<h3>The Declarative Report</h3>",
+      "Indirect quotations allow you to weave someone else's statements naturally into your own sentences. Instead of repeating their exact words using quotation marks, you anchor their statement using the citation suffix <b>~다고 하다</b> (or its highly common conversational contraction <b>~대요</b>).",
+      "<h3>The Part-of-Speech Split</h3>",
+      "Unlike simple grammar patterns, indirect quotations require you to look closely at whether the original quote was built around an adjective or a action verb:",
+      "<ul>",
+      "  <li><b>Adjectives (Descriptive Verbs) & 있다/없다:</b> Attach <b>~다고 하다</b> directly to the dictionary stem without changing it (e.g., 바쁘다 $\\rightarrow$ <b>바쁘다고 하다</b>).</li>",
+      "  <li><b>Action Verbs (Present Tense):</b> You must apply the present-tense modifier suffix first. Open vowels take <b>~ㄴ다고 하다</b>; consonant floors take <b>~는다고 하다</b> (e.g., 가다 $\\rightarrow$ <b>간다고 하다</b>, 먹다 $\\rightarrow$ <b>먹는다고 하다</b>).</li>",
+      "  <li><b>Nouns (이다/아니다):</b> Nouns ending in a vowel take <b>~(이)라고 하다</b>, while consonant endings take <b>~이라고 하다</b>.</li>",
+      "</ul>",
+      "<h3>Past Tense Uniformity</h3>",
+      "If the reported statement happened in the past, the part-of-speech distinction disappears. Simply attach <b>~었다고/았다고/했다고 하다</b> directly to the past tense stem (e.g., 먹었다 $\\rightarrow$ <b>먹었다고 하다</b>)."
+    ],
+    "takeaway": "Always identify whether the quoted predicate is an adjective or an action verb before choosing your present tense quotation path.",
+    "cultural_notes": "In daily conversation, native speakers rarely use the full '하다고 해요' ending. They almost exclusively contract it to '대요' (e.g., 바쁘대요 = They say they're busy) or 'ㄴ/는대요' for action verbs.",
+    "rules": [
+      "Leave adjectives completely unmutated in the present tense before welding 다고 하다.",
+      "Incorporate the ㄴ/는 marker onto action verb roots before applying the quotation tail.",
+      "Contract the entire ~다고 해요 framework down to ~대요 for smooth, natural spoken dialogue."
+    ],
+    "examples": [
+      {
+        "kr": "민우 씨가 한국 음식을 좋아한다고 해요.",
+        "translated": "Minwoo says that he likes Korean food. (좋아하다 is an action verb, so it takes ㄴ다고 해요)."
+      },
+      {
+        "kr": "오늘 날씨가 아주 춥다고 들었어요.",
+        "translated": "I heard that the weather is very cold today. (춥다 is an adjective, attaching directly to 다고)."
+      },
+      {
+        "kr": "수진 씨는 내일 바쁘대요.",
+        "translated": "Sujin says she is busy tomorrow. (Conversational contraction of 바쁘다고 해요)."
+      },
+      {
+        "kr": "그 사람이 의사라고 했어요.",
+        "translated": "That person said they were a doctor. (Noun clause using 의사 + 라고 했어요)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra31_pr1",
+        "type": "fill",
+        "prompt": "Conjugate '가다' (to go) into the present tense indirect quotation form meaning 'They say they are going'.",
+        "answer": "간다고 하다"
+      },
+      {
+        "id": "gra31_pr2",
+        "type": "fill",
+        "prompt": "Conjugate the adjective '작다' (to be small) into its present tense indirect quotation form.",
+        "answer": "작다고 하다"
+      },
+      {
+        "id": "gra31_pr3",
+        "type": "fill",
+        "prompt": "Convert the phrase '맛있다고 해요' into its common conversational contracted form.",
+        "answer": "맛있대요"
+      }
+    ]
+  },
+  {
+    "id": "gra32",
+    "meta": ["7 min"],
+    "level": "High-Intermediate",
+    "icon": "help-circle",
+    "title": "Indirect Quotation (Questions): ~냐고 하다",
+    "description": "Report an inquiry or question that someone else asked (e.g., 'She asked me where I live').",
+    "explanation": [
+      "<h3>Reporting an Inquiry</h3>",
+      "When the statement you want to report was originally a question, you cannot use the declarative ~다고 framework. Instead, you must use the interrogative indirect quotation suffix <b>~냐고 하다/묻다</b> (contracted in spoken conversation to <b>~냬요</b>).",
+      "<h3>Streamlined Tense Structures</h3>",
+      "Unlike declarative quotes, the structural division between adjectives and action verbs is much more relaxed in modern Korean questions:",
+      "<ul>",
+      "  <li><b>Present Tense (Universal):</b> You can attach <b>~냐고 하다</b> directly to both action verb roots and adjective roots (e.g., 먹다 $\\rightarrow$ <b>먹냐고 하다</b>, 크다 $\\rightarrow$ <b>크냐고 하다</b>). *Note: In formal grammar, verbs traditionally took ~(으)냐고, but contemporary speech treats ~냐고 as standard for both.*</li>",
+      "  <li><b>Past Tense:</b> Apply the past tense marker first, then attach the quotation tail seamlessly (e.g., 갔다 $\\rightarrow$ <b>갔냐고 하다</b>).</li>",
+      "  <li><b>Nouns (이다):</b> Nouns leverage the <b>~(이)냐고 하다</b> format (e.g., 학생 $\\rightarrow$ <b>학생이냐고 하다</b>).</li>",
+      "</ul>",
+      "<h3>Verbs of Asking</h3>",
+      "Because you are reporting a question, you will frequently replace the trailing verb <b>하다</b> (to do/say) with <b>묻다</b> (to ask) or <b>질문하다</b> (to question) to inject more descriptive precision into your sentence."
+    ],
+    "takeaway": "Use ~냐고 하다 exclusively when reporting a sentence that originally ended with a question mark.",
+    "cultural_notes": "When retelling gossip or dramatic stories, the conversational contraction ~냬요 is incredibly common (e.g., '언제 오냬요?' = 'They're asking when you are coming').",
+    "rules": [
+      "Weld 냐고 하다 directly to present tense verb and adjective stems alike in daily conversation.",
+      "Swap out 하다 for 묻다 when you want to explicitly emphasize the physical act of asking a question.",
+      "Drop the placeholder elements and use ~냬요 to mimic modern conversational speech dynamics."
+    ],
+    "examples": [
+      {
+        "kr": "어디에 가냐고 물어봤어요.",
+        "translated": "They asked me where I was going. (Reports the question: 'Where are you going?')."
+      },
+      {
+        "kr": "한국 음식이 매우냐고 했어요.",
+        "translated": "He asked if the Korean food was spicy. (Adjective 맵다 changes to 매우 + 냐고)."
+      },
+      {
+        "kr": "친구들이 언제 시험이냐고 고 물어봐요.",
+        "translated": "My friends are asking when the exam is. (Noun structure utilizing 시험 + 이냐고)."
+      },
+      {
+        "kr": "주말에 시간이 있냬요.",
+        "translated": "They are asking if you have time this weekend. (Smooth spoken contraction of 있냐고 해요)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra32_pr1",
+        "type": "fill",
+        "prompt": "Convert '먹다' into the present tense reported question form meaning 'Asked if/what someone eats'.",
+        "answer": "먹냐고 하다"
+      },
+      {
+        "id": "gra32_pr2",
+        "type": "fill",
+        "prompt": "Convert the past-tense action '왔다' (came) into the reported question 'Asked if they came'.",
+        "answer": "왔냐고 하다"
+      },
+      {
+        "id": "gra32_pr3",
+        "type": "fill",
+        "prompt": "Contract the full formal string '좋냐고 해요' into its natural spoken form.",
+        "answer": "좋냬요"
+      }
+    ]
+  },
+  {
+    "id": "gra33",
+    "meta": ["6 min"],
+    "level": "High-Intermediate",
+    "icon": "users",
+    "title": "Indirect Quotation (Suggestions): ~자고 하다",
+    "description": "Report a proposal, suggestion, or collaborative invitation made by someone else (e.g., 'He suggested that we eat together').",
+    "explanation": [
+      "<h3>The Shared Proposal</h3>",
+      "When someone makes a proposition to do an action together (originally using phrases like ~읍시다, ~자, or ~ㄹ까요?), you pass this invitation along using the dedicated proposal quotation suffix <b>~자고 하다</b> (contracted in speech to <b>~재요</b>).",
+      "<h3>Action Verbs Only</h3>",
+      "Because a proposal requires a shared kinetic action, **this grammar pattern can only be applied to action verbs**. Adjectives are structurally banned from this formation.",
+      "<h3>Acoustic Uniformity</h3>",
+      "The attachment rules are incredibly simple. You completely ignore whether the verb stem ends in a vowel or a consonant. Simply slice away the dictionary <b>~다</b> tail and lock on <b>~자고 하다</b> directly:",
+      "<br><br><hl>[Action Verb Stem] + 자고 하다</hl>",
+      "Examples: 가다 $\\rightarrow$ <b>가자고 하다</b>, 먹다 $\\rightarrow$ <b>먹자고 하다</b>."
+    ],
+    "takeaway": "This pattern functions as the indirect equivalent of saying 'Let's...' inside a reported speech bubble.",
+    "cultural_notes": "This grammar is essential for group text channels and setting up appointments, allowing you to synthesize conflicting group suggestions cleanly (e.g., '지훈이는 내일 만나재요' = 'Jihoon is suggesting we meet tomorrow').",
+    "rules": [
+      "Isolate the active verb stem and append 자고 하다 directly, bypassing any batchim checks.",
+      "Never attempt to conjugate an adjective or descriptive verb into this collaborative framework.",
+      "Compress your phrasing using the ~재요 shortcut to sound casual and natural in spoken text environments."
+    ],
+    "examples": [
+      {
+        "kr": "친구가 같이 점심을 먹자고 했어요.",
+        "translated": "My friend suggested that we eat lunch together. (Reports the proposal: 'Let's eat lunch together!')."
+      },
+      {
+        "kr": "주말에 영화를 보러 가자고 해요.",
+        "translated": "They are suggesting that we go see a movie this weekend."
+      },
+      {
+        "kr": "선생님께서 한국어로만 말하자고 하셨어요.",
+        "translated": "The teacher suggested that we speak only in Korean. (Honorific application applied to the main verb 하다)."
+      },
+      {
+        "kr": "유진 씨가 내일 커피 마시재요.",
+        "translated": "Yujin is suggesting that we drink coffee tomorrow. (Spoken contraction of 마시자고 해요)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra33_pr1",
+        "type": "fill",
+        "prompt": "Convert '만나다' (to meet) into the indirect suggestion form meaning 'Suggested that we meet'.",
+        "answer": "만나자고 하다"
+      },
+      {
+        "id": "gra33_pr2",
+        "type": "fill",
+        "prompt": "Convert '만들다' (to make) into the indirect suggestion form.",
+        "answer": "만들자고 하다"
+      },
+      {
+        "id": "gra33_pr3",
+        "type": "fill",
+        "prompt": "Contract the phrase '공부하자고 해요' into its casual spoken form.",
+        "answer": "공부하재요"
+      }
+    ]
+  },
+  {
+    "id": "gra34",
+    "meta": ["7 min"],
+    "level": "High-Intermediate",
+    "icon": "alert-circle",
+    "title": "Indirect Quotation (Commands): ~(으)라고 하다",
+    "description": "Report an instruction, command, or request that someone told someone else to execute (e.g., 'The doctor told me to exercise every day').",
+    "explanation": [
+      "<h3>The Imperative Report</h3>",
+      "When reporting an instruction or a command (originally expressed using imperative forms like ~(으)세요 or ~라), you use the imperative indirect quotation layout <b>~(으)라고 하다</b> (contracted in speech to <b>~(으)래요</b>).",
+      "<h3>The Consonant Layout Split</h3>",
+      "Like the noun-modifying systems, look closely at the action verb's final basement floor:",
+      "<ul>",
+      "  <li><b>Open Vowel Roots:</b> Attach <b>~라고 하다</b> directly to the stem (e.g., 가다 $\\rightarrow$ <b>가라고 하다</b>).</li>",
+      "  <li><b>Consonant Floor Roots:</b> Stems blocked by a bottom consonant receive the acoustic safety bridge <b>~으라고 하다</b> (e.g., 먹다 $\\rightarrow$ <b>먹으라고 하다</b>).</li>",
+      "  <li><b>The ᄅ Exception:</b> Stems ending in a bottom <b>ᄅ</b> batchim bypass the padding completely and take <b>~라고 하다</b> directly (e.g., 만들다 $\\rightarrow$ <b>만들라고 하다</b>).</li>",
+      "</ul>",
+      "<h3>The Core 주다 vs. 달라다 Trap</h3>",
+      "This is one of the most critical irregular behaviors in advanced speech. When reporting a command containing the verb <b>주다</b> (to give), you must track **who is receiving the item**:",
+      "<ul>",
+      "  <li>If the original speaker asked for something to be given **to themselves**, 주다 transforms completely into <b>달라고 하다</b> (e.g., 'Give me water' $\\rightarrow$ 물을 <b>달라고 하다</b>).</li>",
+      "  <li>If the speaker asked for something to be given **to a third person**, it remains <b>주라고 하다</b>.</li>",
+      "</ul>"
+    ],
+    "takeaway": "Pay strict attention to the beneficiary of a 'giving' command to correctly choose between 달라고 하다 and 주라고 하다.",
+    "cultural_notes": "This grammar form is widely used when passing along messages or tasks from management at work (e.g., '사장님이 오시래요' = 'The boss told you to come').",
+    "rules": [
+      "Slide 라고 해요 directly onto vowel stems, and route consonant stems through the 으라고 padding block.",
+      "Mutate 주다 entirely into 달라고 하다 if the original speaker was requesting the item for themselves.",
+      "Utilize the ~(으)래요 contraction to match the natural speech patterns of native speakers."
+    ],
+    "examples": [
+      {
+        "kr": "의사 선생님이 매일 운동하라고 하셨어요.",
+        "translated": "The doctor told me to exercise every day. (Reports the command: 'Exercise every day!')."
+      },
+      {
+        "kr": "선생님이 책을 읽으래요.",
+        "translated": "The teacher told us to read the book. (Consonant floor verb 읽다 takes 으래요)."
+      },
+      {
+        "kr": "친구가 돈을 달라고 했어요.",
+        "translated": "My friend told me to give them some money. (The friend asked for money for themselves, converting 주다 $\\rightarrow$ 달라고)."
+      },
+      {
+        "kr": "엄마가 동생에게 밥을 주라고 했어요.",
+        "translated": "Mom told me to give food to my younger sibling. (The recipient is a third party, maintaining 주라고)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra34_pr1",
+        "type": "fill",
+        "prompt": "Convert '앉다' (to sit) into the reported command form meaning 'Told someone to sit down'.",
+        "answer": "앉으라고 하다"
+      },
+      {
+        "id": "gra34_pr2",
+        "type": "fill",
+        "prompt": "Convert '보다' (to look) into the conversational contracted reported command form 'Told me to look'.",
+        "answer": "보래요"
+      },
+      {
+        "id": "gra34_pr3",
+        "type": "fill",
+        "prompt": "Translate the reported command phrase 'He asked me to give him the book (to himself)' using 책, 달라고, and 하다.",
+        "answer": "책을 달라고 하다"
+      }
+    ]
+  },
+  {
+    "id": "gra35",
+    "meta": ["5 min"],
+    "level": "High-Intermediate",
+    "icon": "heart",
+    "title": "Advanced Suppositions: ~으면 좋겠다",
+    "description": "Express personal desires, hopes, or hypothetical wishes about future scenarios (e.g., 'I wish it would rain tomorrow').",
+    "explanation": [
+      "<h3>The Wish Matrix</h3>",
+      "To express a strong personal desire, hope, or hypothetical wish, you use the conditional compound framework <b>~으면 좋겠다</b>. This literally translates to <b>'If X happens, it would be great.'</b>",
+      "<h3>The Past Tense Variant Double Down</h3>",
+      "While you can attach this directly to the present stem, native speakers frequently insert the past tense suffix to form <b>~었/았으면 좋겠다</b>. This past tense inclusion does *not* shift the meaning into history—instead, it amplifies the hypothetical nature of the wish, making it sound much more earnest or deeply desired.",
+      "<h3>The Consonant Layout Split</h3>",
+      "The conditional connector follows standard conditional behavior rules based on the root stem's final floor:",
+      "<ul>",
+      "  <li><b>Open Vowel Roots:</b> Attach <b>~면 좋겠다</b> directly to the stem (e.g., 가다 $\\rightarrow$ <b>가면 좋겠다</b>).</li>",
+      "  <li><b>Consonant Floor Roots:</b> Consonant-blocked bases receive the acoustic bridge layer <b>~으면 좋겠다</b> (e.g., 먹다 $\\rightarrow$ <b>먹으면 좋겠다</b>).</li>",
+      "</ul>"
+    ],
+    "takeaway": "Using the past tense form (~었/았으면 좋겠다) creates a stronger, more emphatic expression of hope than the present tense form.",
+    "cultural_notes": "This grammar structure is the primary tool used during New Year's celebrations and birthdays to express well-wishes for others (e.g., '건강했으면 좋겠어요' = 'I hope you stay healthy').",
+    "rules": [
+      "Deploy 면 좋겠다 for vowel-terminated roots, and utilize 으면 좋겠다 for consonant-terminated stems.",
+      "Inject past-tense markers prior to the conditional block to emphasize the earnest intensity of your wish.",
+      "Conjugate the final 좋겠다 verb block into standard polite conversational forms like 좋겠어요 in speech."
+    ],
+    "examples": [
+      {
+        "kr": "내일 날씨가 좋으면 좋겠어요.",
+        "translated": "I wish the weather would be nice tomorrow. (Present tense conditional structure using 좋으면)."
+      },
+      {
+        "kr": "돈을 많이 벌었으면 좋겠다.",
+        "translated": "I wish I would earn a lot of money. (Past tense variation 벌었으면 creates a highly emphatic wish)."
+      },
+      {
+        "kr": "빨리 한국에 갔으면 좋겠어요.",
+        "translated": "I really hope to go to Korea soon. (Expresses an earnest future goal)."
+      },
+      {
+        "kr": "시험을 잘 봤으면 좋겠어.",
+        "translated": "I hope you do well on the exam. (Used casually as an expression of support toward a friend)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra35_pr1",
+        "type": "fill",
+        "prompt": "Convert '있다' (to have/exist) into the present-tense wish form 'I wish I had...'.",
+        "answer": "있으면 좋겠다"
+      },
+      {
+        "id": "gra35_pr2",
+        "type": "fill",
+        "prompt": "Convert '만나다' (to meet) into the emphatic past-inflected wish form 'I really wish we could meet'.",
+        "answer": "만났으면 좋겠다"
+      },
+      {
+        "id": "gra35_pr3",
+        "type": "fill",
+        "prompt": "Complete the phrase 'I wish I could buy it' using 사다 in the emphatic wish layout (ended politely with 좋겠어요).",
+        "answer": "샀으면 좋겠어요"
+      }
+    ]
+  }
+]

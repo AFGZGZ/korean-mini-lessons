@@ -1,0 +1,327 @@
+[
+  {
+    "id": "gra46",
+    "meta": ["7 min"],
+    "level": "Advanced",
+    "icon": "alert-circle",
+    "title": "Causative Reasons: ~느라고",
+    "description": "Express a negative consequence or missed opportunity resulting directly from being entirely engrossed in a continuous action.",
+    "explanation": [
+      "<h3>The Overlapping Obstacle Linker</h3>",
+      "The advanced causal connector <b>~느라고</b> is used when an active, time-consuming task in the first clause directly prevents you from doing something else, or leads to an undesirable result in the second clause.",
+      "<h3>The Triple Constraint Filter</h3>",
+      "To deploy this grammar accurately without breaking native structural constraints, the sentence must pass three strict criteria:",
+      "<ul>",
+      "  <li><b>The Shared Subject Law:</b> The subject of both clauses must be identical (e.g., *I* was doing X, so *I* couldn't do Y).</li>",
+      "  <li><b>The Dynamic Action Rule:</b> It can only weld onto active, volitional verbs. It can never be used with descriptive adjectives or passive states.</li>",
+      "  <li><b>The Negative Outcome Default:</b> The secondary clause must naturally terminate in a negative result, a skipped event, a delay, or an exhausted energy state.</li>",
+      "</ul>",
+      "<h3>Structural Mechanics</h3>",
+      "Simply drop the dictionary ending <b>~다</b> and attach <b>~느라고</b> directly to the present stem. Even if the overall event happened in the past, **never** attach past tense markers ($~았/었~$) to the first clause; the final verb at the end of the sentence carries the timeline burden."
+    ],
+    "takeaway": "Think of ~느라고 as saying 'Because I was too busy doing X (which took time and effort), Y suffered.'",
+    "cultural_notes": "This pattern is the ultimate polite foundation for corporate and personal apologies regarding delays, missed phone calls, or uncompleted homework assignments.",
+    "rules": [
+      "Weld 느라고 directly onto active verb stems without adding past tense markers to the first clause.",
+      "Ensure the subject remains exactly the same across both halves of the sentence.",
+      "Terminate the sentence with a negative inflection, such as an inability, delay, or exhaustion."
+    ],
+    "examples": [
+      {
+        "kr": "시험 공부를 하느라고 어젯밤에 한숨도 못 잤어요.",
+        "translated": "Because I was studying for exams last night, I couldn't sleep a wink. (하느라고 maps time investment to a negative outcome)."
+      },
+      {
+        "kr": "늦잠을 자느라고 아침 식사를 걸렀습니다.",
+        "translated": "Because I was oversleeping, I skipped breakfast. (The continuous act of sleeping caused the missed meal)."
+      },
+      {
+        "kr": "준비하느라고 시간 가는 줄 몰랐네요.",
+        "translated": "I was so busy preparing that I completely lost track of time."
+      },
+      {
+        "kr": "친구와 전화를 통화하느라고 버스를 놓쳤어요.",
+        "translated": "Because I was talking on the phone with a friend, I missed the bus."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra46_pr1",
+        "type": "fill",
+        "prompt": "Convert '만들다' (to make) into the ~느라고 form, remembering that ᄅ-batchim stems drop the ᄅ before this connector.",
+        "answer": "만드느라고"
+      },
+      {
+        "id": "gra46_pr2",
+        "type": "fill",
+        "prompt": "Convert '보고서 쓰다' (to write a report) into the ~느라고 connector form.",
+        "answer": "보고서 쓰느라고"
+      },
+      {
+        "id": "gra46_pr3",
+        "type": "fill",
+        "prompt": "Convert '일하다' (to work) into the ~느라고 connector form.",
+        "answer": "일하느라고"
+      }
+    ]
+  },
+  {
+    "id": "gra47",
+    "meta": ["6 min"],
+    "level": "Advanced",
+    "icon": "thumbs-down",
+    "title": "Blame Attribution: ~탓에",
+    "description": "Explicitly assign blame or responsibility to a specific reason or circumstance for a negative outcome.",
+    "explanation": [
+      "<h3>The Blame Anchor</h3>",
+      "The advanced causal structure <b>~탓에</b> (literally: 'due to the fault of') is used when you want to look at a bad situation and directly attribute its failure to a specific culprit, mistake, or external condition.",
+      "<h3>Modifier Adaptation Blueprints</h3>",
+      "Because <b>탓</b> behaves structurally as a noun, verbs and adjectives linking to it must transform into noun-modifying phrases based on their class and tense:",
+      "<ul>",
+      "  <li><b>Nouns:</b> Attach directly using <b>~탓에</b> or the possessive bridge <b>~의 탓에</b> (e.g., 비 탓에 $\\rightarrow$ due to the rain).</li>",
+      "  <li><b>Present Action Verbs:</b> Attach <b>~는 탓에</b> directly to the stem (e.g., 먹는 탓에).</li>",
+      "  <li><b>Descriptive Adjectives:</b> Use the standard modifier layout: open vowels take <b>~ㄴ 탓에</b>, consonant floors take <b>~은 탓에</b> (e.g., 바쁜 탓에).</li>",
+      "  <li><b>Past Actions:</b> Apply the past action modifier <b>~(으)ㄴ 탓에</b> to track completed blame events.</li>",
+      "</ul>"
+    ],
+    "takeaway": "Use ~탓에 exclusively for negative results where you want to emphasize blame or fault. For positive results, use its direct opposite: ~덕분에.",
+    "cultural_notes": "In formal arguments or analytical business reviews, overusing ~탓에 can make a speaker sound defensive or quick to dodge personal responsibility by pointing fingers at external conditions.",
+    "rules": [
+      "Use this pattern solely to justify failures, negative financial updates, or unfortunate events.",
+      "Apply matching noun-modifier suffixes (는, ㄴ/은) depending on whether the source is a verb or adjective.",
+      "Weld 탓에 directly onto standalone nouns without inserting any intermediate verb layers."
+    ],
+    "examples": [
+      {
+        "kr": "비가 많이 온 탓에 경기가 취소되었습니다.",
+        "translated": "Due to the heavy rain, the game was canceled. (Blame is cast on the completed act of raining via 온 탓에)."
+      },
+      {
+        "kr": "성격이 급한 탓에 실수를 자주 해요.",
+        "translated": "Because my personality is impatient, I make mistakes often. (Adjective 급하다 utilizes the ㄴ modifier)."
+      },
+      {
+        "kr": "늦게 출발한 탓에 기차를 놓치고 말았다.",
+        "translated": "Due to the fault of departing late, I ended up missing the train."
+      },
+      {
+        "kr": "불경기 탓에 매출이 많이 감소했습니다.",
+        "translated": "Due to the economic recession, sales have decreased significantly. (Noun 불경기 connects directly)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra47_pr1",
+        "type": "fill",
+        "prompt": "Convert the descriptive adjective '작다' (to be small) into the present-tense blame modifier form meaning 'Due to the fault of being small...'.",
+        "answer": "작은 탓에"
+      },
+      {
+        "id": "gra47_pr2",
+        "type": "fill",
+        "prompt": "Convert the action verb '늦다' (to be late) into its past-tense blame modifier form ('Because I arrived late...').",
+        "answer": "늦은 탓에"
+      },
+      {
+        "id": "gra47_pr3",
+        "type": "fill",
+        "prompt": "Connect the standalone noun '코로나' (Corona) to the blame particle format.",
+        "answer": "코로나 탓에"
+      }
+    ]
+  },
+  {
+    "id": "gra48",
+    "meta": ["6 min"],
+    "level": "Advanced",
+    "icon": "thumbs-up",
+    "title": "Grateful Attribution: ~덕분에",
+    "description": "Express deep gratitude or credit a positive circumstance for causing a successful outcome.",
+    "explanation": [
+      "<h3>The Grace and Gratitude Connector</h3>",
+      "The advanced causal structure <b>~덕분에</b> (literally: 'thanks to your virtue/favor') stands as the exact psychological and grammatical inverse of ~탓에. You deploy this whenever you want to highlight a highly favorable, successful, or lucky outcome and directly credit a specific helper or reason.",
+      "<h3>Structural Attachment Formats</h3>",
+      "Because <b>덕분</b> is a noun, it maps onto your words using identical modifier mechanics to the blame structure:",
+      "<ul>",
+      "  <li><b>Direct Nouns:</b> Lock <b>~덕분에</b> straight onto the noun (e.g., 선생님 덕분에 $\\rightarrow$ Thanks to the teacher).</li>",
+      "  <li><b>Verbs and Adjectives:</b> Route through past or descriptive modifiers using <b>~(으)ㄴ 덕분에</b> (e.g., 도와주신 덕분에 $\\rightarrow$ Thanks to your help).</li>",
+      "</ul>"
+    ],
+    "takeaway": "Never use ~덕분에 sarcastically in formal speech to describe a failure; it is reserved for sincere praise and appreciation.",
+    "cultural_notes": "Starting a sentence with '덕분에...' when someone asks how your business or health is doing is a foundational piece of Korean social humility. It implicitly shares the credit for your success with the community.",
+    "rules": [
+      "Reserve this structure exclusively for scenarios that conclude with positive, beneficial, or celebratory results.",
+      "Attach directly to human nouns or institutions to show appreciative credit.",
+      "Conjugate preceding action verbs into the completed modifier form (~은/ㄴ) to reflect a favor already rendered."
+    ],
+    "examples": [
+      {
+        "kr": "선생님께서 잘 가르쳐 주신 덕분에 시험에 합격했어요.",
+        "translated": "Thanks to the teacher teaching me so well, I passed the exam. (Gratefully credits the teacher's past action)."
+      },
+      {
+        "kr": "친구 덕분에 좋은 일자리를 구하게 되었습니다.",
+        "translated": "Thanks to my friend, I ended up finding a great job opportunity. (Noun 친구 anchors directly)."
+      },
+      {
+        "kr": "날씨가 좋은 덕분에 여행이 아주 즐거웠습니다.",
+        "translated": "Thanks to the weather being beautiful, the trip was highly enjoyable."
+      },
+      {
+        "kr": "모두가 열심히 노력한 덕분에 프로젝트를 성공적으로 끝냈습니다.",
+        "translated": "Thanks to everyone's hard work and effort, we brought the project to a successful close."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra48_pr1",
+        "type": "fill",
+        "prompt": "Connect the noun '의사 선생님' (doctor) directly to the grateful attribution particle.",
+        "answer": "의사 선생님 덕분에"
+      },
+      {
+        "id": "gra48_pr2",
+        "type": "fill",
+        "prompt": "Convert the action verb '도와주다' (to help out) into the past-tense grateful modifier form ('Thanks to your help...').",
+        "answer": "도와준 덕분에"
+      },
+      {
+        "id": "gra48_pr3",
+        "type": "fill",
+        "prompt": "Convert the verb '조심하다' (to be cautious) into the grateful modifier form ('Thanks to being careful...').",
+        "answer": "조심한 덕분에"
+      }
+    ]
+  },
+  {
+    "id": "gra49",
+    "meta": ["7 min"],
+    "level": "Advanced",
+    "icon": "help-circle",
+    "title": "Discursive Supposition: ~(으)ㄹ 텐데",
+    "description": "Establish a strong assumption, expectation, or background premise about a situation, then contrast it or follow it up with a clause.",
+    "explanation": [
+      "<h3>The Anticipatory Context Builder</h3>",
+      "The compound structure <b>~(으)ㄹ 텐데</b> combines the future/conjectural modifier <b>~(으)ㄹ 터</b> (intention/expectation) with the backgrounding connector <b>~ㄴ/인데</b> (given that/but). It allows you to say: **'I strongly assume/expect situation A is true, so given that state, why is situation B happening?'**",
+      "<h3>Conjugation Mapping rules</h3>",
+      "Attach this assumption module by checking the vowel landscape of the stem floor:",
+      "<ul>",
+      "  <li><b>Open Vowel Stems:</b> Append <b>~ㄹ 텐데</b> directly underneath the bottom floor (e.g., 오다 $\\rightarrow$ <b>올 텐데</b>).</li>",
+      "  <li><b>Consonant Floor Stems:</b> Add the acoustic cushioning block <b>~을 텐데</b> (e.g., 먹다 $\\rightarrow$ <b>먹을 텐데</b>).</li>",
+      "  <li><b>Past Tense Assumptions:</b> Weld the past marker to the stem before applying the future assumption suffix: <b>~았/었을 텐데</b> (e.g., 피곤했을 텐데 $\\rightarrow$ I assume they must have been exhausted, but...).</li>",
+      "</ul>",
+      "<h3>The Standalone Terminal Fade</h3>",
+      "Native speakers often drop the second clause entirely and end sentences with <b>~(으)ㄹ 텐데요</b> to gently express worry, regret, or a subtle difference of opinion (e.g., '비가 올 텐데요...' $\\rightarrow$ 'But it's likely going to rain... [so shouldn't you take an umbrella?]')."
+    ],
+    "takeaway": "Use ~(으)ㄹ 텐데 to contrast your realistic predictions against an unexpected reality, or to show concern based on an assumption.",
+    "cultural_notes": "Ending your sentences with ~(으)ㄹ 텐데요 is an effective way to gently suggest that someone is making a mistake or overlooking something, without sounding confrontational.",
+    "rules": [
+      "Slide ᄅ 텐데 directly under open vowel roots, and use 을 텐데 for standard consonant floors.",
+      "Deploy 았/었을 텐데 when speculating about how a past event must have felt or unfolded.",
+      "Drop the following clause and add 요 to turn the structure into a polite, open-ended sentence closer."
+    ],
+    "examples": [
+      {
+        "kr": "지금 길도 막힐 텐데 지하철을 타고 가세요.",
+        "translated": "Traffic is likely jammed right now, so you should take the subway. (Establishes a strong present traffic assumption)."
+      },
+      {
+        "kr": "하루 종일 일하느라고 피곤했을 텐데 어서 쉬세요.",
+        "translated": "You must have been exhausted from working all day, so go ahead and rest up. (Combines past assumption with a ~느라고 background)."
+      },
+      {
+        "kr": "오늘 만나기로 한 친구가 곧 올 텐데 조금만 더 기다립시다.",
+        "translated": "The friend we agreed to meet today should be arriving soon, so let's wait just a little longer."
+      },
+      {
+        "kr": "그 소식은 이미 들었을 텐데요.",
+        "translated": "I assume they would have already heard that news... (Softly lingering terminal assumption)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra49_pr1",
+        "type": "fill",
+        "prompt": "Convert the adjective '바쁘다' (to be busy) into its present speculative assumption form.",
+        "answer": "바쁠 텐데"
+      },
+      {
+        "id": "gra49_pr2",
+        "type": "fill",
+        "prompt": "Convert the verb '없다' (to not exist/have) into its present speculative assumption form.",
+        "answer": "없을 텐데"
+      },
+      {
+        "id": "gra49_pr3",
+        "type": "fill",
+        "prompt": "Convert '춥다' (to be cold, ᄇ-irregular) into its past-tense speculative assumption form ('It must have been cold...').",
+        "answer": "추웠을 텐데"
+      }
+    ]
+  },
+  {
+    "id": "gra50",
+    "meta": ["6 min"],
+    "level": "Advanced",
+    "icon": "trending-up",
+    "title": "Approximated Reality: ~는 셈이다",
+    "description": "Conclude that a situation is practically equivalent to a certain outcome when you weigh all the facts, even if it isn't literally identical.",
+    "explanation": [
+      "<h3>The Virtual Identity Connector</h3>",
+      "The advanced estimation pattern <b>~는 셈이다</b> (literally: 'it counts as the calculation/ruling') is used to sum up a situation. It means that when you look at the final results, **you can consider it practically identical to doing or reaching that state**.",
+      "<h3>Conjugation Tense Rules</h3>",
+      "Because <b>셈</b> functions as a noun, the preceding verb forms shift according to action and time:",
+      "<ul>",
+      "  <li><b>Present Actions:</b> Append <b>~는 셈이다</b> to the active stem (e.g., 이기는 셈이다 $\\rightarrow$ It's practically a win).</li>",
+      "  <li><b>Past Actions / Present Adjectives:</b> Use the standard modifier suffix: <b>~(으)ㄴ 셈이다</b> (e.g., 끝난 셈이다 $\\rightarrow$ It's practically finished; 큰 셈이다 $\\rightarrow$ It can be considered relatively large).</li>",
+      "</ul>",
+      "<h3>The Discursive Utility</h3>",
+      "This grammar helps you skip over minor technicalities and focus on the big picture. For example, if you have one final class left but have already passed all your exams, you might say your school semester is 'practically over.'"
+    ],
+    "takeaway": "Think of ~는 셈이다 as the Korean equivalent of 'When you think about it, it's safe to say...' or 'It practically amounts to...'",
+    "cultural_notes": "This expression is very common in business negotiations, market reports, and daily conversations to summarize a complex situation into a clear conclusion.",
+    "rules": [
+      "Use 는 셈이다 to summarize continuous actions or ongoing present-tense trends.",
+      "Switch to (으)ㄴ 셈이다 when describing completed past milestones or static traits.",
+      "Avoid using this pattern for completely certain, literal facts where there is no room for interpretation."
+    ],
+    "examples": [
+      {
+        "kr": "이 정도 가격이면 거의 공짜로 사는 셈이에요.",
+        "translated": "At this price, it amounts to practically buying it for free. (Summarizes an ongoing value calculation)."
+      },
+      {
+        "kr": "이번 시험은 안 본 거나 마찬가지니까 떨어진 셈이다.",
+        "translated": "Since I basically skipped taking this exam, it counts as practically having failed."
+      },
+      {
+        "kr": "일주일에 6일을 출근하니까 회사에서 사는 셈이네요.",
+        "translated": "Since you go to work 6 days a week, it's safe to say you practically live at the office."
+      },
+      {
+        "kr": "비행기 표를 예매했으니 여행 준비는 다 끝난 셈입니다.",
+        "translated": "Since we've booked the flight tickets, our trip preparations are practically finished."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra50_pr1",
+        "type": "fill",
+        "prompt": "Convert the action verb '받다' (to receive) into its past-tense approximated reality form ('It's practically as good as received').",
+        "answer": "받은 셈이다"
+      },
+      {
+        "id": "gra50_pr2",
+        "type": "fill",
+        "prompt": "Convert the action verb '먹다' (to eat) into its present-tense approximated reality form.",
+        "answer": "먹는 셈이다"
+      },
+      {
+        "id": "gra50_pr3",
+        "type": "fill",
+        "prompt": "Convert the descriptive adjective '싸다' (to be cheap) into its approximated reality form ('It can be considered relatively cheap').",
+        "answer": "싼 셈이다"
+      }
+    ]
+  }
+]

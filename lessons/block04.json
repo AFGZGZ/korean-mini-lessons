@@ -1,0 +1,324 @@
+[
+  {
+    "id": "gra11",
+    "meta": ["6 min"],
+    "level": "High Beginner",
+    "icon": "rewind",
+    "title": "~았 / ~었 / ~였어요 (Past Tense)",
+    "description": "Unlock retrospective storytelling by mastering the past tense suffix rules based on ancestral vowel harmony blocks.",
+    "explanation": [
+      "<h3>The Twin-Ssang-Siod Floor</h3>",
+      "To shift a verb or adjective from the present timeline into the past, you build upon the exact same vowel harmony rules learned in the present tense (Lesson gra06). The unique mechanical signature of the past tense is the insertion of a double-S <b>쌍ㅅ (ㅆ)</b> into the <b>batchim</b> (bottom floor) slot.",
+      "<h3>Conjugation Vectors</h3>",
+      "Strip the dictionary tail <b>~다</b> from the root stem, analyze the trailing vowel sound, and apply the corresponding formulaic path:",
+      "<ul>",
+      "  <li><b>Bright Stems (ㅗ, ㅏ):</b> Append <b>~았어요</b>. If the stem lacks a bottom consonant, it contracts instantly (e.g., 가다 $\\rightarrow$ 가 + 았어요 $\\rightarrow$ <b>갔어요</b>).</li>",
+      "  <li><b>Dark/Neutral Stems (ㅜ, ㅓ, ㅣ, ㅡ):</b> Append <b>~었어요</b>. (e.g., 먹다 $\\rightarrow$ 먹 + 었어요 $\\rightarrow$ <b>먹었어요</b>).</li>",
+      "  <li><b>The 하다 Exception:</b> All compound nouns using '하다' alter uniformly into <b>~했어요</b>. (e.g., 공부하다 $\\rightarrow$ <b>공부했어요</b>).</li>",
+      "</ul>",
+      "<h3>Common Contraction Paths</h3>",
+      "Just like the present register, vowel glides fuse seamlessly across open spaces: <b>마시다</b> (to drink) becomes 마시 + 었어요 $\\rightarrow$ <b>마셨어요</b>. <b>보다</b> (to see) becomes 보 + 았어요 $\\rightarrow$ <b>봤어요</b>."
+    ],
+    "takeaway": "The presence of a double ㅆ in the basement floor is the absolute universal visual signal for past-tense activity in written Korean.",
+    "cultural_notes": "When expressing deep politeness during formal introductions or interviews, the ending changes from '했어요' to the high-form '했습니다'. Both rely on the identical ㅆ base structure.",
+    "rules": [
+      "Merge ~았어요 onto stems containing bright vowels ㅏ or ㅗ.",
+      "Merge ~었어요 onto stems containing dark or neutral vowels like ㅓ, ㅜ, or ㅣ.",
+      "Directly transform any root ending in 하다 into 했어요."
+    ],
+    "examples": [
+      {
+        "kr": "어제 친구를 만났어요.",
+        "translated": "I met a friend yesterday. (만나다 undergoes bright contraction $\\rightarrow$ 만났어요)."
+      },
+      {
+        "kr": "어제 피자를 먹었어요.",
+        "translated": "I ate pizza yesterday. (먹다 features a dark root, receiving the uncontracted 었어요 block)."
+      },
+      {
+        "kr": "아침에 운동했어요.",
+        "translated": "I exercised in the morning. (운동하다 transforms directly into the 했어요 past form)."
+      },
+      {
+        "kr": "물을 마셨어요.",
+        "translated": "I drank water. (마시다 undergoes past contraction $\\rightarrow$ 마셨어요)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra11_pr1",
+        "type": "fill",
+        "prompt": "Convert '오다' (to come) into the polite past tense form. Look out for vowel contraction (ㅗ + ㅏ).",
+        "answer": "왔어요"
+      },
+      {
+        "id": "gra11_pr2",
+        "type": "fill",
+        "prompt": "Convert '읽다' (to read) into the polite past tense form.",
+        "answer": "읽었어요"
+      },
+      {
+        "id": "gra11_pr3",
+        "type": "fill",
+        "prompt": "Convert '일하다' (to work) into the polite past tense form.",
+        "answer": "일했어요"
+      }
+    ]
+  },
+  {
+    "id": "gra12",
+    "meta": ["5 min"],
+    "level": "High Beginner",
+    "icon": "key",
+    "title": "~의 (Possessive Particle)",
+    "description": "Learn the ownership marker that links nouns together and understand its unique auditory spoken mutations.",
+    "explanation": [
+      "<h3>The Ownership Linker</h3>",
+      "The particle <b>~의</b> functions similarly to the English apostrophe-S (<b>'s</b>) or the preposition word <b>'of'</b>. It welds two independent nouns together, transforming the first noun into a modifier that possesses or specifies the second noun.",
+      "<br><br><hl>[Possessor Noun] + 의 + [Possessed Noun]</hl>",
+      "<h3>The Auditory Mutation Phenomenon</h3>",
+      "While written strictly as <b>의 (ui)</b>, this character undergoes a radical pronunciation shift when functioning as a possessive marker in live dialogue. Native speakers almost universally pronounce it as a clean western short-E sound <b>[에 - eh]</b>. Saying [ui] in conversation sounds incredibly robotic.",
+      "<h3>The Big Three Pronoun Contractions</h3>",
+      "When connecting ownership to personal pronouns, the spelling contracts heavily to make daily sentences flow faster:",
+      "<ul>",
+      "  <li><b>저의 (my - polite):</b> Contracts cleanly into <b>제 (je)</b>.</li>",
+      "  <li><b>나의 (my - casual):</b> Contracts cleanly into <b>내 (nae)</b>.</li>",
+      "  <li><b>너의 (your - casual):</b> Contracts cleanly into <b>네 (ne)</b>, though spoken aloud as <b>[니 - ni]</b> to prevent acoustic confusion with 내.</li>",
+      "</ul>"
+    ],
+    "takeaway": "Unlike English, where ownership pronouns are unique terms (my, your, their), Korean simply layers contractions onto the core pronouns.",
+    "cultural_notes": "Korean culture emphasizes collective community over individual isolation. Because of this mindset, native speakers frequently substitute the plural possessive '우리' (our) in place of '제/내' (my) when discussing shared spaces, such as '우리 집' (our house) or '우리 어머니' (our mother).",
+    "rules": [
+      "Attach 의 to the owning entity noun with zero empty spacing breaks.",
+      "Pronounce 의 as [에] when tracking live conversational exchanges.",
+      "Always prioritize using contracted forms like 제 and 내 when indicating individual property."
+    ],
+    "examples": [
+      {
+        "kr": "선생님의 책이에요.",
+        "translated": "It is the teacher's book. (선생님 holds ownership over the book item)."
+      },
+      {
+        "kr": "이것은 제 컴퓨터예요.",
+        "translated": "This thing is my computer. (제 represents the contracted polite form of 저의)."
+      },
+      {
+        "kr": "친구의 이름은 민수예요.",
+        "translated": "The friend's name is Minsu. (의 attaches directly to 친구)."
+      },
+      {
+        "kr": "우리 회사예요.",
+        "translated": "It is our company. (Demonstrates collective cultural preference using 우리)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra12_pr1",
+        "type": "fill",
+        "prompt": "Write the official single-word contracted form for 'my' (polite/formal context).",
+        "answer": "제"
+      },
+      {
+        "id": "gra12_pr2",
+        "type": "fill",
+        "prompt": "Apply the possessive particle to the noun '미나' (Mina's).",
+        "answer": "미나의"
+      },
+      {
+        "id": "gra12_pr3",
+        "type": "fill",
+        "prompt": "Translate the exact isolated phrase 'My phone' using the casual pronoun contraction (내) and 전화기 (phone).",
+        "answer": "내 전화기"
+      }
+    ]
+  },
+  {
+    "id": "gra13",
+    "meta": ["5 min"],
+    "level": "High Beginner",
+    "icon": "link",
+    "title": "~과 / ~와 & ~하고 (Noun Connectors)",
+    "description": "Examine the dynamic systems for linking items sequentially to mean 'and' or 'with'.",
+    "explanation": [
+      "<h3>The Dual-Register Framework</h3>",
+      "Korean separates its structural connective words based on context, elegance, and speech format. To connect two items or show partnership, you select between two primary groupings:",
+      "<h3>System 1: ~과 / ~와 (Literary & Formal)</h3>",
+      "This system is highly elegant, balanced, and preferred in formal, journalistic, or written contexts. It matches its structural shape to the preceding noun's final layout floor:",
+      "<ul>",
+      "  <li><b>~과 (gwa):</b> Affixed to nouns that end in a final batchim consonant.</li>",
+      "  <li><b>~와 (wa):</b> Affixed to nouns that terminate cleanly in an open vowel.</li>",
+      "</ul>",
+      "<h3>System 2: ~하고 (Spoken Conversational)</h3>",
+      "This system is the everyday workhorse of colloquial spoken life. It is exceptionally straightforward because it is completely immune to consonant checking—it attaches universally onto any noun base, regardless of batchim presence."
+    ],
+    "takeaway": "When these markers link nouns together in a list, they translate to 'and'. When they attach to a singular person before an action verb, they translate to 'with'.",
+    "cultural_notes": "In highly casual street slang, young native speakers will often swap both systems out for the simple connecting particle '~랑/이랑', which behaves exactly like 하고.",
+    "rules": [
+      "Append 과 to nouns with a bottom terminal consonant (e.g., 수박 + 과 = 수박과).",
+      "Append 와 to nouns with an open vowel ending (e.g., 사과 + 와 = 사과와).",
+      "Deploy 하고 uniformly across all verbal casual shopping or listing settings."
+    ],
+    "examples": [
+      {
+        "kr": "사과와 바나나를 사요.",
+        "translated": "I buy apples and bananas. (사과 ends in a vowel, hence matching with 와)."
+      },
+      {
+        "kr": "책상 위에 책과 연필이 있어요.",
+        "translated": "There is a book and a pencil on top of the desk. (책 ends in consonant ㄱ, pairing with 과)."
+      },
+      {
+        "kr": "친구하고 영화를 봐요.",
+        "translated": "I watch a movie with a friend. (하고 functions here as an active partner marker)."
+      },
+      {
+        "kr": "커피하고 빵을 먹었어요.",
+        "translated": "I ate coffee and bread. (Standard spoken listing format)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra13_pr1",
+        "type": "fill",
+        "prompt": "Connect '물' (water) and '우유' (milk) using the formal literary connecting particle framework (과/와).",
+        "answer": "물과 우유"
+      },
+      {
+        "id": "gra13_pr2",
+        "type": "fill",
+        "prompt": "Connect '우유' (milk) and '물' (water) using the formal literary framework (과/와). Watch your vowel ending!",
+        "answer": "우유와 물"
+      },
+      {
+        "id": "gra13_pr3",
+        "type": "fill",
+        "prompt": "Connect '엄마' (mom) and '아빠' (dad) using the conversational spoken marker (하고).",
+        "answer": "엄마하고 아빠"
+      }
+    ]
+  },
+  {
+    "id": "gra14",
+    "meta": ["4 min"],
+    "level": "High Beginner",
+    "icon": "refresh-cw",
+    "title": "~고 있어요 (Progressive Tense)",
+    "description": "Learn how to anchor actions in the immediate present to express ongoing, real-time activity.",
+    "explanation": [
+      "<h3>The Present Continuous</h3>",
+      "While the standard present tense form ($\\sim$아/어요) can mean both 'I do' and 'I am doing' depending on context, <b>~고 있어요</b> is the explicit tool to isolate a **live process**. It states that an action is currently underway right at this exact micro-moment.",
+      "<h3>Mechanical Conjugation</h3>",
+      "This structure behaves similarly to the desire suffix studied in Lesson gra05—it features **zero irregular stem mutations**. You do not need to look for vowel harmony vectors or batchim consonants:",
+      "<br><br>Simply drop the final dictionary element <b>~다</b> from any action verb and weld <b>~고 있어요</b> directly onto the remaining stem.",
+      "<br><br><hl>[Verb Stem] + 고 있어요</hl>",
+      "<h3>Shifting Timelines</h3>",
+      "By changing the existence verb at the very tail end to its past variant (<b>있었어요</b>), you can effortlessly shift the perspective into the past progressive register: 'I <b>was doing</b> X'."
+    ],
+    "takeaway": "This framework is strictly locked to active behavior roots. Descriptive verbs or adjectives (like 'to be cold' or 'to be pretty') can never combine with ~고 있어요.",
+    "cultural_notes": "If a native speaker calls you on the phone and asks '뭐 해요?' (What are you doing?), responding with '~고 있어요' provides a highly precise mental picture of your immediate environment.",
+    "rules": [
+      "Isolate the raw root verb stem by stripping away the infinitive 다 character.",
+      "Fuse 고 있어요 directly to the stem frame without using a whitespace split.",
+      "Never attach this grammatical modifier to descriptive adjectives."
+    ],
+    "examples": [
+      {
+        "kr": "지금 한국어를 배우고 있어요.",
+        "translated": "I am learning Korean right now. (배우다 $\\rightarrow$ 배우 + 고 있어요)."
+      },
+      {
+        "kr": "친구는 음악을 듣고 있어요.",
+        "translated": "My friend is listening to music. (듣다 $\\rightarrow$ 듣 + 고 있어요)."
+      },
+      {
+        "kr": "동생은 지금 자고 있어요.",
+        "translated": "My younger sibling is sleeping right now. (자다 $\\rightarrow$ 자 + 고 있어요)."
+      },
+      {
+        "kr": "아까 책을 읽고 있었어요.",
+        "translated": "I was reading a book earlier. (Demonstrates past progressive variation via 있었어요)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra14_pr1",
+        "type": "fill",
+        "prompt": "Convert '먹다' (to eat) into the real-time progressive tense phrase meaning 'I am eating'.",
+        "answer": "먹고 있어요"
+      },
+      {
+        "id": "gra14_pr2",
+        "type": "fill",
+        "prompt": "Convert '전화하다' (to telephone/call) into 'I am calling/telephoning'.",
+        "answer": "전화하고 있어요"
+      },
+      {
+        "id": "gra14_pr3",
+        "type": "fill",
+        "prompt": "Convert '가다' (to go) into the real-time progressive tense form.",
+        "answer": "가고 있어요"
+      }
+    ]
+  },
+  {
+    "id": "gra15",
+    "meta": ["5 min"],
+    "level": "High Beginner",
+    "icon": "shopping-bag",
+    "title": "주세요 (Requesting & Ordering)",
+    "description": "Navigate transactional and social landscapes politely by mastering imperative item requests and service favors.",
+    "explanation": [
+      "<h3>The Polite Imperative</h3>",
+      "The phrase <b>주세요 (ju-se-yo)</b> is derived from the honorific conjugation of the verb <b>주다 (to give)</b>. When placed in a sentence, it maps to the English directive: <b>'Please give me [Noun]'</b>.",
+      "<h3>Syntax Setup: Item Sourcing</h3>",
+      "To request a physical object (like a menu item, water, or a bill), place the noun at the front of the block, tag it with the proper object marker (을/를), and close the line with 주세요. In everyday interactions, the object particle is often omitted for brevity.",
+      "<br><br><hl>[Noun] + (을/를) 주세요</hl>",
+      "<h3>Advanced Integration: Action Favors</h3>",
+      "While requesting items is useful, you can also ask someone to *perform a task* for you. To do this, conjugate the action verb into the standard present tense form ($\\sim$아/어), drop the '요' tail, and weld <b>~주세요</b> right onto it. This transforms 'to buy' (사다) into 'please buy it for me' (사 주세요)."
+    ],
+    "takeaway": "Using 주세요 strikes the absolute perfect acoustic baseline for customer service interactions throughout South Korea.",
+    "cultural_notes": "When entering a traditional restaurant, calling out to the staff '이모님, 물 좀 주세요!' (Auntie, some water please!) is widely accepted and considered culturally warm and polite.",
+    "rules": [
+      "Place target object nouns directly ahead of the standalone phrase 주세요.",
+      "Combine ~주세요 with present-tense verb bases to form polite, actionable task favors (e.g., 도와주세요 = please help me)."
+    ],
+    "examples": [
+      {
+        "kr": "물 주세요.",
+        "translated": "Water, please. (Everyday direct item ordering script)."
+      },
+      {
+        "kr": "메뉴판을 주세요.",
+        "translated": "Please give me the menu board. (Features formal deployment of the object marker 을)."
+      },
+      {
+        "kr": "이것을 사 주세요.",
+        "translated": "Please buy this for me. (Action favor pattern derived from 사다)."
+      },
+      {
+        "kr": "잠시만 기다려 주세요.",
+        "translated": "Please wait for a brief moment. (Action favor pattern derived from 기다리다)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra15_pr1",
+        "type": "fill",
+        "prompt": "Form the Korean phrase for 'Coffee, please.'",
+        "answer": "커피 주세요"
+      },
+      {
+        "id": "gra15_pr2",
+        "type": "fill",
+        "prompt": "Form the command favor 'Please write it' using the base verb stem '써' (from 쓰다 $\\rightarrow$ to write) joined to 주세요.",
+        "answer": "써 주세요"
+      },
+      {
+        "id": "gra15_pr3",
+        "type": "fill",
+        "prompt": "Request the check/bill in a restaurant using the noun '계산서' (bill) paired with please give.",
+        "answer": "계산서 주세요"
+      }
+    ]
+  }
+]

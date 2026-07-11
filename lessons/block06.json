@@ -1,0 +1,326 @@
+[
+  {
+    "id": "gra21",
+    "meta": ["6 min"],
+    "level": "Intermediate",
+    "icon": "help-circle",
+    "title": "~기 때문에 (Causal Reasoning - Objective)",
+    "description": "Express explicit, rock-solid cause and effect relationships using the formal, objective reasoning framework.",
+    "explanation": [
+      "<h3>The Objective Cause</h3>",
+      "When you need to state a clear, logical reason for a situation, <b>~기 때문에</b> serves as the definitive tool. It maps directly to the English phrase <b>'because'</b> or <b>'due to the fact that'</b>.",
+      "<h3>The Two-Part Architecture</h3>",
+      "This structure transforms a dynamic verb or adjective into a stationary noun clause using the nominalizing suffix <b>~기</b>, and pairs it with <b>때문에</b> (because of):",
+      "<br><br><hl>[Verb/Adj Stem] + 기 때문에</hl>",
+      "<h3>The Rule of Command Restrictions</h3>",
+      "Because $\\sim$기 때문에 is deeply objective and factual, it carries a strict grammatical restriction: <b>You cannot use it in the first clause if the second clause is an imperative command (~주세요) or a suggestive proposition (~읍시다)</b>. If you want to say 'Because it is raining, let's take an umbrella,' you must use the alternative causal marker studied in Lesson gra22."
+    ],
+    "takeaway": "Drop the dictionary ~다 tail from any verb or adjective stem and anchor 기 때문에 directly to it without checking for vowel harmony or consonants.",
+    "cultural_notes": "In news broadcasts, academic journals, and professional presentations, ~기 때문에 is heavily preferred over alternate causal links because it sounds deeply analytical and unbiased.",
+    "rules": [
+      "Weld 기 때문에 straight onto raw stems with no intervening whitespace tracking.",
+      "Never conclude a sentence using an imperative or suggestive template when linking via this particle.",
+      "To pair this structure directly with a pure noun, drop the 기 suffix entirely and attach 때문에 straight to the noun (e.g., 비 때문에 = because of the rain)."
+    ],
+    "examples": [
+      {
+        "kr": "비가 오기 때문에 안 가요.",
+        "translated": "Because it is raining, I am not going. (Factual statement with a standard negative conclusion)."
+      },
+      {
+        "kr": "바쁘기 때문에 내일 만나요.",
+        "translated": "Because I am busy, we are meeting tomorrow. (Explains a scheduling reality objectively)."
+      },
+      {
+        "kr": "돈이 없기 때문에 그것을 사지 못해요.",
+        "translated": "Because I do not have money, I cannot buy that. (Clear cause-and-effect tracking)."
+      },
+      {
+        "kr": "외국인이기 때문에 한국어를 배워요.",
+        "translated": "Because I am a foreigner, I learn Korean. (Combines with the 이다 identity verb stem)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra21_pr1",
+        "type": "fill",
+        "prompt": "Apply the causal modifier to '먹다' (to eat) to state the clause 'Because I eat...'.",
+        "answer": "먹기 때문에"
+      },
+      {
+        "id": "gra21_pr2",
+        "type": "fill",
+        "prompt": "Apply the causal modifier to '공부하다' (to study) to state 'Because I study...'.",
+        "answer": "공부하기 때문에"
+      },
+      {
+        "id": "gra21_pr3",
+        "type": "fill",
+        "prompt": "Form the pure noun cause phrase for 'Because of the exam' using 시험 (exam) and 때문에.",
+        "answer": "시험 때문에"
+      }
+    ]
+  },
+  {
+    "id": "gra22",
+    "meta": ["6 min"],
+    "level": "Intermediate",
+    "icon": "message-square",
+    "title": "~(으)니까 (Causal Reasoning - Subjective)",
+    "description": "Master conversational, action-inducing reasoning that allows you to issue suggestions, requests, and commands.",
+    "explanation": [
+      "<h3>The Interactive Catalyst</h3>",
+      "While $\\sim$기 때문에 handles dry, objective facts, <b>~(으)니까</b> is the expressive workhorse of live interaction. It states a subjective reason or personal realization that serves as the explicit justification for a request, suggestion, or command.",
+      "<h3>The Structural Tracking Fork</h3>",
+      "This suffix requires a batchim floor analysis of the verb or adjective stem before attachment:",
+      "<ul>",
+      "  <li><b>Open Vowel Roots:</b> Stems finishing cleanly in a vowel append <b>~니까</b> directly to the terminal edge (e.g., 가다 $\\rightarrow$ <b>가니까</b>).</li>",
+      "  <li><b>Consonant Floor Roots:</b> Stems that have a bottom batchim consonant receive an acoustic padding cushion, appending <b>~으니까</b> instead (e.g., 먹다 $\\rightarrow$ <b>먹으니까</b>).</li>",
+      "</ul>",
+      "<h3>The Freedom of Suggestion</h3>",
+      "The true superpower of $\\sim$(으)니까 is its compatibility with commands. If your final sentence ends in <b>~주세요</b> (Please do) or <b>~읍시다</b> (Let's do), you **must** use ~(으)니까 to state your underlying reason."
+    ],
+    "takeaway": "Think of ~(으)니까 as 'Now that X is true, let's do Y' or 'Since X is the case, please do Y.'",
+    "cultural_notes": "Because it leans subjective, native speakers use this particle continuously when defending their choices in an argument or offering excuses for minor mistakes.",
+    "rules": [
+      "Affix 니까 directly to open vowel bases without adding padding blocks.",
+      "Deploy the padded 으니까 modifier when tracking over consonant-heavy batchim formations.",
+      "Always default to this particle if the final clause issues an active directive or proposal."
+    ],
+    "examples": [
+      {
+        "kr": "날씨가 추우니까 옷을 입으세요.",
+        "translated": "Since the weather is cold, please put on some clothes. (Pairs flawlessly with an imperative request)."
+      },
+      {
+        "kr": "시간이 없으니까 빨리 갑시다.",
+        "translated": "Since we have no time, let's go quickly. (Pairs flawlessly with a 'let's do' proposal)."
+      },
+      {
+        "kr": "제가 살 테니까 많이 드세요.",
+        "translated": "Since I am buying, please eat a lot. (Highly common hospitality phrasing)."
+      },
+      {
+        "kr": "길이 막히니까 지하철을 타세요.",
+        "translated": "Since the roads are congested, take the subway."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra22_pr1",
+        "type": "fill",
+        "prompt": "Apply the subjective causal modifier to '보다' (to watch/see) to state 'Since I watch...'.",
+        "answer": "보니까"
+      },
+      {
+        "id": "gra22_pr2",
+        "type": "fill",
+        "prompt": "Apply the subjective causal modifier to '좋다' (to be good) to state 'Since it is good...'.",
+        "answer": "좋으니까"
+      },
+      {
+        "id": "gra22_pr3",
+        "type": "fill",
+        "prompt": "Form the clause 'Since I am busy' using the stem 바쁘 (from 바쁘다).",
+        "answer": "바쁘니까"
+      }
+    ]
+  },
+  {
+    "id": "gra23",
+    "meta": ["5 min"],
+    "level": "Intermediate",
+    "icon": "shield-alert",
+    "title": "~(으)시~ (Subject Honorific Infix)",
+    "description": "Navigate societal hierarchy elegantly by embedding the universal marker of respect straight into your verb stems.",
+    "explanation": [
+      "<h3>The Golden Rule of Respect</h3>",
+      "Korean culture places a deep structural emphasis on hierarchy, age, and professional status. The honorific infix <b>~(으)시~</b> is the structural mechanism used to show respect to the **person performing the action** of your sentence. You use this when speaking about elders, bosses, teachers, or customers.",
+      "<h3>The Structural Infix Squeeze</h3>",
+      "This modifier is an **infix**, meaning it squeezes into the center of a verb, nesting right between the raw stem and the final tense suffix. Look for the consonant footprint:",
+      "<ul>",
+      "  <li><b>Open Vowel Roots:</b> Add <b>~시~</b> to the stem (e.g., 가다 $\\rightarrow$ 가 + 시 + 다 $\\rightarrow$ <b>가시다</b>).</li>",
+      "  <li><b>Consonant Floor Roots:</b> Add <b>~으시~</b> to the stem as a sound cushion (e.g., 읽다 $\\rightarrow$ 읽 + 으시 + 다 $\\rightarrow$ <b>읽으시다</b>).</li>",
+      "</ul>",
+      "<h3>Conjugating the Infix into the Present Tense</h3>",
+      "When you take an honorific stem like 가시다 and bring it down into standard polite conversational present tense ($\\sim$아/어요), the combination of <b>시 + 어요</b> undergoes a permanent structural contraction into <b>셔요</b>, which modern Korean normalizes as <b>~세요</b>."
+    ],
+    "takeaway": "Never use the ~(으)시~ infix when discussing your own actions. It is strictly used to elevate *other* people.",
+    "cultural_notes": "Using this honorific is mandatory in corporate workspaces. Failing to add it when addressing or talking about a manager is considered a serious breach of social etiquette.",
+    "rules": [
+      "Insert 시 directly after open vowel verb stems prior to processing tense frameworks.",
+      "Deploy the cushioned 으시 layer when tracking over standard consonant batchim structures.",
+      "Normalize the combination of the honorific infix in the present tense to output as 세요."
+    ],
+    "examples": [
+      {
+        "kr": "선생님이 한국어를 가르치세요.",
+        "translated": "The teacher teaches Korean. (가르치다 + 시 + 어요 contracts cleanly into 가르치세요)."
+      },
+      {
+        "kr": "어머님이 책을 읽으세요.",
+        "translated": "Mother reads a book. (읽다 features a batchim, requiring the 으시 cushion $\\rightarrow$ 읽으세요)."
+      },
+      {
+        "kr": "사장님이 지금 오셨어요.",
+        "translated": "The company president has arrived just now. (Demonstrates past honorific integration: 오 + 시 + 었어요 $\\rightarrow$ 오셨어요)."
+      },
+      {
+        "kr": "아버지께서 일하세요.",
+        "translated": "Father works. (공부하다/일하다 roots transform smoothly into 하세요 forms)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra23_pr1",
+        "type": "fill",
+        "prompt": "Convert the plain present tense verb '가요' (goes) into its polite present honorific form (goes - respecting the subject).",
+        "answer": "가세요"
+      },
+      {
+        "id": "gra23_pr2",
+        "type": "fill",
+        "prompt": "Convert '앉다' (to sit) into its present honorific form (respecting the subject).",
+        "answer": "앉으세요"
+      },
+      {
+        "id": "gra23_pr3",
+        "type": "fill",
+        "prompt": "Shift the honorific verb '오세요' into its past tense honorific variant 'came' (polite respected).",
+        "answer": "오셨어요"
+      }
+    ]
+  },
+  {
+    "id": "gra24",
+    "meta": ["5 min"],
+    "level": "Intermediate",
+    "icon": "corner-down-right",
+    "title": "특수 존칭어 (Special Honorific Vocabulary)",
+    "description": "Unlock vocabulary tracking switches where common daily words transform into unique honorific variants.",
+    "explanation": [
+      "<h3>Lexical Upgrades</h3>",
+      "While inserting the $\\sim$(으)시$$\\sim$ infix works on most standard verbs, Korean features a core set of highly common words that undergo a **complete lexical transformation** when upgrading to honorific status. You cannot simply patch these basic words; you must replace them with entirely separate structural terms.",
+      "<h3>The Essential Honorific Lexicon Table</h3>",
+      "Study these absolute vocabulary conversions carefully:",
+      "<table border='1' style='border-collapse: collapse; width: 100%; text-align: center;'>",
+      "  <tr><th>English Core Meaning</th><th>Plain Register Base</th><th>Honorific Replacement Word</th></tr>",
+      "  <tr><td>To eat / drink</td><td>먹다 / 마시다</td><td><b>드시다 (잡수시다)</b></td></tr>",
+      "  <tr><td>To sleep</td><td>자다</td><td><b>주무시다</b></td></tr>",
+      "  <tr><td>To exist / stay</td><td>있다</td><td><b>계시다</b></td></tr>",
+      "  <tr><td>To speak / talk</td><td>말하다</td><td><b>말씀하시다</b></td></tr>",
+      "  <tr><td>To die</td><td>죽다</td><td><b>돌아가시다</b></td></tr>",
+      "</table>",
+      "<h3>The Dual Life of '있다'</h3>",
+      "Be exceptionally careful with <b>있다</b>. If you mean someone is physically located somewhere, it upgrades to <b>계시다</b>. However, if you mean someone *owns* or *possesses* an object, it upgrades instead to the standard honorific stem <b>있으시다</b>."
+    ],
+    "takeaway": "Using plain words like '먹다' or '자다' when describing an elder or boss instantly breaks the honorific tone of your sentence, even if you try to fix it at the end.",
+    "cultural_notes": "When eating a meal with elders, it is culturally polite to wait for them to lift their spoon first, and say '맛있게 드세요' (Please eat deliciously) using the honorific vocabulary frame.",
+    "rules": [
+      "Swap out 먹다 and 마시다 completely for 드시다 when describing an esteemed party's consumption habits.",
+      "Deploy 계시다 strictly for honorific physical location existence.",
+      "Deploy 주무시다 as the absolute substitute for sleep patterns."
+    ],
+    "examples": [
+      {
+        "kr": "할머니가 주무세요.",
+        "translated": "Grandmother is sleeping. (자다 is completely discarded in favor of 주무시다 $\\rightarrow$ 주무세요)."
+      },
+      {
+        "kr": "부장님이 사무실에 계세요.",
+        "translated": "The department manager is currently in the office. (있다 upgrades to 계시다 to map spatial existence)."
+      },
+      {
+        "kr": "맛있게 드세요.",
+        "translated": "Please eat deliciously. / Enjoy your meal. (Standard dining directive built on 드시다)."
+      },
+      {
+        "kr": "할아버지는 집안에 돈이 있으세요.",
+        "translated": "Grandfather has money inside the house. (Upgrades to 있으시다 because it tracks property possession)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra24_pr1",
+        "type": "fill",
+        "prompt": "Convert '자요' (sleeps) into its proper honorific vocabulary present tense alternative.",
+        "answer": "주무세요"
+      },
+      {
+        "id": "gra24_pr2",
+        "type": "fill",
+        "prompt": "Form the polite honorific command meaning 'Please eat' using the upgraded vocabulary base.",
+        "answer": "드세요"
+      },
+      {
+        "id": "gra24_pr3",
+        "type": "fill",
+        "prompt": "Say 'The teacher is at school' using 학교에, 선생님, and the upgraded location verb.",
+        "answer": "선생님이 학교에 계세요"
+      }
+    ]
+  },
+  {
+    "id": "gra25",
+    "meta": ["4 min"],
+    "level": "Intermediate",
+    "icon": "arrow-up-right",
+    "title": "께 / 께서 & 께 드려요 (Honorific Markers)",
+    "description": "Complete your honorific tracking suite by upgrading standard subject, topic, and dative particles.",
+    "explanation": [
+      "<h3>The Suffix Upgrade Matrix</h3>",
+      "To achieve comprehensive grammatical symmetry, elevating your verbs with $\\sim$(으)시$\\sim$ isn't enough. You must also swap out your foundational subject and target particles for their elite honorific counterparts:",
+      "<ul>",
+      "  <li><b>이/가 (Subject Marker) $\\rightarrow$ 께서 (kkeseyo):</b> Replaces the basic subject line indicators when flagging an esteemed actor.</li>",
+      "  <li><b>은/는 (Topic Marker) $\\rightarrow$ 께서는 (kkeseoneun):</b> Replaces the standard topic line frame.</li>",
+      "  <li><b>~에게 / ~한테 (To Someone) $\\rightarrow$ 께 (kke):</b> Replaces directional dative target markers when sending items up to a high-status recipient.</li>",
+      "</ul>",
+      "<h3>The Humble Giver Rule</h3>",
+      "When delivering a gift or information upward to an esteemed individual using the particle <b>께 (to)</b>, you cannot use the plain verb 주다 (to give). You must lower yourself using the dedicated humble action verb <b>드리다 (to offer/give humbly)</b>."
+    ],
+    "takeaway": "Think of 께서 as a respectful spotlight, and 께/드리다 as a structural lowering of yourself to push an offering upward.",
+    "cultural_notes": "When celebrating an elder's birthday, instead of saying the plain '생일 축하해', natives deploy the upgraded framework: '생신 축하드립니다' (I humbly offer congratulations on your esteemed day of birth).",
+    "rules": [
+      "Substitute 이/가 instantly for 께서 when marking high-status family members or corporate supervisors.",
+      "Pair the directional destination particle 께 with the humble delivery action verb 드리다."
+    ],
+    "examples": [
+      {
+        "kr": "어머니께서 김치를 만드세요.",
+        "translated": "Mother makes Kimchi. (Subject marker 이/가 upgrades to 께서, matching the verb honorific 만드세요)."
+      },
+      {
+        "kr": "선생님께 선물을 드렸어요.",
+        "translated": "I gave a gift to the teacher. (Directional target particle upgrades to 께, while 'gave' lowers to 드렸어요)."
+      },
+      {
+        "kr": "할아버지께서 한국에 오세요.",
+        "translated": "Grandfather is coming to Korea. (Symmetric elevation of subject marker and action path)."
+      },
+      {
+        "kr": "부장님께 말씀드렸어요.",
+        "translated": "I spoke to the department manager. (Combines the target 께 with the humble word for speech: 말씀드리다)."
+      }
+    ],
+    "practice": [
+      {
+        "id": "gra25_pr1",
+        "type": "fill",
+        "prompt": "Replace the missing particle with the honorific subject marker: 아버님____ 오세요.",
+        "answer": "아버님께서"
+      },
+      {
+        "id": "gra25_pr2",
+        "type": "fill",
+        "prompt": "Form the phrase 'To the teacher' using 선생님 and the honorific destination suffix.",
+        "answer": "선생님께"
+      },
+      {
+        "id": "gra25_pr3",
+        "type": "fill",
+        "prompt": "Provide the polite past tense humble verb meaning 'I gave/offered' (to a superior).",
+        "answer": "드렸어요"
+      }
+    ]
+  }
+]
